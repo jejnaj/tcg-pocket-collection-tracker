@@ -1,0 +1,21 @@
+{
+  "stats": {
+    "title": "Thank you for being part of our community",
+    "description": "At present, our community of {{usersCount}} users has collectively tracked {{collectionCount}} total cards!"
+  },
+  "dontHaveCards": {
+    "title": "You don't have any cards logged yet!",
+    "description": "Head over to the collection page to add your first card or hit the login button to create an account."
+  },
+  "usersOurCommunity": {
+    "youAre": "Amazing, that you are part of the",
+    "join": "Join the",
+    "text": "users in our community! 🎉"
+  },
+  "all": "all the packs",
+  "youHave": "You have",
+  "uniqueCards": "Unique cards",
+  "numberOfCopies-single": "with at least 1 copy",
+  "numberOfCopies-plural": "with at least {{numberFilter}} copies",
+  "cardsTotal": "cards in total"
+}

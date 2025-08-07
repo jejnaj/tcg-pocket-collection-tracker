@@ -1,0 +1,4 @@
+{
+  "open": "Deberias abrir",
+  "text": "¡Hay un <strong>{{chancePercentage}}%</strong> de probabilidades de que aparezca una nueva carta!"
+}

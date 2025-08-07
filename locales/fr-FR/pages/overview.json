@@ -1,0 +1,21 @@
+{
+  "stats": {
+    "title": "Merci de faire partie de notre communauté",
+    "description": "Actuellement, notre communauté de {{usersCount}} utilisateurs a enregistré au total {{collectionCount}} cartes !"
+  },
+  "dontHaveCards": {
+    "title": "Vous n'avez ajouté aucune carte pour le moment !",
+    "description": "Rendez-vous à la page Collection pour ajouter votre première carte ou cliquez sur \"Se connecter\" pour créer un compte."
+  },
+  "usersOurCommunity": {
+    "youAre": "Incroyable, vous êtes l'un des",
+    "join": "Rejoignez les",
+    "text": "utilisateurs de notre communauté 🎉"
+  },
+  "all": "tous les paquets",
+  "youHave": "Vous possédez",
+  "uniqueCards": "cartes uniques",
+  "numberOfCopies-single": "avec au moins 1 exemplaire",
+  "numberOfCopies-plural": "avec au moins {{numberFilter}} exemplaires",
+  "cardsTotal": "cartes au total"
+}
