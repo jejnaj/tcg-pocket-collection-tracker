@@ -1,7 +1,6 @@
 {
   "text": {
     "chanceToPull": "Chance de l'obtenir : {{percent}}%",
-    "tradeTokens": "Jetons d'échange",
     "hp": "PV",
     "cardType": "Type de carte",
     "evolutionType": "Type d'évolution",
@@ -15,7 +14,10 @@
     "retreat": "Retraite",
     "ability": "Talent",
     "abilityEffect": "Effet du talent",
-    "details": "Détails"
+    "details": "Détails",
+    "baby": "Bébé",
+    "updated": "Actualisé",
+    "alternateVersions": "Versions alternatives"
   },
   "cardType": {
     "pokémon": "Pokémon",

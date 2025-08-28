@@ -3,13 +3,6 @@
   "collection": "Coleção",
   "trade": "Troca",
   "selectLanguage": "Selecionar idioma",
-  "languages": {
-    "es-ES": "Spanish",
-    "en-US": "English",
-    "pt-BR": "Português",
-    "fr-FR": "French",
-    "it-IT": "Italiano"
-  },
   "community": "Comunidade ↗",
   "login": "Entrar",
   "signUp": "Entrar / Cadastrar-se",
