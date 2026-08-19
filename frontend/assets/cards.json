@@ -5876,7 +5876,7 @@
     ],
     "weakness": "fighting",
     "retreat": 1,
-    "rarity": "◊foil",
+    "rarity": "◊",
     "ex": false,
     "baby": false,
     "set_details": "geneticapex(a1)",
@@ -5904,7 +5904,7 @@
     ],
     "weakness": "fighting",
     "retreat": 1,
-    "rarity": "◊foil",
+    "rarity": "◊",
     "ex": false,
     "baby": false,
     "set_details": "geneticapex(a1)",
@@ -61296,7 +61296,7 @@
     "baby": false,
     "set_details": "megarising(b1)",
     "pack": "megablazikenpack",
-    "alternate_versions": [799617, 799680, 799744],
+    "alternate_versions": [799617, 799681, 799745],
     "artist": "Teeziro",
     "internal_id": 799617
   },
@@ -61323,14 +61323,14 @@
     },
     "weakness": "fighting",
     "retreat": 1,
-    "rarity": "◊◊foil",
+    "rarity": "◊◊",
     "ex": false,
     "baby": false,
     "set_details": "megarising(b1)",
     "pack": "megaaltariapack",
-    "alternate_versions": [799617, 799680, 799744],
+    "alternate_versions": [799617, 799681, 799745],
     "artist": "Tika Matsuno",
-    "internal_id": 799680
+    "internal_id": 799681
   },
   {
     "expansion": "B1",
@@ -61355,14 +61355,14 @@
     },
     "weakness": "fighting",
     "retreat": 1,
-    "rarity": "◊◊foil",
+    "rarity": "◊◊",
     "ex": false,
     "baby": false,
     "set_details": "megarising(b1)",
     "pack": "megagyaradospack",
-    "alternate_versions": [799617, 799680, 799744],
+    "alternate_versions": [799617, 799681, 799745],
     "artist": "kawayoo",
-    "internal_id": 799744
+    "internal_id": 799745
   },
   {
     "expansion": "B1",
