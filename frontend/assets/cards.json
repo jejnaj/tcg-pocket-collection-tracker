@@ -51,7 +51,7 @@
     "baby": false,
     "set_details": "geneticapex(a1)",
     "pack": "mewtwopack",
-    "alternate_versions": [65665, 406728, 721153],
+    "alternate_versions": [65665, 406728, 721152],
     "artist": "Kurata So",
     "internal_id": 65665
   },
@@ -961,7 +961,7 @@
     "baby": false,
     "set_details": "geneticapex(a1)",
     "pack": "charizardpack",
-    "alternate_versions": [67713, 724609],
+    "alternate_versions": [67713, 724608],
     "artist": "kantaro",
     "internal_id": 67713
   },
@@ -1533,7 +1533,7 @@
     "baby": false,
     "set_details": "geneticapex(a1)",
     "pack": "pikachupack",
-    "alternate_versions": [68993, 407048, 726401],
+    "alternate_versions": [68993, 407048, 726400],
     "artist": "Nelnal",
     "internal_id": 68993
   },
@@ -2505,7 +2505,7 @@
     "baby": false,
     "set_details": "geneticapex(a1)",
     "pack": "charizardpack",
-    "alternate_versions": [71169, 464648, 728129],
+    "alternate_versions": [71169, 464648, 728128],
     "artist": "Akira Komayama",
     "internal_id": 71169
   },
@@ -2537,7 +2537,7 @@
     "baby": false,
     "set_details": "geneticapex(a1)",
     "pack": "charizardpack",
-    "alternate_versions": [71234, 464712, 728258, 743684, 12584144],
+    "alternate_versions": [71234, 464712, 728256, 743684, 12584144],
     "artist": "5ban Graphics",
     "internal_id": 71234
   },
@@ -2793,7 +2793,7 @@
     "baby": false,
     "set_details": "geneticapex(a1)",
     "pack": "pikachupack",
-    "alternate_versions": [71810, 603784, 729602],
+    "alternate_versions": [71810, 603784, 729600],
     "artist": "kirisAki",
     "internal_id": 71810
   },
@@ -3443,7 +3443,7 @@
     "baby": false,
     "set_details": "geneticapex(a1)",
     "pack": "mewtwopack",
-    "alternate_versions": [73281, 407368, 730753],
+    "alternate_versions": [73281, 407368, 730752],
     "artist": "Nisata Niso",
     "internal_id": 73281
   },
@@ -3769,7 +3769,7 @@
     "baby": false,
     "set_details": "geneticapex(a1)",
     "pack": "mewtwopack",
-    "alternate_versions": [73986, 530632, 731714, 743748],
+    "alternate_versions": [73986, 530632, 731712, 743748],
     "artist": "Yuu Nishida",
     "internal_id": 73986
   },
@@ -4105,7 +4105,7 @@
     "baby": false,
     "set_details": "geneticapex(a1)",
     "pack": "charizardpack",
-    "alternate_versions": [74753, 407560, 733185],
+    "alternate_versions": [74753, 407560, 733184],
     "artist": "match",
     "internal_id": 74753
   },
@@ -5876,7 +5876,7 @@
     ],
     "weakness": "fighting",
     "retreat": 1,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "geneticapex(a1)",
@@ -5904,7 +5904,7 @@
     ],
     "weakness": "fighting",
     "retreat": 1,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "geneticapex(a1)",
@@ -6204,7 +6204,7 @@
     "baby": false,
     "set_details": "geneticapex(a1)",
     "pack": "charizardpack",
-    "alternate_versions": [79553, 82565, 741953],
+    "alternate_versions": [79553, 82565, 741952],
     "artist": "kirisAki",
     "internal_id": 79553
   },
@@ -6296,7 +6296,7 @@
     "baby": false,
     "set_details": "geneticapex(a1)",
     "pack": "mewtwopack",
-    "alternate_versions": [79809, 82821, 742337],
+    "alternate_versions": [79809, 82821, 742336],
     "artist": "Hideki Ishikawa",
     "internal_id": 79809
   },
@@ -6342,7 +6342,7 @@
     "baby": false,
     "set_details": "geneticapex(a1)",
     "pack": "charizardpack",
-    "alternate_versions": [79937, 82949, 742593],
+    "alternate_versions": [79937, 82949, 742592],
     "artist": "Yuu Nishida",
     "internal_id": 79937
   },
@@ -7538,7 +7538,7 @@
     "baby": false,
     "set_details": "geneticapex(a1)",
     "pack": "charizardpack",
-    "alternate_versions": [79553, 82565, 741953],
+    "alternate_versions": [79553, 82565, 741952],
     "artist": "saino misaki",
     "internal_id": 82565
   },
@@ -7630,7 +7630,7 @@
     "baby": false,
     "set_details": "geneticapex(a1)",
     "pack": "mewtwopack",
-    "alternate_versions": [79809, 82821, 742337],
+    "alternate_versions": [79809, 82821, 742336],
     "artist": "Hideki Ishikawa",
     "internal_id": 82821
   },
@@ -7676,7 +7676,7 @@
     "baby": false,
     "set_details": "geneticapex(a1)",
     "pack": "charizardpack",
-    "alternate_versions": [79937, 82949, 742593],
+    "alternate_versions": [79937, 82949, 742592],
     "artist": "GIDORA",
     "internal_id": 82949
   },
@@ -8249,7 +8249,7 @@
     "baby": false,
     "set_details": "mythicalisland(a1a)",
     "pack": "mewpack",
-    "alternate_versions": [131393, 723137],
+    "alternate_versions": [131393, 723136],
     "artist": "Shigenori Negishi",
     "internal_id": 131393
   },
@@ -8281,7 +8281,7 @@
     "baby": false,
     "set_details": "mythicalisland(a1a)",
     "pack": "mewpack",
-    "alternate_versions": [131458, 135556, 723266],
+    "alternate_versions": [131458, 135556, 723264],
     "artist": "Yoshioka",
     "internal_id": 131458
   },
@@ -8649,7 +8649,7 @@
     "baby": false,
     "set_details": "mythicalisland(a1a)",
     "pack": "mewpack",
-    "alternate_versions": [132290, 135684, 727298],
+    "alternate_versions": [132290, 135684, 727296],
     "artist": "LINNE",
     "internal_id": 132290
   },
@@ -9443,7 +9443,7 @@
     "baby": false,
     "set_details": "mythicalisland(a1a)",
     "pack": "mewpack",
-    "alternate_versions": [134082, 135812, 735298],
+    "alternate_versions": [134082, 135812, 735296],
     "artist": "kantaro",
     "internal_id": 134082
   },
@@ -10006,7 +10006,7 @@
     "baby": false,
     "set_details": "mythicalisland(a1a)",
     "pack": "mewpack",
-    "alternate_versions": [135425, 136325, 743105],
+    "alternate_versions": [135425, 136325, 743104],
     "artist": "En Morikura",
     "internal_id": 135425
   },
@@ -10066,7 +10066,7 @@
     "baby": false,
     "set_details": "mythicalisland(a1a)",
     "pack": "mewpack",
-    "alternate_versions": [131458, 135556, 723266],
+    "alternate_versions": [131458, 135556, 723264],
     "artist": "rika",
     "internal_id": 135556
   },
@@ -10126,7 +10126,7 @@
     "baby": false,
     "set_details": "mythicalisland(a1a)",
     "pack": "mewpack",
-    "alternate_versions": [132290, 135684, 727298],
+    "alternate_versions": [132290, 135684, 727296],
     "artist": "aspara",
     "internal_id": 135684
   },
@@ -10182,7 +10182,7 @@
     "baby": false,
     "set_details": "mythicalisland(a1a)",
     "pack": "mewpack",
-    "alternate_versions": [134082, 135812, 735298],
+    "alternate_versions": [134082, 135812, 735296],
     "artist": "OKACHEKE",
     "internal_id": 135812
   },
@@ -10401,7 +10401,7 @@
     "baby": false,
     "set_details": "mythicalisland(a1a)",
     "pack": "mewpack",
-    "alternate_versions": [135425, 136325, 743105],
+    "alternate_versions": [135425, 136325, 743104],
     "artist": "En Morikura",
     "internal_id": 136325
   },
@@ -11149,7 +11149,7 @@
     "baby": false,
     "set_details": "space-timesmackdown(a2)",
     "pack": "dialgapack",
-    "alternate_versions": [198018, 206788, 722882, 12590352],
+    "alternate_versions": [198018, 206788, 722880, 12590352],
     "artist": "Narumi Sato",
     "internal_id": 198018
   },
@@ -11317,7 +11317,7 @@
     "baby": false,
     "set_details": "space-timesmackdown(a2)",
     "pack": "palkiapack",
-    "alternate_versions": [198401, 661256, 725633],
+    "alternate_versions": [198401, 661256, 725632],
     "artist": "Masakazu Fukuda",
     "internal_id": 198401
   },
@@ -11951,7 +11951,7 @@
     "baby": false,
     "set_details": "space-timesmackdown(a2)",
     "pack": "palkiapack",
-    "alternate_versions": [199809, 206980, 727873, 805576, 12586000],
+    "alternate_versions": [199809, 206980, 727872, 805576, 12586000],
     "artist": "MINAMINAMI Take",
     "internal_id": 199809
   },
@@ -12035,7 +12035,7 @@
     "baby": false,
     "set_details": "space-timesmackdown(a2)",
     "pack": "everypack",
-    "alternate_versions": [200002, 729730],
+    "alternate_versions": [200002, 729728],
     "artist": "Yoshinobu Saito",
     "internal_id": 200002
   },
@@ -12743,7 +12743,7 @@
     "baby": false,
     "set_details": "space-timesmackdown(a2)",
     "pack": "palkiapack",
-    "alternate_versions": [201602, 207300, 731842],
+    "alternate_versions": [201602, 207300, 731840],
     "artist": "AKIRA EGAWA",
     "internal_id": 201602
   },
@@ -13143,7 +13143,7 @@
     "baby": false,
     "set_details": "space-timesmackdown(a2)",
     "pack": "dialgapack",
-    "alternate_versions": [202498, 207492, 734530],
+    "alternate_versions": [202498, 207492, 734528],
     "artist": "nagimiso",
     "internal_id": 202498
   },
@@ -14658,7 +14658,7 @@
     "baby": false,
     "set_details": "space-timesmackdown(a2)",
     "pack": "dialgapack",
-    "alternate_versions": [205953, 741185],
+    "alternate_versions": [205953, 741184],
     "artist": "Ayaka Yoshida",
     "internal_id": 205953
   },
@@ -14681,7 +14681,7 @@
     "baby": false,
     "set_details": "space-timesmackdown(a2)",
     "pack": "dialgapack",
-    "alternate_versions": [206017, 741441],
+    "alternate_versions": [206017, 741440],
     "artist": "Ryo Ueda",
     "internal_id": 206017
   },
@@ -14704,7 +14704,7 @@
     "baby": false,
     "set_details": "space-timesmackdown(a2)",
     "pack": "palkiapack",
-    "alternate_versions": [206081, 741569],
+    "alternate_versions": [206081, 741568],
     "artist": "Ayaka Yoshida",
     "internal_id": 206081
   },
@@ -14750,7 +14750,7 @@
     "baby": false,
     "set_details": "space-timesmackdown(a2)",
     "pack": "palkiapack",
-    "alternate_versions": [206209, 208773, 741825],
+    "alternate_versions": [206209, 208773, 741824],
     "artist": "akagi",
     "internal_id": 206209
   },
@@ -14842,7 +14842,7 @@
     "baby": false,
     "set_details": "space-timesmackdown(a2)",
     "pack": "dialgapack",
-    "alternate_versions": [206465, 209029, 742849],
+    "alternate_versions": [206465, 209029, 742848],
     "artist": "saino misaki",
     "internal_id": 206465
   },
@@ -14865,7 +14865,7 @@
     "baby": false,
     "set_details": "space-timesmackdown(a2)",
     "pack": "palkiapack",
-    "alternate_versions": [206529, 209093, 742977],
+    "alternate_versions": [206529, 209093, 742976],
     "artist": "Yuu Nishida",
     "internal_id": 206529
   },
@@ -14981,7 +14981,7 @@
     "baby": false,
     "set_details": "space-timesmackdown(a2)",
     "pack": "dialgapack",
-    "alternate_versions": [198018, 206788, 722882, 12590352],
+    "alternate_versions": [198018, 206788, 722880, 12590352],
     "artist": "REND",
     "internal_id": 206788
   },
@@ -15069,7 +15069,7 @@
     "baby": false,
     "set_details": "space-timesmackdown(a2)",
     "pack": "palkiapack",
-    "alternate_versions": [199809, 206980, 727873, 805576, 12586000],
+    "alternate_versions": [199809, 206980, 727872, 805576, 12586000],
     "artist": "miki kudo",
     "internal_id": 206980
   },
@@ -15213,7 +15213,7 @@
     "baby": false,
     "set_details": "space-timesmackdown(a2)",
     "pack": "palkiapack",
-    "alternate_versions": [201602, 207300, 731842],
+    "alternate_versions": [201602, 207300, 731840],
     "artist": "Rond",
     "internal_id": 207300
   },
@@ -15301,7 +15301,7 @@
     "baby": false,
     "set_details": "space-timesmackdown(a2)",
     "pack": "dialgapack",
-    "alternate_versions": [202498, 207492, 734530],
+    "alternate_versions": [202498, 207492, 734528],
     "artist": "Akira Komayama",
     "internal_id": 207492
   },
@@ -15876,7 +15876,7 @@
     "baby": false,
     "set_details": "space-timesmackdown(a2)",
     "pack": "palkiapack",
-    "alternate_versions": [206209, 208773, 741825],
+    "alternate_versions": [206209, 208773, 741824],
     "artist": "akagi",
     "internal_id": 208773
   },
@@ -15968,7 +15968,7 @@
     "baby": false,
     "set_details": "space-timesmackdown(a2)",
     "pack": "dialgapack",
-    "alternate_versions": [206465, 209029, 742849],
+    "alternate_versions": [206465, 209029, 742848],
     "artist": "saino misaki",
     "internal_id": 209029
   },
@@ -15991,7 +15991,7 @@
     "baby": false,
     "set_details": "space-timesmackdown(a2)",
     "pack": "palkiapack",
-    "alternate_versions": [206529, 209093, 742977],
+    "alternate_versions": [206529, 209093, 742976],
     "artist": "Yuu Nishida",
     "internal_id": 209093
   },
@@ -16731,7 +16731,7 @@
     "baby": false,
     "set_details": "triumphantlight(a2a)",
     "pack": "arceuspack",
-    "alternate_versions": [262978, 725826],
+    "alternate_versions": [262978, 725824],
     "artist": "Kazumasa Yasukuni",
     "internal_id": 262978
   },
@@ -17395,7 +17395,7 @@
     "baby": false,
     "set_details": "triumphantlight(a2a)",
     "pack": "arceuspack",
-    "alternate_versions": [264449, 267204, 733633],
+    "alternate_versions": [264449, 267204, 733632],
     "artist": "Tomokazu Komiya",
     "internal_id": 264449
   },
@@ -17801,7 +17801,7 @@
     "baby": false,
     "set_details": "triumphantlight(a2a)",
     "pack": "arceuspack",
-    "alternate_versions": [265346, 735682],
+    "alternate_versions": [265346, 735680],
     "artist": "AKIRA EGAWA",
     "internal_id": 265346
   },
@@ -18341,7 +18341,7 @@
     "baby": false,
     "set_details": "triumphantlight(a2a)",
     "pack": "arceuspack",
-    "alternate_versions": [266562, 267332, 739970],
+    "alternate_versions": [266562, 267332, 739968],
     "artist": "Mizue",
     "internal_id": 266562
   },
@@ -18424,7 +18424,7 @@
     "baby": false,
     "set_details": "triumphantlight(a2a)",
     "pack": "arceuspack",
-    "alternate_versions": [266753, 267717, 742081],
+    "alternate_versions": [266753, 267717, 742080],
     "artist": "Atsushi Furusawa",
     "internal_id": 266753
   },
@@ -18609,7 +18609,7 @@
     "baby": false,
     "set_details": "triumphantlight(a2a)",
     "pack": "arceuspack",
-    "alternate_versions": [264449, 267204, 733633],
+    "alternate_versions": [264449, 267204, 733632],
     "artist": "Yuriko Akase",
     "internal_id": 267204
   },
@@ -18669,7 +18669,7 @@
     "baby": false,
     "set_details": "triumphantlight(a2a)",
     "pack": "arceuspack",
-    "alternate_versions": [266562, 267332, 739970],
+    "alternate_versions": [266562, 267332, 739968],
     "artist": "MINAMINAMI Take",
     "internal_id": 267332
   },
@@ -18850,7 +18850,7 @@
     "baby": false,
     "set_details": "triumphantlight(a2a)",
     "pack": "arceuspack",
-    "alternate_versions": [266753, 267717, 742081],
+    "alternate_versions": [266753, 267717, 742080],
     "artist": "Atsushi Furusawa",
     "internal_id": 267717
   },
@@ -19165,7 +19165,7 @@
     "baby": false,
     "set_details": "shiningrevelry(a2b)",
     "pack": "everypack",
-    "alternate_versions": [327809, 333960, 721473],
+    "alternate_versions": [327809, 333960, 721472],
     "artist": "Yuka Morii",
     "internal_id": 327809
   },
@@ -19277,7 +19277,7 @@
     "baby": false,
     "set_details": "shiningrevelry(a2b)",
     "pack": "everypack",
-    "alternate_versions": [328065, 724225, 743556],
+    "alternate_versions": [328065, 724224, 743556],
     "artist": "mashu",
     "internal_id": 328065
   },
@@ -19305,7 +19305,7 @@
     "baby": false,
     "set_details": "shiningrevelry(a2b)",
     "pack": "everypack",
-    "alternate_versions": [328130, 332356, 724354, 990600],
+    "alternate_versions": [328130, 332356, 724352, 990600],
     "artist": "mashu",
     "internal_id": 328130
   },
@@ -19819,7 +19819,7 @@
     "baby": false,
     "set_details": "shiningrevelry(a2b)",
     "pack": "everypack",
-    "alternate_versions": [329281, 334280, 730113, 12586640],
+    "alternate_versions": [329281, 334280, 730112, 12586640],
     "artist": "imoniii",
     "internal_id": 329281
   },
@@ -20615,7 +20615,7 @@
     "baby": false,
     "set_details": "shiningrevelry(a2b)",
     "pack": "everypack",
-    "alternate_versions": [331073, 737857],
+    "alternate_versions": [331073, 737856],
     "artist": "miki kudo",
     "internal_id": 331073
   },
@@ -21039,7 +21039,7 @@
     "baby": false,
     "set_details": "shiningrevelry(a2b)",
     "pack": "everypack",
-    "alternate_versions": [332033, 740545, 12586192],
+    "alternate_versions": [332033, 740544, 12586192],
     "artist": "HAGIYA Kaoru",
     "internal_id": 332033
   },
@@ -21062,7 +21062,7 @@
     "baby": false,
     "set_details": "shiningrevelry(a2b)",
     "pack": "everypack",
-    "alternate_versions": [332097, 333317, 333377, 742721, 989829],
+    "alternate_versions": [332097, 333317, 333377, 742720, 989829],
     "artist": "saino misaki",
     "internal_id": 332097
   },
@@ -21108,7 +21108,7 @@
     "baby": false,
     "set_details": "shiningrevelry(a2b)",
     "pack": "everypack",
-    "alternate_versions": [332225, 333445, 743489],
+    "alternate_versions": [332225, 333445, 743488],
     "artist": "Teeziro",
     "internal_id": 332225
   },
@@ -21159,7 +21159,7 @@
     "baby": false,
     "set_details": "shiningrevelry(a2b)",
     "pack": "everypack",
-    "alternate_versions": [328130, 332356, 724354, 990600],
+    "alternate_versions": [328130, 332356, 724352, 990600],
     "artist": "danciao",
     "internal_id": 332356
   },
@@ -21596,7 +21596,7 @@
     "baby": false,
     "set_details": "shiningrevelry(a2b)",
     "pack": "everypack",
-    "alternate_versions": [332097, 333317, 333377, 742721, 989829],
+    "alternate_versions": [332097, 333317, 333377, 742720, 989829],
     "artist": "saino misaki",
     "internal_id": 333317
   },
@@ -21642,7 +21642,7 @@
     "baby": false,
     "set_details": "shiningrevelry(a2b)",
     "pack": "everypack",
-    "alternate_versions": [332225, 333445, 743489],
+    "alternate_versions": [332225, 333445, 743488],
     "artist": "Teeziro",
     "internal_id": 333445
   },
@@ -21865,7 +21865,7 @@
     "baby": false,
     "set_details": "shiningrevelry(a2b)",
     "pack": "everypack",
-    "alternate_versions": [327809, 333960, 721473],
+    "alternate_versions": [327809, 333960, 721472],
     "artist": "Sanosuke Sakuma",
     "internal_id": 333960
   },
@@ -22005,7 +22005,7 @@
     "baby": false,
     "set_details": "shiningrevelry(a2b)",
     "pack": "everypack",
-    "alternate_versions": [329281, 334280, 730113, 12586640],
+    "alternate_versions": [329281, 334280, 730112, 12586640],
     "artist": "Tomowaka",
     "internal_id": 334280
   },
@@ -22538,7 +22538,7 @@
     "baby": false,
     "set_details": "celestialguardians(a3)",
     "pack": "lunalapack",
-    "alternate_versions": [393921, 723521],
+    "alternate_versions": [393921, 723520],
     "artist": "Mizue",
     "internal_id": 393921
   },
@@ -23136,7 +23136,7 @@
     "baby": false,
     "set_details": "celestialguardians(a3)",
     "pack": "solgaleopack",
-    "alternate_versions": [395265, 726081, 805256],
+    "alternate_versions": [395265, 726080, 805256],
     "artist": "tetsuya koizumi",
     "internal_id": 395265
   },
@@ -24106,7 +24106,7 @@
     "baby": false,
     "set_details": "celestialguardians(a3)",
     "pack": "solgaleopack",
-    "alternate_versions": [397442, 403780, 730306, 805832],
+    "alternate_versions": [397442, 403780, 730304, 805832],
     "artist": "Jerky",
     "internal_id": 397442
   },
@@ -24414,7 +24414,7 @@
     "baby": false,
     "set_details": "celestialguardians(a3)",
     "pack": "lunalapack",
-    "alternate_versions": [398145, 732353],
+    "alternate_versions": [398145, 732352],
     "artist": "Jerky",
     "internal_id": 398145
   },
@@ -24670,7 +24670,7 @@
     "baby": false,
     "set_details": "celestialguardians(a3)",
     "pack": "everypack",
-    "alternate_versions": [398721, 732609],
+    "alternate_versions": [398721, 732608],
     "artist": "Aya Kusube",
     "internal_id": 398721
   },
@@ -25610,7 +25610,7 @@
     "baby": false,
     "set_details": "celestialguardians(a3)",
     "pack": "everypack",
-    "alternate_versions": [400833, 737281],
+    "alternate_versions": [400833, 737280],
     "artist": "SATOSHI NAKAI",
     "internal_id": 400833
   },
@@ -25666,7 +25666,7 @@
     "baby": false,
     "set_details": "celestialguardians(a3)",
     "pack": "solgaleopack",
-    "alternate_versions": [400962, 737410],
+    "alternate_versions": [400962, 737408],
     "artist": "Shin Nagasawa",
     "internal_id": 400962
   },
@@ -25726,7 +25726,7 @@
     "baby": false,
     "set_details": "celestialguardians(a3)",
     "pack": "solgaleopack",
-    "alternate_versions": [401090, 404420, 737602],
+    "alternate_versions": [401090, 404420, 737600],
     "artist": "kawayoo",
     "internal_id": 401090
   },
@@ -25922,7 +25922,7 @@
     "baby": false,
     "set_details": "celestialguardians(a3)",
     "pack": "everypack",
-    "alternate_versions": [401537, 739649],
+    "alternate_versions": [401537, 739648],
     "artist": "0313",
     "internal_id": 401537
   },
@@ -26303,7 +26303,7 @@
     "baby": false,
     "set_details": "celestialguardians(a3)",
     "pack": "everypack",
-    "alternate_versions": [402433, 741057, 745164],
+    "alternate_versions": [402433, 741056, 745164],
     "artist": "Toyste Beach",
     "internal_id": 402433
   },
@@ -26372,7 +26372,7 @@
     "baby": false,
     "set_details": "celestialguardians(a3)",
     "pack": "solgaleopack",
-    "alternate_versions": [402625, 741697],
+    "alternate_versions": [402625, 741696],
     "artist": "Toyste Beach",
     "internal_id": 402625
   },
@@ -26556,7 +26556,7 @@
     "baby": false,
     "set_details": "celestialguardians(a3)",
     "pack": "solgaleopack",
-    "alternate_versions": [403137, 405829, 406598, 743233, 744837],
+    "alternate_versions": [403137, 405829, 406598, 743232, 744837],
     "artist": "hechima",
     "internal_id": 403137
   },
@@ -26844,7 +26844,7 @@
     "baby": false,
     "set_details": "celestialguardians(a3)",
     "pack": "solgaleopack",
-    "alternate_versions": [397442, 403780, 730306, 805832],
+    "alternate_versions": [397442, 403780, 730304, 805832],
     "artist": "USGMEN",
     "internal_id": 403780
   },
@@ -27128,7 +27128,7 @@
     "baby": false,
     "set_details": "celestialguardians(a3)",
     "pack": "solgaleopack",
-    "alternate_versions": [401090, 404420, 737602],
+    "alternate_versions": [401090, 404420, 737600],
     "artist": "Kuroimori",
     "internal_id": 404420
   },
@@ -27732,7 +27732,7 @@
     "baby": false,
     "set_details": "celestialguardians(a3)",
     "pack": "solgaleopack",
-    "alternate_versions": [403137, 405829, 406598, 743233, 744837],
+    "alternate_versions": [403137, 405829, 406598, 743232, 744837],
     "artist": "hechima",
     "internal_id": 405829
   },
@@ -28082,7 +28082,7 @@
     "baby": false,
     "set_details": "celestialguardians(a3)",
     "pack": "solgaleopack",
-    "alternate_versions": [403137, 405829, 406598, 743233, 744837],
+    "alternate_versions": [403137, 405829, 406598, 743232, 744837],
     "artist": "Atsushi Furusawa",
     "internal_id": 406598
   },
@@ -28138,7 +28138,7 @@
     "baby": false,
     "set_details": "celestialguardians(a3)",
     "pack": "solgaleopack",
-    "alternate_versions": [65665, 406728, 721153],
+    "alternate_versions": [65665, 406728, 721152],
     "artist": "Ryuta Fuse",
     "internal_id": 406728
   },
@@ -28278,7 +28278,7 @@
     "baby": false,
     "set_details": "celestialguardians(a3)",
     "pack": "lunalapack",
-    "alternate_versions": [68993, 407048, 726401],
+    "alternate_versions": [68993, 407048, 726400],
     "artist": "Nisota Niso",
     "internal_id": 407048
   },
@@ -28418,7 +28418,7 @@
     "baby": false,
     "set_details": "celestialguardians(a3)",
     "pack": "lunalapack",
-    "alternate_versions": [73281, 407368, 730753],
+    "alternate_versions": [73281, 407368, 730752],
     "artist": "kurumitsu",
     "internal_id": 407368
   },
@@ -28502,7 +28502,7 @@
     "baby": false,
     "set_details": "celestialguardians(a3)",
     "pack": "solgaleopack",
-    "alternate_versions": [74753, 407560, 733185],
+    "alternate_versions": [74753, 407560, 733184],
     "artist": "Shin Nagasawa",
     "internal_id": 407560
   },
@@ -29152,7 +29152,7 @@
     "baby": false,
     "set_details": "extradimensionalcrisis(a3a)",
     "pack": "everypack",
-    "alternate_versions": [459201, 463300, 723841],
+    "alternate_versions": [459201, 463300, 723840],
     "artist": "Shin Nagasawa",
     "internal_id": 459201
   },
@@ -29558,7 +29558,7 @@
     "baby": false,
     "set_details": "extradimensionalcrisis(a3a)",
     "pack": "everypack",
-    "alternate_versions": [460098, 730498, 805896, 12587664],
+    "alternate_versions": [460098, 730496, 805896, 12587664],
     "artist": "kawayoo",
     "internal_id": 460098
   },
@@ -30158,7 +30158,7 @@
     "baby": false,
     "set_details": "extradimensionalcrisis(a3a)",
     "pack": "everypack",
-    "alternate_versions": [461442, 465356, 736706],
+    "alternate_versions": [461442, 465356, 736704],
     "artist": "nagimiso",
     "internal_id": 461442
   },
@@ -30676,7 +30676,7 @@
     "baby": false,
     "set_details": "extradimensionalcrisis(a3a)",
     "pack": "everypack",
-    "alternate_versions": [462593, 740161, 858120],
+    "alternate_versions": [462593, 740160, 858120],
     "artist": "match",
     "internal_id": 462593
   },
@@ -30704,7 +30704,7 @@
     "baby": false,
     "set_details": "extradimensionalcrisis(a3a)",
     "pack": "everypack",
-    "alternate_versions": [462658, 463492, 740290, 858184],
+    "alternate_versions": [462658, 463492, 740288, 858184],
     "artist": "Eske Yoshinob",
     "internal_id": 462658
   },
@@ -30736,7 +30736,7 @@
     "baby": false,
     "set_details": "extradimensionalcrisis(a3a)",
     "pack": "everypack",
-    "alternate_versions": [462722, 463556, 740418],
+    "alternate_versions": [462722, 463556, 740416],
     "artist": "kawayoo",
     "internal_id": 462722
   },
@@ -30805,7 +30805,7 @@
     "baby": false,
     "set_details": "extradimensionalcrisis(a3a)",
     "pack": "everypack",
-    "alternate_versions": [462913, 741313],
+    "alternate_versions": [462913, 741312],
     "artist": "Toyste Beach",
     "internal_id": 462913
   },
@@ -30897,7 +30897,7 @@
     "baby": false,
     "set_details": "extradimensionalcrisis(a3a)",
     "pack": "everypack",
-    "alternate_versions": [463169, 464069, 743361, 744901],
+    "alternate_versions": [463169, 464069, 743360, 744901],
     "artist": "Taira Akitsu",
     "internal_id": 463169
   },
@@ -30953,7 +30953,7 @@
     "baby": false,
     "set_details": "extradimensionalcrisis(a3a)",
     "pack": "everypack",
-    "alternate_versions": [459201, 463300, 723841],
+    "alternate_versions": [459201, 463300, 723840],
     "artist": "matazo",
     "internal_id": 463300
   },
@@ -31037,7 +31037,7 @@
     "baby": false,
     "set_details": "extradimensionalcrisis(a3a)",
     "pack": "everypack",
-    "alternate_versions": [462658, 463492, 740290, 858184],
+    "alternate_versions": [462658, 463492, 740288, 858184],
     "artist": "hncl",
     "internal_id": 463492
   },
@@ -31069,7 +31069,7 @@
     "baby": false,
     "set_details": "extradimensionalcrisis(a3a)",
     "pack": "everypack",
-    "alternate_versions": [462722, 463556, 740418],
+    "alternate_versions": [462722, 463556, 740416],
     "artist": "REND",
     "internal_id": 463556
   },
@@ -31296,7 +31296,7 @@
     "baby": false,
     "set_details": "extradimensionalcrisis(a3a)",
     "pack": "everypack",
-    "alternate_versions": [463169, 464069, 743361, 744901],
+    "alternate_versions": [463169, 464069, 743360, 744901],
     "artist": "Taira Akitsu",
     "internal_id": 464069
   },
@@ -31566,7 +31566,7 @@
     "baby": false,
     "set_details": "extradimensionalcrisis(a3a)",
     "pack": "everypack",
-    "alternate_versions": [71169, 464648, 728129],
+    "alternate_versions": [71169, 464648, 728128],
     "artist": "Souichirou Gunjima",
     "internal_id": 464648
   },
@@ -31598,7 +31598,7 @@
     "baby": false,
     "set_details": "extradimensionalcrisis(a3a)",
     "pack": "everypack",
-    "alternate_versions": [71234, 464712, 728258, 743684, 12584144],
+    "alternate_versions": [71234, 464712, 728256, 743684, 12584144],
     "artist": "Souichirou Gunjima",
     "internal_id": 464712
   },
@@ -31890,7 +31890,7 @@
     "baby": false,
     "set_details": "extradimensionalcrisis(a3a)",
     "pack": "everypack",
-    "alternate_versions": [461442, 465356, 736706],
+    "alternate_versions": [461442, 465356, 736704],
     "artist": "PLANETA Yamashita",
     "internal_id": 465356
   },
@@ -32114,7 +32114,7 @@
     "baby": false,
     "set_details": "eeveegrove(a3b)",
     "pack": "everypack",
-    "alternate_versions": [524802, 528836, 603464, 725058],
+    "alternate_versions": [524802, 528836, 603464, 725056],
     "artist": "Eri Yamaki",
     "internal_id": 524802
   },
@@ -32796,7 +32796,7 @@
     "baby": false,
     "set_details": "eeveegrove(a3b)",
     "pack": "everypack",
-    "alternate_versions": [526337, 732161, 743812],
+    "alternate_versions": [526337, 732160, 743812],
     "artist": "Kyoko Umemoto",
     "internal_id": 526337
   },
@@ -32940,7 +32940,7 @@
     "baby": false,
     "set_details": "eeveegrove(a3b)",
     "pack": "everypack",
-    "alternate_versions": [526657, 732929, 12588496],
+    "alternate_versions": [526657, 732928, 12588496],
     "artist": "Mizue",
     "internal_id": 526657
   },
@@ -33108,7 +33108,7 @@
     "baby": false,
     "set_details": "eeveegrove(a3b)",
     "pack": "everypack",
-    "alternate_versions": [527042, 529220, 736258],
+    "alternate_versions": [527042, 529220, 736256],
     "artist": "Ryota Murayama",
     "internal_id": 527042
   },
@@ -33759,7 +33759,7 @@
     "baby": false,
     "set_details": "eeveegrove(a3b)",
     "pack": "everypack",
-    "alternate_versions": [528513, 531148, 740673],
+    "alternate_versions": [528513, 531148, 740672],
     "artist": "AYUMI ODASHIMA",
     "internal_id": 528513
   },
@@ -33884,7 +33884,7 @@
     "baby": false,
     "set_details": "eeveegrove(a3b)",
     "pack": "everypack",
-    "alternate_versions": [524802, 528836, 603464, 725058],
+    "alternate_versions": [524802, 528836, 603464, 725056],
     "artist": "Teeziro",
     "internal_id": 528836
   },
@@ -34052,7 +34052,7 @@
     "baby": false,
     "set_details": "eeveegrove(a3b)",
     "pack": "everypack",
-    "alternate_versions": [527042, 529220, 736258],
+    "alternate_versions": [527042, 529220, 736256],
     "artist": "kawayoo",
     "internal_id": 529220
   },
@@ -34706,7 +34706,7 @@
     "baby": false,
     "set_details": "eeveegrove(a3b)",
     "pack": "everypack",
-    "alternate_versions": [73986, 530632, 731714, 743748],
+    "alternate_versions": [73986, 530632, 731712, 743748],
     "artist": "Sanosuke Sakuma",
     "internal_id": 530632
   },
@@ -34943,7 +34943,7 @@
     "baby": false,
     "set_details": "eeveegrove(a3b)",
     "pack": "everypack",
-    "alternate_versions": [528513, 531148, 740673],
+    "alternate_versions": [528513, 531148, 740672],
     "artist": "AYUMI ODASHIMA",
     "internal_id": 531148
   },
@@ -35335,7 +35335,7 @@
     "baby": false,
     "set_details": "wisdomofseaandsky(a4)",
     "pack": "ho-ohpack",
-    "alternate_versions": [590721, 721985],
+    "alternate_versions": [590721, 721984],
     "artist": "Kyoko Umemoto",
     "internal_id": 590721
   },
@@ -35367,7 +35367,7 @@
     "baby": false,
     "set_details": "wisdomofseaandsky(a4)",
     "pack": "ho-ohpack",
-    "alternate_versions": [590786, 722114],
+    "alternate_versions": [590786, 722112],
     "artist": "Kagemaru Himeno",
     "internal_id": 590786
   },
@@ -35627,7 +35627,7 @@
     "baby": false,
     "set_details": "wisdomofseaandsky(a4)",
     "pack": "everypack",
-    "alternate_versions": [591361, 722689],
+    "alternate_versions": [591361, 722688],
     "artist": "Atsuko Nishida",
     "internal_id": 591361
   },
@@ -36139,7 +36139,7 @@
     "baby": false,
     "set_details": "wisdomofseaandsky(a4)",
     "pack": "lugiapack",
-    "alternate_versions": [592513, 726721, 930888],
+    "alternate_versions": [592513, 726720, 930888],
     "artist": "sui",
     "internal_id": 592513
   },
@@ -36679,7 +36679,7 @@
     "baby": false,
     "set_details": "wisdomofseaandsky(a4)",
     "pack": "lugiapack",
-    "alternate_versions": [593730, 727618, 743620],
+    "alternate_versions": [593730, 727616, 743620],
     "artist": "Hajime Kusajima",
     "internal_id": 593730
   },
@@ -39226,7 +39226,7 @@
     "baby": false,
     "set_details": "wisdomofseaandsky(a4)",
     "pack": "lugiapack",
-    "alternate_versions": [599489, 740801],
+    "alternate_versions": [599489, 740800],
     "artist": "Toyste Beach",
     "internal_id": 599489
   },
@@ -39364,7 +39364,7 @@
     "baby": false,
     "set_details": "wisdomofseaandsky(a4)",
     "pack": "lugiapack",
-    "alternate_versions": [599873, 602437, 742209],
+    "alternate_versions": [599873, 602437, 742208],
     "artist": "yuu",
     "internal_id": 599873
   },
@@ -39387,7 +39387,7 @@
     "baby": false,
     "set_details": "wisdomofseaandsky(a4)",
     "pack": "ho-ohpack",
-    "alternate_versions": [599937, 602501, 742465],
+    "alternate_versions": [599937, 602501, 742464],
     "artist": "Hideki Ishikawa",
     "internal_id": 599937
   },
@@ -40474,7 +40474,7 @@
     "baby": false,
     "set_details": "wisdomofseaandsky(a4)",
     "pack": "lugiapack",
-    "alternate_versions": [599873, 602437, 742209],
+    "alternate_versions": [599873, 602437, 742208],
     "artist": "yuu",
     "internal_id": 602437
   },
@@ -40497,7 +40497,7 @@
     "baby": false,
     "set_details": "wisdomofseaandsky(a4)",
     "pack": "ho-ohpack",
-    "alternate_versions": [599937, 602501, 742465],
+    "alternate_versions": [599937, 602501, 742464],
     "artist": "Teeziro",
     "internal_id": 602501
   },
@@ -40914,7 +40914,7 @@
     "baby": false,
     "set_details": "wisdomofseaandsky(a4)",
     "pack": "ho-ohpack",
-    "alternate_versions": [524802, 528836, 603464, 725058],
+    "alternate_versions": [524802, 528836, 603464, 725056],
     "artist": "Souichirou Gunjima",
     "internal_id": 603464
   },
@@ -41058,7 +41058,7 @@
     "baby": false,
     "set_details": "wisdomofseaandsky(a4)",
     "pack": "lugiapack",
-    "alternate_versions": [71810, 603784, 729602],
+    "alternate_versions": [71810, 603784, 729600],
     "artist": "MAHOU",
     "internal_id": 603784
   },
@@ -44318,7 +44318,7 @@
     "baby": false,
     "set_details": "secludedsprings(a4a)",
     "pack": "everypack",
-    "alternate_versions": [198401, 661256, 725633],
+    "alternate_versions": [198401, 661256, 725632],
     "artist": "Souichirou Gunjima",
     "internal_id": 661256
   },
@@ -44749,7 +44749,7 @@
     ],
     "weakness": "fire",
     "retreat": 1,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -44782,7 +44782,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [65665, 406728, 721153],
+    "alternate_versions": [65665, 406728, 721152],
     "artist": "Kurata So",
     "internal_id": 65665
   },
@@ -44805,14 +44805,14 @@
     ],
     "weakness": "fire",
     "retreat": 2,
-    "rarity": "◊◊",
+    "rarity": "◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [65665, 406728, 721153],
+    "alternate_versions": [65665, 406728, 721152],
     "artist": "Kurata So",
-    "internal_id": 721153
+    "internal_id": 721152
   },
   {
     "expansion": "A4b",
@@ -44895,7 +44895,7 @@
     ],
     "weakness": "fire",
     "retreat": 1,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -44928,7 +44928,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [327809, 333960, 721473],
+    "alternate_versions": [327809, 333960, 721472],
     "artist": "Yuka Morii",
     "internal_id": 327809
   },
@@ -44951,14 +44951,14 @@
     ],
     "weakness": "fire",
     "retreat": 2,
-    "rarity": "◊◊",
+    "rarity": "◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [327809, 333960, 721473],
+    "alternate_versions": [327809, 333960, 721472],
     "artist": "Yuka Morii",
-    "internal_id": 721473
+    "internal_id": 721472
   },
   {
     "expansion": "A4b",
@@ -45035,7 +45035,7 @@
     ],
     "weakness": "fire",
     "retreat": 1,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -45119,7 +45119,7 @@
     ],
     "weakness": "fire",
     "retreat": 1,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -45152,7 +45152,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [590721, 721985],
+    "alternate_versions": [590721, 721984],
     "artist": "Kyoko Umemoto",
     "internal_id": 590721
   },
@@ -45175,14 +45175,14 @@
     ],
     "weakness": "fire",
     "retreat": 1,
-    "rarity": "◊◊",
+    "rarity": "◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [590721, 721985],
+    "alternate_versions": [590721, 721984],
     "artist": "Kyoko Umemoto",
-    "internal_id": 721985
+    "internal_id": 721984
   },
   {
     "expansion": "A4b",
@@ -45212,7 +45212,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [590786, 722114],
+    "alternate_versions": [590786, 722112],
     "artist": "Kagemaru Himeno",
     "internal_id": 590786
   },
@@ -45239,14 +45239,14 @@
     },
     "weakness": "fire",
     "retreat": 1,
-    "rarity": "◊◊◊",
+    "rarity": "◊◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [590786, 722114],
+    "alternate_versions": [590786, 722112],
     "artist": "Kagemaru Himeno",
-    "internal_id": 722114
+    "internal_id": 722112
   },
   {
     "expansion": "A4b",
@@ -45295,7 +45295,7 @@
     ],
     "weakness": "lightning",
     "retreat": 1,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -45447,7 +45447,7 @@
     },
     "weakness": "fire",
     "retreat": 1,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -45480,7 +45480,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [591361, 722689],
+    "alternate_versions": [591361, 722688],
     "artist": "Atsuko Nishida",
     "internal_id": 591361
   },
@@ -45503,14 +45503,14 @@
     ],
     "weakness": "fire",
     "retreat": 1,
-    "rarity": "◊◊",
+    "rarity": "◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [591361, 722689],
+    "alternate_versions": [591361, 722688],
     "artist": "Atsuko Nishida",
-    "internal_id": 722689
+    "internal_id": 722688
   },
   {
     "expansion": "A4b",
@@ -45572,7 +45572,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [198018, 206788, 722882, 12590352],
+    "alternate_versions": [198018, 206788, 722880, 12590352],
     "artist": "Narumi Sato",
     "internal_id": 198018
   },
@@ -45599,14 +45599,14 @@
     },
     "weakness": "fire",
     "retreat": 1,
-    "rarity": "◊◊◊",
+    "rarity": "◊◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [198018, 206788, 722882, 12590352],
+    "alternate_versions": [198018, 206788, 722880, 12590352],
     "artist": "Narumi Sato",
-    "internal_id": 722882
+    "internal_id": 722880
   },
   {
     "expansion": "A4b",
@@ -45655,7 +45655,7 @@
     ],
     "weakness": "fire",
     "retreat": 1,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -45688,7 +45688,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [131393, 723137],
+    "alternate_versions": [131393, 723136],
     "artist": "Shigenori Negishi",
     "internal_id": 131393
   },
@@ -45711,14 +45711,14 @@
     ],
     "weakness": "fire",
     "retreat": 1,
-    "rarity": "◊◊",
+    "rarity": "◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [131393, 723137],
+    "alternate_versions": [131393, 723136],
     "artist": "Shigenori Negishi",
-    "internal_id": 723137
+    "internal_id": 723136
   },
   {
     "expansion": "A4b",
@@ -45748,7 +45748,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [131458, 135556, 723266],
+    "alternate_versions": [131458, 135556, 723264],
     "artist": "Yoshioka",
     "internal_id": 131458
   },
@@ -45775,14 +45775,14 @@
     },
     "weakness": "fire",
     "retreat": 2,
-    "rarity": "◊◊◊",
+    "rarity": "◊◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [131458, 135556, 723266],
+    "alternate_versions": [131458, 135556, 723264],
     "artist": "Yoshioka",
-    "internal_id": 723266
+    "internal_id": 723264
   },
   {
     "expansion": "A4b",
@@ -45831,7 +45831,7 @@
     ],
     "weakness": "fire",
     "retreat": 1,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -45864,7 +45864,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [393921, 723521],
+    "alternate_versions": [393921, 723520],
     "artist": "Mizue",
     "internal_id": 393921
   },
@@ -45887,14 +45887,14 @@
     ],
     "weakness": "fire",
     "retreat": 1,
-    "rarity": "◊◊",
+    "rarity": "◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [393921, 723521],
+    "alternate_versions": [393921, 723520],
     "artist": "Mizue",
-    "internal_id": 723521
+    "internal_id": 723520
   },
   {
     "expansion": "A4b",
@@ -46016,7 +46016,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [459201, 463300, 723841],
+    "alternate_versions": [459201, 463300, 723840],
     "artist": "Shin Nagasawa",
     "internal_id": 459201
   },
@@ -46039,14 +46039,14 @@
     ],
     "weakness": "fire",
     "retreat": 1,
-    "rarity": "◊◊",
+    "rarity": "◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [459201, 463300, 723841],
+    "alternate_versions": [459201, 463300, 723840],
     "artist": "Shin Nagasawa",
-    "internal_id": 723841
+    "internal_id": 723840
   },
   {
     "expansion": "A4b",
@@ -46095,7 +46095,7 @@
     ],
     "weakness": "fire",
     "retreat": 1,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -46151,7 +46151,7 @@
     ],
     "weakness": "fire",
     "retreat": 1,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -46184,7 +46184,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [328065, 724225, 743556],
+    "alternate_versions": [328065, 724224, 743556],
     "artist": "mashu",
     "internal_id": 328065
   },
@@ -46207,14 +46207,14 @@
     ],
     "weakness": "fire",
     "retreat": 1,
-    "rarity": "◊◊",
+    "rarity": "◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [328065, 724225, 743556],
+    "alternate_versions": [328065, 724224, 743556],
     "artist": "mashu",
-    "internal_id": 724225
+    "internal_id": 724224
   },
   {
     "expansion": "A4b",
@@ -46240,7 +46240,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [328130, 332356, 724354, 990600],
+    "alternate_versions": [328130, 332356, 724352, 990600],
     "artist": "mashu",
     "internal_id": 328130
   },
@@ -46263,14 +46263,14 @@
     ],
     "weakness": "fire",
     "retreat": 1,
-    "rarity": "◊◊◊",
+    "rarity": "◊◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [328130, 332356, 724354, 990600],
+    "alternate_versions": [328130, 332356, 724352, 990600],
     "artist": "mashu",
-    "internal_id": 724354
+    "internal_id": 724352
   },
   {
     "expansion": "A4b",
@@ -46319,7 +46319,7 @@
     ],
     "weakness": "water",
     "retreat": 1,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -46352,7 +46352,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [67713, 724609],
+    "alternate_versions": [67713, 724608],
     "artist": "kantaro",
     "internal_id": 67713
   },
@@ -46375,14 +46375,14 @@
     ],
     "weakness": "water",
     "retreat": 2,
-    "rarity": "◊◊",
+    "rarity": "◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [67713, 724609],
+    "alternate_versions": [67713, 724608],
     "artist": "kantaro",
-    "internal_id": 724609
+    "internal_id": 724608
   },
   {
     "expansion": "A4b",
@@ -46499,7 +46499,7 @@
     ],
     "weakness": "water",
     "retreat": 1,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -46560,7 +46560,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [524802, 528836, 603464, 725058],
+    "alternate_versions": [524802, 528836, 603464, 725056],
     "artist": "Eri Yamaki",
     "internal_id": 524802
   },
@@ -46583,14 +46583,14 @@
     ],
     "weakness": "water",
     "retreat": 2,
-    "rarity": "◊◊◊",
+    "rarity": "◊◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [524802, 528836, 603464, 725058],
+    "alternate_versions": [524802, 528836, 603464, 725056],
     "artist": "Eri Yamaki",
-    "internal_id": 725058
+    "internal_id": 725056
   },
   {
     "expansion": "A4b",
@@ -46733,7 +46733,7 @@
     ],
     "weakness": "water",
     "retreat": 2,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -46789,7 +46789,7 @@
     ],
     "weakness": "water",
     "retreat": 1,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -46822,7 +46822,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [198401, 661256, 725633],
+    "alternate_versions": [198401, 661256, 725632],
     "artist": "Masakazu Fukuda",
     "internal_id": 198401
   },
@@ -46845,14 +46845,14 @@
     ],
     "weakness": "water",
     "retreat": 1,
-    "rarity": "◊◊",
+    "rarity": "◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [198401, 661256, 725633],
+    "alternate_versions": [198401, 661256, 725632],
     "artist": "Masakazu Fukuda",
-    "internal_id": 725633
+    "internal_id": 725632
   },
   {
     "expansion": "A4b",
@@ -46910,7 +46910,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [262978, 725826],
+    "alternate_versions": [262978, 725824],
     "artist": "Kazumasa Yasukuni",
     "internal_id": 262978
   },
@@ -46937,14 +46937,14 @@
     },
     "weakness": "water",
     "retreat": 3,
-    "rarity": "◊◊◊",
+    "rarity": "◊◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [262978, 725826],
+    "alternate_versions": [262978, 725824],
     "artist": "Kazumasa Yasukuni",
-    "internal_id": 725826
+    "internal_id": 725824
   },
   {
     "expansion": "A4b",
@@ -46993,7 +46993,7 @@
     ],
     "weakness": "water",
     "retreat": 1,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -47026,7 +47026,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [395265, 726081, 805256],
+    "alternate_versions": [395265, 726080, 805256],
     "artist": "tetsuya koizumi",
     "internal_id": 395265
   },
@@ -47049,14 +47049,14 @@
     ],
     "weakness": "water",
     "retreat": 1,
-    "rarity": "◊◊",
+    "rarity": "◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [395265, 726081, 805256],
+    "alternate_versions": [395265, 726080, 805256],
     "artist": "tetsuya koizumi",
-    "internal_id": 726081
+    "internal_id": 726080
   },
   {
     "expansion": "A4b",
@@ -47139,7 +47139,7 @@
     ],
     "weakness": "lightning",
     "retreat": 1,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -47172,7 +47172,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [68993, 407048, 726401],
+    "alternate_versions": [68993, 407048, 726400],
     "artist": "Nelnal",
     "internal_id": 68993
   },
@@ -47195,14 +47195,14 @@
     ],
     "weakness": "lightning",
     "retreat": 1,
-    "rarity": "◊◊",
+    "rarity": "◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [68993, 407048, 726401],
+    "alternate_versions": [68993, 407048, 726400],
     "artist": "Nelnal",
-    "internal_id": 726401
+    "internal_id": 726400
   },
   {
     "expansion": "A4b",
@@ -47285,7 +47285,7 @@
     ],
     "weakness": "lightning",
     "retreat": 1,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -47318,7 +47318,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [592513, 726721, 930888],
+    "alternate_versions": [592513, 726720, 930888],
     "artist": "sui",
     "internal_id": 592513
   },
@@ -47341,14 +47341,14 @@
     ],
     "weakness": "lightning",
     "retreat": 1,
-    "rarity": "◊◊",
+    "rarity": "◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [592513, 726721, 930888],
+    "alternate_versions": [592513, 726720, 930888],
     "artist": "sui",
-    "internal_id": 726721
+    "internal_id": 726720
   },
   {
     "expansion": "A4b",
@@ -47425,7 +47425,7 @@
     ],
     "weakness": "lightning",
     "retreat": 1,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -47509,7 +47509,7 @@
     ],
     "weakness": "lightning",
     "retreat": 1,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -47574,7 +47574,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [132290, 135684, 727298],
+    "alternate_versions": [132290, 135684, 727296],
     "artist": "LINNE",
     "internal_id": 132290
   },
@@ -47601,14 +47601,14 @@
     },
     "weakness": "lightning",
     "retreat": 2,
-    "rarity": "◊◊◊",
+    "rarity": "◊◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [132290, 135684, 727298],
+    "alternate_versions": [132290, 135684, 727296],
     "artist": "LINNE",
-    "internal_id": 727298
+    "internal_id": 727296
   },
   {
     "expansion": "A4b",
@@ -47691,7 +47691,7 @@
     ],
     "weakness": "lightning",
     "retreat": 1,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -47728,7 +47728,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [593730, 727618, 743620],
+    "alternate_versions": [593730, 727616, 743620],
     "artist": "Hajime Kusajima",
     "internal_id": 593730
   },
@@ -47755,14 +47755,14 @@
     },
     "weakness": "lightning",
     "retreat": 2,
-    "rarity": "◊◊◊",
+    "rarity": "◊◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [593730, 727618, 743620],
+    "alternate_versions": [593730, 727616, 743620],
     "artist": "Hajime Kusajima",
-    "internal_id": 727618
+    "internal_id": 727616
   },
   {
     "expansion": "A4b",
@@ -47854,7 +47854,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [199809, 206980, 727873, 805576, 12586000],
+    "alternate_versions": [199809, 206980, 727872, 805576, 12586000],
     "artist": "MINAMINAMI Take",
     "internal_id": 199809
   },
@@ -47877,14 +47877,14 @@
     ],
     "weakness": "lightning",
     "retreat": 1,
-    "rarity": "◊◊",
+    "rarity": "◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [199809, 206980, 727873, 805576, 12586000],
+    "alternate_versions": [199809, 206980, 727872, 805576, 12586000],
     "artist": "MINAMINAMI Take",
-    "internal_id": 727873
+    "internal_id": 727872
   },
   {
     "expansion": "A4b",
@@ -47933,7 +47933,7 @@
     ],
     "weakness": "lightning",
     "retreat": 1,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -47966,7 +47966,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [71169, 464648, 728129],
+    "alternate_versions": [71169, 464648, 728128],
     "artist": "Akira Komayama",
     "internal_id": 71169
   },
@@ -47989,14 +47989,14 @@
     ],
     "weakness": "lightning",
     "retreat": 1,
-    "rarity": "◊◊",
+    "rarity": "◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [71169, 464648, 728129],
+    "alternate_versions": [71169, 464648, 728128],
     "artist": "Akira Komayama",
-    "internal_id": 728129
+    "internal_id": 728128
   },
   {
     "expansion": "A4b",
@@ -48026,7 +48026,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [71234, 464712, 728258, 743684, 12584144],
+    "alternate_versions": [71234, 464712, 728256, 743684, 12584144],
     "artist": "5ban Graphics",
     "internal_id": 71234
   },
@@ -48053,14 +48053,14 @@
     },
     "weakness": "lightning",
     "retreat": 1,
-    "rarity": "◊◊◊",
+    "rarity": "◊◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [71234, 464712, 728258, 743684, 12584144],
+    "alternate_versions": [71234, 464712, 728256, 743684, 12584144],
     "artist": "5ban Graphics",
-    "internal_id": 728258
+    "internal_id": 728256
   },
   {
     "expansion": "A4b",
@@ -48109,7 +48109,7 @@
     ],
     "weakness": "lightning",
     "retreat": 1,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -48165,7 +48165,7 @@
     ],
     "weakness": "lightning",
     "retreat": 2,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -48283,7 +48283,7 @@
     ],
     "weakness": "lightning",
     "retreat": 1,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -48367,7 +48367,7 @@
     ],
     "weakness": "lightning",
     "retreat": 1,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -48451,7 +48451,7 @@
     ],
     "weakness": "fighting",
     "retreat": 1,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -48591,7 +48591,7 @@
     ],
     "weakness": "fighting",
     "retreat": 1,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -48628,7 +48628,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [71810, 603784, 729602],
+    "alternate_versions": [71810, 603784, 729600],
     "artist": "kirisAki",
     "internal_id": 71810
   },
@@ -48655,14 +48655,14 @@
     },
     "weakness": "fighting",
     "retreat": 2,
-    "rarity": "◊◊◊",
+    "rarity": "◊◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [71810, 603784, 729602],
+    "alternate_versions": [71810, 603784, 729600],
     "artist": "kirisAki",
-    "internal_id": 729602
+    "internal_id": 729600
   },
   {
     "expansion": "A4b",
@@ -48688,7 +48688,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [200002, 729730],
+    "alternate_versions": [200002, 729728],
     "artist": "Yoshinobu Saito",
     "internal_id": 200002
   },
@@ -48711,14 +48711,14 @@
     ],
     "weakness": "fighting",
     "retreat": 2,
-    "rarity": "◊◊◊",
+    "rarity": "◊◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [200002, 729730],
+    "alternate_versions": [200002, 729728],
     "artist": "Yoshinobu Saito",
-    "internal_id": 729730
+    "internal_id": 729728
   },
   {
     "expansion": "A4b",
@@ -48801,7 +48801,7 @@
     ],
     "weakness": "fighting",
     "retreat": 1,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -48862,7 +48862,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [329281, 334280, 730113, 12586640],
+    "alternate_versions": [329281, 334280, 730112, 12586640],
     "artist": "imoniii",
     "internal_id": 329281
   },
@@ -48885,14 +48885,14 @@
     ],
     "weakness": "fighting",
     "retreat": 1,
-    "rarity": "◊◊",
+    "rarity": "◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [329281, 334280, 730113, 12586640],
+    "alternate_versions": [329281, 334280, 730112, 12586640],
     "artist": "imoniii",
-    "internal_id": 730113
+    "internal_id": 730112
   },
   {
     "expansion": "A4b",
@@ -48950,7 +48950,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [397442, 403780, 730306, 805832],
+    "alternate_versions": [397442, 403780, 730304, 805832],
     "artist": "Jerky",
     "internal_id": 397442
   },
@@ -48977,14 +48977,14 @@
     },
     "weakness": "fighting",
     "retreat": 1,
-    "rarity": "◊◊◊",
+    "rarity": "◊◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [397442, 403780, 730306, 805832],
+    "alternate_versions": [397442, 403780, 730304, 805832],
     "artist": "Jerky",
-    "internal_id": 730306
+    "internal_id": 730304
   },
   {
     "expansion": "A4b",
@@ -49048,7 +49048,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [460098, 730498, 805896, 12587664],
+    "alternate_versions": [460098, 730496, 805896, 12587664],
     "artist": "kawayoo",
     "internal_id": 460098
   },
@@ -49075,14 +49075,14 @@
     },
     "weakness": "fighting",
     "retreat": 1,
-    "rarity": "◊◊◊",
+    "rarity": "◊◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [460098, 730498, 805896, 12587664],
+    "alternate_versions": [460098, 730496, 805896, 12587664],
     "artist": "kawayoo",
-    "internal_id": 730498
+    "internal_id": 730496
   },
   {
     "expansion": "A4b",
@@ -49131,7 +49131,7 @@
     ],
     "weakness": "darkness",
     "retreat": 1,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -49164,7 +49164,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [73281, 407368, 730753],
+    "alternate_versions": [73281, 407368, 730752],
     "artist": "Nisota Niso",
     "internal_id": 73281
   },
@@ -49187,14 +49187,14 @@
     ],
     "weakness": "darkness",
     "retreat": 1,
-    "rarity": "◊◊",
+    "rarity": "◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [73281, 407368, 730753],
+    "alternate_versions": [73281, 407368, 730752],
     "artist": "Nisota Niso",
-    "internal_id": 730753
+    "internal_id": 730752
   },
   {
     "expansion": "A4b",
@@ -49275,7 +49275,7 @@
     ],
     "weakness": "darkness",
     "retreat": 1,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -49431,7 +49431,7 @@
     ],
     "weakness": "darkness",
     "retreat": 1,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -49515,7 +49515,7 @@
     ],
     "weakness": "darkness",
     "retreat": 1,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -49571,7 +49571,7 @@
     ],
     "weakness": "darkness",
     "retreat": 1,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -49608,7 +49608,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [73986, 530632, 731714, 743748],
+    "alternate_versions": [73986, 530632, 731712, 743748],
     "artist": "Yuu Nishida",
     "internal_id": 73986
   },
@@ -49635,14 +49635,14 @@
     },
     "weakness": "darkness",
     "retreat": 2,
-    "rarity": "◊◊◊",
+    "rarity": "◊◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [73986, 530632, 731714, 743748],
+    "alternate_versions": [73986, 530632, 731712, 743748],
     "artist": "Yuu Nishida",
-    "internal_id": 731714
+    "internal_id": 731712
   },
   {
     "expansion": "A4b",
@@ -49672,7 +49672,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [201602, 207300, 731842],
+    "alternate_versions": [201602, 207300, 731840],
     "artist": "AKIRA EGAWA",
     "internal_id": 201602
   },
@@ -49699,14 +49699,14 @@
     },
     "weakness": "darkness",
     "retreat": 3,
-    "rarity": "◊◊◊",
+    "rarity": "◊◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [201602, 207300, 731842],
+    "alternate_versions": [201602, 207300, 731840],
     "artist": "AKIRA EGAWA",
-    "internal_id": 731842
+    "internal_id": 731840
   },
   {
     "expansion": "A4b",
@@ -49787,7 +49787,7 @@
     ],
     "weakness": "metal",
     "retreat": 1,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -49820,7 +49820,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [526337, 732161, 743812],
+    "alternate_versions": [526337, 732160, 743812],
     "artist": "Kyoko Umemoto",
     "internal_id": 526337
   },
@@ -49843,14 +49843,14 @@
     ],
     "weakness": "metal",
     "retreat": 3,
-    "rarity": "◊◊",
+    "rarity": "◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [526337, 732161, 743812],
+    "alternate_versions": [526337, 732160, 743812],
     "artist": "Kyoko Umemoto",
-    "internal_id": 732161
+    "internal_id": 732160
   },
   {
     "expansion": "A4b",
@@ -49908,7 +49908,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [398145, 732353],
+    "alternate_versions": [398145, 732352],
     "artist": "Jerky",
     "internal_id": 398145
   },
@@ -49931,14 +49931,14 @@
     ],
     "weakness": "darkness",
     "retreat": 1,
-    "rarity": "◊◊",
+    "rarity": "◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [398145, 732353],
+    "alternate_versions": [398145, 732352],
     "artist": "Jerky",
-    "internal_id": 732353
+    "internal_id": 732352
   },
   {
     "expansion": "A4b",
@@ -49987,7 +49987,7 @@
     ],
     "weakness": "darkness",
     "retreat": 1,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -50020,7 +50020,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [398721, 732609],
+    "alternate_versions": [398721, 732608],
     "artist": "Aya Kusube",
     "internal_id": 398721
   },
@@ -50043,14 +50043,14 @@
     ],
     "weakness": "darkness",
     "retreat": 3,
-    "rarity": "◊◊",
+    "rarity": "◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [398721, 732609],
+    "alternate_versions": [398721, 732608],
     "artist": "Aya Kusube",
-    "internal_id": 732609
+    "internal_id": 732608
   },
   {
     "expansion": "A4b",
@@ -50131,7 +50131,7 @@
     ],
     "weakness": "metal",
     "retreat": 1,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -50164,7 +50164,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [526657, 732929, 12588496],
+    "alternate_versions": [526657, 732928, 12588496],
     "artist": "Mizue",
     "internal_id": 526657
   },
@@ -50187,14 +50187,14 @@
     ],
     "weakness": "metal",
     "retreat": 1,
-    "rarity": "◊◊",
+    "rarity": "◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [526657, 732929, 12588496],
+    "alternate_versions": [526657, 732928, 12588496],
     "artist": "Mizue",
-    "internal_id": 732929
+    "internal_id": 732928
   },
   {
     "expansion": "A4b",
@@ -50243,7 +50243,7 @@
     ],
     "weakness": "psychic",
     "retreat": 2,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -50276,7 +50276,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [74753, 407560, 733185],
+    "alternate_versions": [74753, 407560, 733184],
     "artist": "match",
     "internal_id": 74753
   },
@@ -50299,14 +50299,14 @@
     ],
     "weakness": "psychic",
     "retreat": 2,
-    "rarity": "◊◊",
+    "rarity": "◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [74753, 407560, 733185],
+    "alternate_versions": [74753, 407560, 733184],
     "artist": "match",
-    "internal_id": 733185
+    "internal_id": 733184
   },
   {
     "expansion": "A4b",
@@ -50383,7 +50383,7 @@
     ],
     "weakness": "grass",
     "retreat": 1,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -50476,7 +50476,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [264449, 267204, 733633],
+    "alternate_versions": [264449, 267204, 733632],
     "artist": "Tomokazu Komiya",
     "internal_id": 264449
   },
@@ -50499,14 +50499,14 @@
     ],
     "weakness": "grass",
     "retreat": 2,
-    "rarity": "◊◊",
+    "rarity": "◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [264449, 267204, 733633],
+    "alternate_versions": [264449, 267204, 733632],
     "artist": "Tomokazu Komiya",
-    "internal_id": 733633
+    "internal_id": 733632
   },
   {
     "expansion": "A4b",
@@ -50555,7 +50555,7 @@
     ],
     "weakness": "grass",
     "retreat": 2,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -50639,7 +50639,7 @@
     ],
     "weakness": "grass",
     "retreat": 3,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -50695,7 +50695,7 @@
     ],
     "weakness": "grass",
     "retreat": 1,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -50751,7 +50751,7 @@
     ],
     "weakness": "grass",
     "retreat": 1,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -50841,7 +50841,7 @@
     ],
     "weakness": "psychic",
     "retreat": 1,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -50878,7 +50878,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [202498, 207492, 734530],
+    "alternate_versions": [202498, 207492, 734528],
     "artist": "nagimiso",
     "internal_id": 202498
   },
@@ -50905,14 +50905,14 @@
     },
     "weakness": "psychic",
     "retreat": 2,
-    "rarity": "◊◊◊",
+    "rarity": "◊◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [202498, 207492, 734530],
+    "alternate_versions": [202498, 207492, 734528],
     "artist": "nagimiso",
-    "internal_id": 734530
+    "internal_id": 734528
   },
   {
     "expansion": "A4b",
@@ -51017,7 +51017,7 @@
     ],
     "weakness": "grass",
     "retreat": 1,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -51073,7 +51073,7 @@
     ],
     "weakness": "psychic",
     "retreat": 2,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -51129,7 +51129,7 @@
     ],
     "weakness": "grass",
     "retreat": 1,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -51222,7 +51222,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [134082, 135812, 735298],
+    "alternate_versions": [134082, 135812, 735296],
     "artist": "kantaro",
     "internal_id": 134082
   },
@@ -51245,14 +51245,14 @@
     ],
     "weakness": "psychic",
     "retreat": 1,
-    "rarity": "◊◊◊",
+    "rarity": "◊◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [134082, 135812, 735298],
+    "alternate_versions": [134082, 135812, 735296],
     "artist": "kantaro",
-    "internal_id": 735298
+    "internal_id": 735296
   },
   {
     "expansion": "A4b",
@@ -51301,7 +51301,7 @@
     ],
     "weakness": "fighting",
     "retreat": 1,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -51357,7 +51357,7 @@
     ],
     "weakness": "fighting",
     "retreat": 1,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -51394,7 +51394,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [265346, 735682],
+    "alternate_versions": [265346, 735680],
     "artist": "AKIRA EGAWA",
     "internal_id": 265346
   },
@@ -51421,14 +51421,14 @@
     },
     "weakness": "fighting",
     "retreat": 0,
-    "rarity": "◊◊◊",
+    "rarity": "◊◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [265346, 735682],
+    "alternate_versions": [265346, 735680],
     "artist": "AKIRA EGAWA",
-    "internal_id": 735682
+    "internal_id": 735680
   },
   {
     "expansion": "A4b",
@@ -51505,7 +51505,7 @@
     ],
     "weakness": "fighting",
     "retreat": 2,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -51589,7 +51589,7 @@
     ],
     "weakness": "fighting",
     "retreat": 1,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -51650,7 +51650,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [527042, 529220, 736258],
+    "alternate_versions": [527042, 529220, 736256],
     "artist": "Ryota Murayama",
     "internal_id": 527042
   },
@@ -51673,14 +51673,14 @@
     ],
     "weakness": "grass",
     "retreat": 2,
-    "rarity": "◊◊◊",
+    "rarity": "◊◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [527042, 529220, 736258],
+    "alternate_versions": [527042, 529220, 736256],
     "artist": "Ryota Murayama",
-    "internal_id": 736258
+    "internal_id": 736256
   },
   {
     "expansion": "A4b",
@@ -51761,7 +51761,7 @@
     ],
     "weakness": "grass",
     "retreat": 1,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -51858,7 +51858,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [461442, 465356, 736706],
+    "alternate_versions": [461442, 465356, 736704],
     "artist": "nagimiso",
     "internal_id": 461442
   },
@@ -51885,14 +51885,14 @@
     },
     "weakness": "fighting",
     "retreat": 1,
-    "rarity": "◊◊◊",
+    "rarity": "◊◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [461442, 465356, 736706],
+    "alternate_versions": [461442, 465356, 736704],
     "artist": "nagimiso",
-    "internal_id": 736706
+    "internal_id": 736704
   },
   {
     "expansion": "A4b",
@@ -51975,7 +51975,7 @@
     ],
     "weakness": "fire",
     "retreat": 1,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -52126,7 +52126,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [400833, 737281],
+    "alternate_versions": [400833, 737280],
     "artist": "SATOSHI NAKAI",
     "internal_id": 400833
   },
@@ -52149,14 +52149,14 @@
     ],
     "weakness": "fire",
     "retreat": 3,
-    "rarity": "◊◊",
+    "rarity": "◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [400833, 737281],
+    "alternate_versions": [400833, 737280],
     "artist": "SATOSHI NAKAI",
-    "internal_id": 737281
+    "internal_id": 737280
   },
   {
     "expansion": "A4b",
@@ -52182,7 +52182,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [400962, 737410],
+    "alternate_versions": [400962, 737408],
     "artist": "Shin Nagasawa",
     "internal_id": 400962
   },
@@ -52205,14 +52205,14 @@
     ],
     "weakness": "fire",
     "retreat": 1,
-    "rarity": "◊◊◊",
+    "rarity": "◊◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [400962, 737410],
+    "alternate_versions": [400962, 737408],
     "artist": "Shin Nagasawa",
-    "internal_id": 737410
+    "internal_id": 737408
   },
   {
     "expansion": "A4b",
@@ -52270,7 +52270,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [401090, 404420, 737602],
+    "alternate_versions": [401090, 404420, 737600],
     "artist": "kawayoo",
     "internal_id": 401090
   },
@@ -52293,14 +52293,14 @@
     ],
     "weakness": "fire",
     "retreat": 1,
-    "rarity": "◊◊◊",
+    "rarity": "◊◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [401090, 404420, 737602],
+    "alternate_versions": [401090, 404420, 737600],
     "artist": "kawayoo",
-    "internal_id": 737602
+    "internal_id": 737600
   },
   {
     "expansion": "A4b",
@@ -52349,7 +52349,7 @@
     ],
     "weakness": "fire",
     "retreat": 1,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -52382,7 +52382,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [331073, 737857],
+    "alternate_versions": [331073, 737856],
     "artist": "miki kudo",
     "internal_id": 331073
   },
@@ -52405,14 +52405,14 @@
     ],
     "weakness": "fire",
     "retreat": 2,
-    "rarity": "◊◊",
+    "rarity": "◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [331073, 737857],
+    "alternate_versions": [331073, 737856],
     "artist": "miki kudo",
-    "internal_id": 737857
+    "internal_id": 737856
   },
   {
     "expansion": "A4b",
@@ -52489,7 +52489,7 @@
     ],
     "weakness": "none",
     "retreat": 1,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -52545,7 +52545,7 @@
     ],
     "weakness": "none",
     "retreat": 1,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -52629,7 +52629,7 @@
     ],
     "weakness": "lightning",
     "retreat": 1,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -52685,7 +52685,7 @@
     ],
     "weakness": "lightning",
     "retreat": 1,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -52769,7 +52769,7 @@
     ],
     "weakness": "fighting",
     "retreat": 1,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -52853,7 +52853,7 @@
     ],
     "weakness": "lightning",
     "retreat": 1,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -52909,7 +52909,7 @@
     ],
     "weakness": "fighting",
     "retreat": 2,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -52993,7 +52993,7 @@
     ],
     "weakness": "fighting",
     "retreat": 1,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -53141,7 +53141,7 @@
     ],
     "weakness": "fighting",
     "retreat": 1,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -53174,7 +53174,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [401537, 739649],
+    "alternate_versions": [401537, 739648],
     "artist": "0313",
     "internal_id": 401537
   },
@@ -53197,14 +53197,14 @@
     ],
     "weakness": "fighting",
     "retreat": 1,
-    "rarity": "◊◊",
+    "rarity": "◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [401537, 739649],
+    "alternate_versions": [401537, 739648],
     "artist": "0313",
-    "internal_id": 739649
+    "internal_id": 739648
   },
   {
     "expansion": "A4b",
@@ -53253,7 +53253,7 @@
     ],
     "weakness": "fighting",
     "retreat": 2,
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -53318,7 +53318,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [266562, 267332, 739970],
+    "alternate_versions": [266562, 267332, 739968],
     "artist": "Mizue",
     "internal_id": 266562
   },
@@ -53345,14 +53345,14 @@
     },
     "weakness": "lightning",
     "retreat": 1,
-    "rarity": "◊◊◊",
+    "rarity": "◊◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [266562, 267332, 739970],
+    "alternate_versions": [266562, 267332, 739968],
     "artist": "Mizue",
-    "internal_id": 739970
+    "internal_id": 739968
   },
   {
     "expansion": "A4b",
@@ -53410,7 +53410,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [462593, 740161, 858120],
+    "alternate_versions": [462593, 740160, 858120],
     "artist": "match",
     "internal_id": 462593
   },
@@ -53433,14 +53433,14 @@
     ],
     "weakness": "fighting",
     "retreat": 2,
-    "rarity": "◊◊",
+    "rarity": "◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [462593, 740161, 858120],
+    "alternate_versions": [462593, 740160, 858120],
     "artist": "match",
-    "internal_id": 740161
+    "internal_id": 740160
   },
   {
     "expansion": "A4b",
@@ -53466,7 +53466,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [462658, 463492, 740290, 858184],
+    "alternate_versions": [462658, 463492, 740288, 858184],
     "artist": "Eske Yoshinob",
     "internal_id": 462658
   },
@@ -53489,14 +53489,14 @@
     ],
     "weakness": "fighting",
     "retreat": 1,
-    "rarity": "◊◊◊",
+    "rarity": "◊◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [462658, 463492, 740290, 858184],
+    "alternate_versions": [462658, 463492, 740288, 858184],
     "artist": "Eske Yoshinob",
-    "internal_id": 740290
+    "internal_id": 740288
   },
   {
     "expansion": "A4b",
@@ -53526,7 +53526,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [462722, 463556, 740418],
+    "alternate_versions": [462722, 463556, 740416],
     "artist": "kawayoo",
     "internal_id": 462722
   },
@@ -53553,14 +53553,14 @@
     },
     "weakness": "lightning",
     "retreat": 4,
-    "rarity": "◊◊◊",
+    "rarity": "◊◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [462722, 463556, 740418],
+    "alternate_versions": [462722, 463556, 740416],
     "artist": "kawayoo",
-    "internal_id": 740418
+    "internal_id": 740416
   },
   {
     "expansion": "A4b",
@@ -53586,7 +53586,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [332033, 740545, 12586192],
+    "alternate_versions": [332033, 740544, 12586192],
     "artist": "HAGIYA Kaoru",
     "internal_id": 332033
   },
@@ -53609,14 +53609,14 @@
     ],
     "weakness": "fighting",
     "retreat": 1,
-    "rarity": "◊◊",
+    "rarity": "◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [332033, 740545, 12586192],
+    "alternate_versions": [332033, 740544, 12586192],
     "artist": "HAGIYA Kaoru",
-    "internal_id": 740545
+    "internal_id": 740544
   },
   {
     "expansion": "A4b",
@@ -53637,7 +53637,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [528513, 531148, 740673],
+    "alternate_versions": [528513, 531148, 740672],
     "artist": "AYUMI ODASHIMA",
     "internal_id": 528513
   },
@@ -53655,14 +53655,14 @@
       "effect": "Choose 1:① During this turn, attacks used by your Pokémon that evolve from Eevee do +10 damage to your opponent's Active Pokémon.② Heal 20 damage from each of your Pokémon that evolves from Eevee.\n\n            \n                    \n    \n            Illustrated by \n            \n                AYUMI ODASHIMA"
     },
     "weakness": "N/A",
-    "rarity": "◊◊",
+    "rarity": "◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [528513, 531148, 740673],
+    "alternate_versions": [528513, 531148, 740672],
     "artist": "AYUMI ODASHIMA",
-    "internal_id": 740673
+    "internal_id": 740672
   },
   {
     "expansion": "A4b",
@@ -53683,7 +53683,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [599489, 740801],
+    "alternate_versions": [599489, 740800],
     "artist": "Toyste Beach",
     "internal_id": 599489
   },
@@ -53701,14 +53701,14 @@
       "effect": "Move a [R], [W], or [L] Energy from 1 of your Benched Pokémon to your Active Pokémon.\n\n            \n                    \n    \n            Illustrated by \n            \n                Toyste Beach"
     },
     "weakness": "N/A",
-    "rarity": "◊◊",
+    "rarity": "◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [599489, 740801],
+    "alternate_versions": [599489, 740800],
     "artist": "Toyste Beach",
-    "internal_id": 740801
+    "internal_id": 740800
   },
   {
     "expansion": "A4b",
@@ -53749,7 +53749,7 @@
       "effect": "Play this card as if it were a 40-HP Basic [C] Pokémon.At any time during your turn, you may discard this card from play.This card can't retreat.\n\n            \n                    \n    \n            Illustrated by \n            \n                Toyste Beach"
     },
     "weakness": "N/A",
-    "rarity": "◊",
+    "rarity": "◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
@@ -53777,7 +53777,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [402433, 741057, 745164],
+    "alternate_versions": [402433, 741056, 745164],
     "artist": "Toyste Beach",
     "internal_id": 402433
   },
@@ -53795,14 +53795,14 @@
       "effect": "Choose 1 of your Basic Pokémon in play. If you have a Stage 2 card in your hand that evolves from that Pokémon, put that card onto the Basic Pokémon to evolve it, skipping the Stage 1. You can't use this card during your first turn or on a Basic Pokémon that was put into play this turn.\n\n            \n                    \n    \n            Illustrated by \n            \n                Toyste Beach"
     },
     "weakness": "N/A",
-    "rarity": "◊◊",
+    "rarity": "◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [402433, 741057, 745164],
+    "alternate_versions": [402433, 741056, 745164],
     "artist": "Toyste Beach",
-    "internal_id": 741057
+    "internal_id": 741056
   },
   {
     "expansion": "A4b",
@@ -53823,7 +53823,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [205953, 741185],
+    "alternate_versions": [205953, 741184],
     "artist": "Ayaka Yoshida",
     "internal_id": 205953
   },
@@ -53841,14 +53841,14 @@
       "effect": "Choose a Pokémon in your hand and switch it with a random Pokémon in your deck.\n\n            \n                    \n    \n            Illustrated by \n            \n                Ayaka Yoshida"
     },
     "weakness": "N/A",
-    "rarity": "◊◊",
+    "rarity": "◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [205953, 741185],
+    "alternate_versions": [205953, 741184],
     "artist": "Ayaka Yoshida",
-    "internal_id": 741185
+    "internal_id": 741184
   },
   {
     "expansion": "A4b",
@@ -53869,7 +53869,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [462913, 741313],
+    "alternate_versions": [462913, 741312],
     "artist": "Toyste Beach",
     "internal_id": 462913
   },
@@ -53887,14 +53887,14 @@
       "effect": "If the [L] Pokémon this card is attached to is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokémon, move 2 [L] Energy from that Pokémon and attach 1 Energy each to 2 of your Benched Pokémon.\n\n            \n                    \n    \n            Illustrated by \n            \n                Toyste Beach"
     },
     "weakness": "N/A",
-    "rarity": "◊◊",
+    "rarity": "◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [462913, 741313],
+    "alternate_versions": [462913, 741312],
     "artist": "Toyste Beach",
-    "internal_id": 741313
+    "internal_id": 741312
   },
   {
     "expansion": "A4b",
@@ -53915,7 +53915,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [206017, 741441],
+    "alternate_versions": [206017, 741440],
     "artist": "Ryo Ueda",
     "internal_id": 206017
   },
@@ -53933,14 +53933,14 @@
       "effect": "The Pokémon this card is attached to gets +20 HP.\n\n            \n                    \n    \n            Illustrated by \n            \n                Ryo Ueda"
     },
     "weakness": "N/A",
-    "rarity": "◊◊",
+    "rarity": "◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [206017, 741441],
+    "alternate_versions": [206017, 741440],
     "artist": "Ryo Ueda",
-    "internal_id": 741441
+    "internal_id": 741440
   },
   {
     "expansion": "A4b",
@@ -53961,7 +53961,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [206081, 741569],
+    "alternate_versions": [206081, 741568],
     "artist": "Ayaka Yoshida",
     "internal_id": 206081
   },
@@ -53979,14 +53979,14 @@
       "effect": "If the Pokémon this card is attached to is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 20 damage to the Attacking Pokémon.\n\n            \n                    \n    \n            Illustrated by \n            \n                Ayaka Yoshida"
     },
     "weakness": "N/A",
-    "rarity": "◊◊",
+    "rarity": "◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [206081, 741569],
+    "alternate_versions": [206081, 741568],
     "artist": "Ayaka Yoshida",
-    "internal_id": 741569
+    "internal_id": 741568
   },
   {
     "expansion": "A4b",
@@ -54007,7 +54007,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [402625, 741697],
+    "alternate_versions": [402625, 741696],
     "artist": "Toyste Beach",
     "internal_id": 402625
   },
@@ -54025,14 +54025,14 @@
       "effect": "The [G] Pokémon this card is attached to gets +30 HP.\n\n            \n                    \n    \n            Illustrated by \n            \n                Toyste Beach"
     },
     "weakness": "N/A",
-    "rarity": "◊◊",
+    "rarity": "◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [402625, 741697],
+    "alternate_versions": [402625, 741696],
     "artist": "Toyste Beach",
-    "internal_id": 741697
+    "internal_id": 741696
   },
   {
     "expansion": "A4b",
@@ -54053,7 +54053,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [206209, 208773, 741825],
+    "alternate_versions": [206209, 208773, 741824],
     "artist": "akagi",
     "internal_id": 206209
   },
@@ -54071,14 +54071,14 @@
       "effect": "Switch in 1 of your opponent's Benched Pokémon that has damage on it to the Active Spot.\n\n            \n                    \n    \n            Illustrated by \n            \n                akagi"
     },
     "weakness": "N/A",
-    "rarity": "◊◊",
+    "rarity": "◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [206209, 208773, 741825],
+    "alternate_versions": [206209, 208773, 741824],
     "artist": "akagi",
-    "internal_id": 741825
+    "internal_id": 741824
   },
   {
     "expansion": "A4b",
@@ -54099,7 +54099,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [79553, 82565, 741953],
+    "alternate_versions": [79553, 82565, 741952],
     "artist": "kirisAki",
     "internal_id": 79553
   },
@@ -54117,14 +54117,14 @@
       "effect": "Heal 50 damage from 1 of your [G] Pokémon.\n\n            \n                    \n    \n            Illustrated by \n            \n                kirisAki"
     },
     "weakness": "N/A",
-    "rarity": "◊◊",
+    "rarity": "◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [79553, 82565, 741953],
+    "alternate_versions": [79553, 82565, 741952],
     "artist": "kirisAki",
-    "internal_id": 741953
+    "internal_id": 741952
   },
   {
     "expansion": "A4b",
@@ -54145,7 +54145,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [266753, 267717, 742081],
+    "alternate_versions": [266753, 267717, 742080],
     "artist": "Atsushi Furusawa",
     "internal_id": 266753
   },
@@ -54163,14 +54163,14 @@
       "effect": "Heal 40 damage from each of your Pokémon that has any [W] Energy attached.\n\n            \n                    \n    \n            Illustrated by \n            \n                Atsushi Furusawa"
     },
     "weakness": "N/A",
-    "rarity": "◊◊",
+    "rarity": "◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [266753, 267717, 742081],
+    "alternate_versions": [266753, 267717, 742080],
     "artist": "Atsushi Furusawa",
-    "internal_id": 742081
+    "internal_id": 742080
   },
   {
     "expansion": "A4b",
@@ -54191,7 +54191,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [599873, 602437, 742209],
+    "alternate_versions": [599873, 602437, 742208],
     "artist": "yuu",
     "internal_id": 599873
   },
@@ -54209,14 +54209,14 @@
       "effect": "Switch your Active Pokémon that has damage on it with 1 of your Benched Pokémon.\n\n            \n                    \n    \n            Illustrated by \n            \n                yuu"
     },
     "weakness": "N/A",
-    "rarity": "◊◊",
+    "rarity": "◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [599873, 602437, 742209],
+    "alternate_versions": [599873, 602437, 742208],
     "artist": "yuu",
-    "internal_id": 742209
+    "internal_id": 742208
   },
   {
     "expansion": "A4b",
@@ -54237,7 +54237,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [79809, 82821, 742337],
+    "alternate_versions": [79809, 82821, 742336],
     "artist": "Hideki Ishikawa",
     "internal_id": 79809
   },
@@ -54255,14 +54255,14 @@
       "effect": "During this turn, attacks used by your Pokémon do +10 damage to your opponent's Active Pokémon.\n\n            \n                    \n    \n            Illustrated by \n            \n                Hideki Ishikawa"
     },
     "weakness": "N/A",
-    "rarity": "◊◊",
+    "rarity": "◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [79809, 82821, 742337],
+    "alternate_versions": [79809, 82821, 742336],
     "artist": "Hideki Ishikawa",
-    "internal_id": 742337
+    "internal_id": 742336
   },
   {
     "expansion": "A4b",
@@ -54283,7 +54283,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [599937, 602501, 742465],
+    "alternate_versions": [599937, 602501, 742464],
     "artist": "Hideki Ishikawa",
     "internal_id": 599937
   },
@@ -54301,14 +54301,14 @@
       "effect": "Your opponent reveals their hand. Choose a Supporter card you find there and shuffle it into your opponent's deck.\n\n            \n                    \n    \n            Illustrated by \n            \n                Hideki Ishikawa"
     },
     "weakness": "N/A",
-    "rarity": "◊◊",
+    "rarity": "◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [599937, 602501, 742465],
+    "alternate_versions": [599937, 602501, 742464],
     "artist": "Hideki Ishikawa",
-    "internal_id": 742465
+    "internal_id": 742464
   },
   {
     "expansion": "A4b",
@@ -54329,7 +54329,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [79937, 82949, 742593],
+    "alternate_versions": [79937, 82949, 742592],
     "artist": "Yuu Nishida",
     "internal_id": 79937
   },
@@ -54347,14 +54347,14 @@
       "effect": "Switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)\n\n            \n                    \n    \n            Illustrated by \n            \n                Yuu Nishida"
     },
     "weakness": "N/A",
-    "rarity": "◊◊",
+    "rarity": "◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [79937, 82949, 742593],
+    "alternate_versions": [79937, 82949, 742592],
     "artist": "Yuu Nishida",
-    "internal_id": 742593
+    "internal_id": 742592
   },
   {
     "expansion": "A4b",
@@ -54375,7 +54375,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [332097, 333317, 333377, 742721, 989829],
+    "alternate_versions": [332097, 333317, 333377, 742720, 989829],
     "artist": "saino misaki",
     "internal_id": 332097
   },
@@ -54393,14 +54393,14 @@
       "effect": "Each player shuffles the cards in their hand into their deck, then draws that many cards.\n\n            \n                    \n    \n            Illustrated by \n            \n                saino misaki"
     },
     "weakness": "N/A",
-    "rarity": "◊◊",
+    "rarity": "◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [332097, 333317, 333377, 742721, 989829],
+    "alternate_versions": [332097, 333317, 333377, 742720, 989829],
     "artist": "saino misaki",
-    "internal_id": 742721
+    "internal_id": 742720
   },
   {
     "expansion": "A4b",
@@ -54421,7 +54421,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [206465, 209029, 742849],
+    "alternate_versions": [206465, 209029, 742848],
     "artist": "saino misaki",
     "internal_id": 206465
   },
@@ -54439,14 +54439,14 @@
       "effect": "Move an Energy from 1 of your Benched Pokémon to your Active Pokémon.\n\n            \n                    \n    \n            Illustrated by \n            \n                saino misaki"
     },
     "weakness": "N/A",
-    "rarity": "◊◊",
+    "rarity": "◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [206465, 209029, 742849],
+    "alternate_versions": [206465, 209029, 742848],
     "artist": "saino misaki",
-    "internal_id": 742849
+    "internal_id": 742848
   },
   {
     "expansion": "A4b",
@@ -54467,7 +54467,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [206529, 209093, 742977],
+    "alternate_versions": [206529, 209093, 742976],
     "artist": "Yuu Nishida",
     "internal_id": 206529
   },
@@ -54485,14 +54485,14 @@
       "effect": "Your opponent shuffles their hand into their deck and draws a card for each of their remaining points needed to win.\n\n            \n                    \n    \n            Illustrated by \n            \n                Yuu Nishida"
     },
     "weakness": "N/A",
-    "rarity": "◊◊",
+    "rarity": "◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [206529, 209093, 742977],
+    "alternate_versions": [206529, 209093, 742976],
     "artist": "Yuu Nishida",
-    "internal_id": 742977
+    "internal_id": 742976
   },
   {
     "expansion": "A4b",
@@ -54513,7 +54513,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [135425, 136325, 743105],
+    "alternate_versions": [135425, 136325, 743104],
     "artist": "En Morikura",
     "internal_id": 135425
   },
@@ -54531,14 +54531,14 @@
       "effect": "During this turn, the Retreat Cost of your Active Pokémon is 2 less.\n\n            \n                    \n    \n            Illustrated by \n            \n                En Morikura"
     },
     "weakness": "N/A",
-    "rarity": "◊◊",
+    "rarity": "◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [135425, 136325, 743105],
+    "alternate_versions": [135425, 136325, 743104],
     "artist": "En Morikura",
-    "internal_id": 743105
+    "internal_id": 743104
   },
   {
     "expansion": "A4b",
@@ -54559,7 +54559,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [403137, 405829, 406598, 743233, 744837],
+    "alternate_versions": [403137, 405829, 406598, 743232, 744837],
     "artist": "hechima",
     "internal_id": 403137
   },
@@ -54577,14 +54577,14 @@
       "effect": "Heal 60 damage from 1 of your Stage 2 Pokemon.\n\n            \n                    \n    \n            Illustrated by \n            \n                hechima"
     },
     "weakness": "N/A",
-    "rarity": "◊◊",
+    "rarity": "◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [403137, 405829, 406598, 743233, 744837],
+    "alternate_versions": [403137, 405829, 406598, 743232, 744837],
     "artist": "hechima",
-    "internal_id": 743233
+    "internal_id": 743232
   },
   {
     "expansion": "A4b",
@@ -54605,7 +54605,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [463169, 464069, 743361, 744901],
+    "alternate_versions": [463169, 464069, 743360, 744901],
     "artist": "Taira Akitsu",
     "internal_id": 463169
   },
@@ -54623,14 +54623,14 @@
       "effect": "You can use this card only if your opponent has gotten at least 1 point.Choose 1 of your Ultra Beasts. Attach 2 random Energy from your discard pile to that Pokémon.\n\n            \n                    \n    \n            Illustrated by \n            \n                Taira Akitsu"
     },
     "weakness": "N/A",
-    "rarity": "◊◊",
+    "rarity": "◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [463169, 464069, 743361, 744901],
+    "alternate_versions": [463169, 464069, 743360, 744901],
     "artist": "Taira Akitsu",
-    "internal_id": 743361
+    "internal_id": 743360
   },
   {
     "expansion": "A4b",
@@ -54651,7 +54651,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [332225, 333445, 743489],
+    "alternate_versions": [332225, 333445, 743488],
     "artist": "Teeziro",
     "internal_id": 332225
   },
@@ -54669,14 +54669,14 @@
       "effect": "During this turn, attacks used by your Pokémon do +20 damage to your opponent's Active Pokémon ex.\n\n            \n                    \n    \n            Illustrated by \n            \n                Teeziro"
     },
     "weakness": "N/A",
-    "rarity": "◊◊",
+    "rarity": "◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [332225, 333445, 743489],
+    "alternate_versions": [332225, 333445, 743488],
     "artist": "Teeziro",
-    "internal_id": 743489
+    "internal_id": 743488
   },
   {
     "expansion": "A4b",
@@ -54702,7 +54702,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [328065, 724225, 743556],
+    "alternate_versions": [328065, 724224, 743556],
     "artist": "Kariya",
     "internal_id": 743556
   },
@@ -54734,7 +54734,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [593730, 727618, 743620],
+    "alternate_versions": [593730, 727616, 743620],
     "artist": "REND",
     "internal_id": 743620
   },
@@ -54766,7 +54766,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [71234, 464712, 728258, 743684, 12584144],
+    "alternate_versions": [71234, 464712, 728256, 743684, 12584144],
     "artist": "Noriaki Tanimura",
     "internal_id": 743684
   },
@@ -54798,7 +54798,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [73986, 530632, 731714, 743748],
+    "alternate_versions": [73986, 530632, 731712, 743748],
     "artist": "Tomomi Ozaki",
     "internal_id": 743748
   },
@@ -54826,7 +54826,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [526337, 732161, 743812],
+    "alternate_versions": [526337, 732160, 743812],
     "artist": "Orca",
     "internal_id": 743812
   },
@@ -55316,7 +55316,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [403137, 405829, 406598, 743233, 744837],
+    "alternate_versions": [403137, 405829, 406598, 743232, 744837],
     "artist": "yuu",
     "internal_id": 744837
   },
@@ -55339,7 +55339,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [463169, 464069, 743361, 744901],
+    "alternate_versions": [463169, 464069, 743360, 744901],
     "artist": "Taira Akitsu",
     "internal_id": 744901
   },
@@ -55454,7 +55454,7 @@
     "baby": false,
     "set_details": "deluxepack:ex",
     "pack": "everypack",
-    "alternate_versions": [402433, 741057, 745164],
+    "alternate_versions": [402433, 741056, 745164],
     "artist": "Toyste Beach",
     "internal_id": 745164
   },
@@ -61296,7 +61296,7 @@
     "baby": false,
     "set_details": "megarising(b1)",
     "pack": "megablazikenpack",
-    "alternate_versions": [799617, 799681, 799745],
+    "alternate_versions": [799617, 799680, 799744],
     "artist": "Teeziro",
     "internal_id": 799617
   },
@@ -61323,14 +61323,14 @@
     },
     "weakness": "fighting",
     "retreat": 1,
-    "rarity": "◊◊",
+    "rarity": "◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "megarising(b1)",
     "pack": "megaaltariapack",
-    "alternate_versions": [799617, 799681, 799745],
+    "alternate_versions": [799617, 799680, 799744],
     "artist": "Tika Matsuno",
-    "internal_id": 799681
+    "internal_id": 799680
   },
   {
     "expansion": "B1",
@@ -61355,14 +61355,14 @@
     },
     "weakness": "fighting",
     "retreat": 1,
-    "rarity": "◊◊",
+    "rarity": "◊◊foil",
     "ex": false,
     "baby": false,
     "set_details": "megarising(b1)",
     "pack": "megagyaradospack",
-    "alternate_versions": [799617, 799681, 799745],
+    "alternate_versions": [799617, 799680, 799744],
     "artist": "kawayoo",
-    "internal_id": 799745
+    "internal_id": 799744
   },
   {
     "expansion": "B1",
@@ -63744,7 +63744,7 @@
     "baby": false,
     "set_details": "megarising(b1)",
     "pack": "megagyaradospack",
-    "alternate_versions": [395265, 726081, 805256],
+    "alternate_versions": [395265, 726080, 805256],
     "artist": "whomor Inc.",
     "internal_id": 805256
   },
@@ -63888,7 +63888,7 @@
     "baby": false,
     "set_details": "megarising(b1)",
     "pack": "megablazikenpack",
-    "alternate_versions": [199809, 206980, 727873, 805576, 12586000],
+    "alternate_versions": [199809, 206980, 727872, 805576, 12586000],
     "artist": "MAHOU",
     "internal_id": 805576
   },
@@ -64004,7 +64004,7 @@
     "baby": false,
     "set_details": "megarising(b1)",
     "pack": "megagyaradospack",
-    "alternate_versions": [397442, 403780, 730306, 805832],
+    "alternate_versions": [397442, 403780, 730304, 805832],
     "artist": "whomor Inc.",
     "internal_id": 805832
   },
@@ -64036,7 +64036,7 @@
     "baby": false,
     "set_details": "megarising(b1)",
     "pack": "megaaltariapack",
-    "alternate_versions": [460098, 730498, 805896, 12587664],
+    "alternate_versions": [460098, 730496, 805896, 12587664],
     "artist": "Souichirou Gunjima",
     "internal_id": 805896
   },
@@ -67529,7 +67529,7 @@
     "baby": false,
     "set_details": "crimsonblaze(b1a)",
     "pack": "everypack",
-    "alternate_versions": [462593, 740161, 858120],
+    "alternate_versions": [462593, 740160, 858120],
     "artist": "Taiga Kasai",
     "internal_id": 858120
   },
@@ -67557,7 +67557,7 @@
     "baby": false,
     "set_details": "crimsonblaze(b1a)",
     "pack": "everypack",
-    "alternate_versions": [462658, 463492, 740290, 858184],
+    "alternate_versions": [462658, 463492, 740288, 858184],
     "artist": "Taiga Kasai",
     "internal_id": 858184
   },
@@ -73624,7 +73624,7 @@
     "baby": false,
     "set_details": "fantasticalparade(b2)",
     "pack": "everypack",
-    "alternate_versions": [592513, 726721, 930888],
+    "alternate_versions": [592513, 726720, 930888],
     "artist": "Taiga Kasai",
     "internal_id": 930888
   },
@@ -76847,7 +76847,7 @@
     "baby": false,
     "set_details": "paldeanwonders(b2a)",
     "pack": "everypack",
-    "alternate_versions": [332097, 333317, 333377, 742721, 989829],
+    "alternate_versions": [332097, 333317, 333377, 742720, 989829],
     "artist": "Sanosuke Sakuma",
     "internal_id": 333377
   },
@@ -77309,7 +77309,7 @@
     "baby": false,
     "set_details": "paldeanwonders(b2a)",
     "pack": "everypack",
-    "alternate_versions": [332097, 333317, 333377, 742721, 989829],
+    "alternate_versions": [332097, 333317, 333377, 742720, 989829],
     "artist": "Sanosuke Sakuma",
     "internal_id": 989829
   },
@@ -77641,7 +77641,7 @@
     "baby": false,
     "set_details": "paldeanwonders(b2a)",
     "pack": "everypack",
-    "alternate_versions": [328130, 332356, 724354, 990600],
+    "alternate_versions": [328130, 332356, 724352, 990600],
     "artist": "Souichirou Gunjima",
     "internal_id": 990600
   },
@@ -93954,7 +93954,7 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1310784, 1320712],
+    "alternate_versions": [1310784, 1320708],
     "artist": "ryoma uratsuka",
     "internal_id": 1310784
   },
@@ -94098,7 +94098,7 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1311105, 1320776],
+    "alternate_versions": [1311105, 1320772],
     "artist": "Kouki Saitou",
     "internal_id": 1311105
   },
@@ -94182,7 +94182,7 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1311296, 1320840],
+    "alternate_versions": [1311296, 1320836],
     "artist": "Anesaki Dynamic",
     "internal_id": 1311296
   },
@@ -94238,7 +94238,7 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1311427, 1322249, 1323145],
+    "alternate_versions": [1311427, 1322245, 1323141],
     "artist": "PLANETA CG Works",
     "internal_id": 1311427
   },
@@ -94322,7 +94322,7 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1311618, 1320904],
+    "alternate_versions": [1311618, 1320900],
     "artist": "Hasuno",
     "internal_id": 1311618
   },
@@ -94494,7 +94494,7 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1312000, 1320968],
+    "alternate_versions": [1312000, 1320964],
     "artist": "Saya Tsuruta",
     "internal_id": 1312000
   },
@@ -94634,7 +94634,7 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1312321, 1321032],
+    "alternate_versions": [1312321, 1321028],
     "artist": "Naoyo Kimura",
     "internal_id": 1312321
   },
@@ -94662,7 +94662,7 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1312387, 1322313, 1323209],
+    "alternate_versions": [1312387, 1322309, 1323205],
     "artist": "PLANETA CG Works",
     "internal_id": 1312387
   },
@@ -94914,7 +94914,7 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1312963, 1322377, 1323273],
+    "alternate_versions": [1312963, 1322373, 1323269],
     "artist": "PLANETA CG Works",
     "internal_id": 1312963
   },
@@ -94970,7 +94970,7 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1313091, 1322441, 1323337],
+    "alternate_versions": [1313091, 1322437, 1323333],
     "artist": "PLANETA CG Works",
     "internal_id": 1313091
   },
@@ -95082,7 +95082,7 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1313346, 1321096],
+    "alternate_versions": [1313346, 1321092],
     "artist": "Shin Nagasawa",
     "internal_id": 1313346
   },
@@ -95170,7 +95170,7 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1313538, 1321160],
+    "alternate_versions": [1313538, 1321156],
     "artist": "Masakazu Fukuda",
     "internal_id": 1313538
   },
@@ -95342,7 +95342,7 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1313922, 1321224, 1325580],
+    "alternate_versions": [1313922, 1321220, 1325580],
     "artist": "GIDORA",
     "internal_id": 1313922
   },
@@ -95482,7 +95482,7 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1314243, 1322505, 1323654],
+    "alternate_versions": [1314243, 1322501, 1323654],
     "artist": "PLANETA CG Works",
     "internal_id": 1314243
   },
@@ -95678,7 +95678,7 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1314688, 1321288],
+    "alternate_versions": [1314688, 1321284],
     "artist": "Shin Nagasawa",
     "internal_id": 1314688
   },
@@ -95734,7 +95734,7 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1314816, 1321352],
+    "alternate_versions": [1314816, 1321348],
     "artist": "sowsow",
     "internal_id": 1314816
   },
@@ -95930,7 +95930,7 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1315264, 1321416],
+    "alternate_versions": [1315264, 1321412],
     "artist": "Nagomi Nijo",
     "internal_id": 1315264
   },
@@ -96014,7 +96014,7 @@
     "baby": true,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1315458, 1321480],
+    "alternate_versions": [1315458, 1321476],
     "artist": "Kagemaru Himeno",
     "internal_id": 1315458
   },
@@ -96126,7 +96126,7 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1315713, 1321544],
+    "alternate_versions": [1315713, 1321540],
     "artist": "mingo",
     "internal_id": 1315713
   },
@@ -96210,7 +96210,7 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1315905, 1321608],
+    "alternate_versions": [1315905, 1321604],
     "artist": "Kouki Saitou",
     "internal_id": 1315905
   },
@@ -96294,7 +96294,7 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1316099, 1322569, 1323401],
+    "alternate_versions": [1316099, 1322565, 1323397],
     "artist": "PLANETA CG Works",
     "internal_id": 1316099
   },
@@ -96546,7 +96546,7 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1316672, 1321672],
+    "alternate_versions": [1316672, 1321668],
     "artist": "ryoma uratsuka",
     "internal_id": 1316672
   },
@@ -96686,7 +96686,7 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1316992, 1321736],
+    "alternate_versions": [1316992, 1321732],
     "artist": "Sumiyoshi Kizuki",
     "internal_id": 1316992
   },
@@ -96770,7 +96770,7 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1317184, 1321800],
+    "alternate_versions": [1317184, 1321796],
     "artist": "Shigenori Negishi",
     "internal_id": 1317184
   },
@@ -96832,7 +96832,7 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1317315, 1322633, 1323465],
+    "alternate_versions": [1317315, 1322629, 1323461],
     "artist": "PLANETA CG Works",
     "internal_id": 1317315
   },
@@ -97004,7 +97004,7 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1317699, 1322697, 1323529],
+    "alternate_versions": [1317699, 1322693, 1323525],
     "artist": "PLANETA Yamashita",
     "internal_id": 1317699
   },
@@ -97060,7 +97060,7 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1317826, 1321864],
+    "alternate_versions": [1317826, 1321860],
     "artist": "Nelnal",
     "internal_id": 1317826
   },
@@ -97236,7 +97236,7 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1318209, 1321928, 1325644],
+    "alternate_versions": [1318209, 1321924, 1325644],
     "artist": "HACCAN",
     "internal_id": 1318209
   },
@@ -97320,7 +97320,7 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1318403, 1322761, 1323718],
+    "alternate_versions": [1318403, 1322757, 1323718],
     "artist": "PLANETA Igarashi",
     "internal_id": 1318403
   },
@@ -97376,7 +97376,7 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1318530, 1321992, 12653776],
+    "alternate_versions": [1318530, 1321988, 12653776],
     "artist": "aoki",
     "internal_id": 1318530
   },
@@ -97544,7 +97544,7 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1318913, 1322056],
+    "alternate_versions": [1318913, 1322052],
     "artist": "Iori Suzuki",
     "internal_id": 1318913
   },
@@ -97604,7 +97604,7 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1319042, 1322120, 1324872],
+    "alternate_versions": [1319042, 1322116, 1324872],
     "artist": "sowsow",
     "internal_id": 1319042
   },
@@ -97660,7 +97660,7 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1319168, 1322184],
+    "alternate_versions": [1319168, 1322180],
     "artist": "Sekio",
     "internal_id": 1319168
   },
@@ -97912,7 +97912,7 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1319747, 1322825, 1323593],
+    "alternate_versions": [1319747, 1322821, 1323589],
     "artist": "PLANETA CG Works",
     "internal_id": 1319747
   },
@@ -98138,7 +98138,7 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1320321, 1322889],
+    "alternate_versions": [1320321, 1322885],
     "artist": "GIDORA",
     "internal_id": 1320321
   },
@@ -98161,7 +98161,7 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1320385, 1322953],
+    "alternate_versions": [1320385, 1322949],
     "artist": "Souichirou Gunjima",
     "internal_id": 1320385
   },
@@ -98184,7 +98184,7 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1320449, 1323017],
+    "alternate_versions": [1320449, 1323013],
     "artist": "Nobusawa/Mochipuyo",
     "internal_id": 1320449
   },
@@ -98207,7 +98207,7 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1320513, 1323081],
+    "alternate_versions": [1320513, 1323077],
     "artist": "Teeziro",
     "internal_id": 1320513
   },
@@ -98281,9 +98281,9 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1310784, 1320712],
+    "alternate_versions": [1310784, 1320708],
     "artist": "Ounishi",
-    "internal_id": 1320712
+    "internal_id": 1320708
   },
   {
     "expansion": "B4",
@@ -98309,9 +98309,9 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1311105, 1320776],
+    "alternate_versions": [1311105, 1320772],
     "artist": "Gapao",
-    "internal_id": 1320776
+    "internal_id": 1320772
   },
   {
     "expansion": "B4",
@@ -98337,9 +98337,9 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1311296, 1320840],
+    "alternate_versions": [1311296, 1320836],
     "artist": "OKACHEKE",
-    "internal_id": 1320840
+    "internal_id": 1320836
   },
   {
     "expansion": "B4",
@@ -98365,9 +98365,9 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1311618, 1320904],
+    "alternate_versions": [1311618, 1320900],
     "artist": "NC Empire",
-    "internal_id": 1320904
+    "internal_id": 1320900
   },
   {
     "expansion": "B4",
@@ -98393,9 +98393,9 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1312000, 1320968],
+    "alternate_versions": [1312000, 1320964],
     "artist": "Yoko Hishida",
-    "internal_id": 1320968
+    "internal_id": 1320964
   },
   {
     "expansion": "B4",
@@ -98421,9 +98421,9 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1312321, 1321032],
+    "alternate_versions": [1312321, 1321028],
     "artist": "Uninori",
-    "internal_id": 1321032
+    "internal_id": 1321028
   },
   {
     "expansion": "B4",
@@ -98449,9 +98449,9 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1313346, 1321096],
+    "alternate_versions": [1313346, 1321092],
     "artist": "chibi",
-    "internal_id": 1321096
+    "internal_id": 1321092
   },
   {
     "expansion": "B4",
@@ -98481,9 +98481,9 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1313538, 1321160],
+    "alternate_versions": [1313538, 1321156],
     "artist": "Ligton",
-    "internal_id": 1321160
+    "internal_id": 1321156
   },
   {
     "expansion": "B4",
@@ -98513,9 +98513,9 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1313922, 1321224, 1325580],
+    "alternate_versions": [1313922, 1321220, 1325580],
     "artist": "HYOGONOSUKE",
-    "internal_id": 1321224
+    "internal_id": 1321220
   },
   {
     "expansion": "B4",
@@ -98541,9 +98541,9 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1314688, 1321288],
+    "alternate_versions": [1314688, 1321284],
     "artist": "Taira Akitsu",
-    "internal_id": 1321288
+    "internal_id": 1321284
   },
   {
     "expansion": "B4",
@@ -98569,9 +98569,9 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1314816, 1321352],
+    "alternate_versions": [1314816, 1321348],
     "artist": "Rond",
-    "internal_id": 1321352
+    "internal_id": 1321348
   },
   {
     "expansion": "B4",
@@ -98597,9 +98597,9 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1315264, 1321416],
+    "alternate_versions": [1315264, 1321412],
     "artist": "OKUBO",
-    "internal_id": 1321416
+    "internal_id": 1321412
   },
   {
     "expansion": "B4",
@@ -98625,9 +98625,9 @@
     "baby": true,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1315458, 1321480],
+    "alternate_versions": [1315458, 1321476],
     "artist": "Yoshimoto Yoshimon",
-    "internal_id": 1321480
+    "internal_id": 1321476
   },
   {
     "expansion": "B4",
@@ -98653,9 +98653,9 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1315713, 1321544],
+    "alternate_versions": [1315713, 1321540],
     "artist": "SIE NANAHARA",
-    "internal_id": 1321544
+    "internal_id": 1321540
   },
   {
     "expansion": "B4",
@@ -98681,9 +98681,9 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1315905, 1321608],
+    "alternate_versions": [1315905, 1321604],
     "artist": "Yuriko Akase",
-    "internal_id": 1321608
+    "internal_id": 1321604
   },
   {
     "expansion": "B4",
@@ -98709,9 +98709,9 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1316672, 1321672],
+    "alternate_versions": [1316672, 1321668],
     "artist": "okayamatakatoshi",
-    "internal_id": 1321672
+    "internal_id": 1321668
   },
   {
     "expansion": "B4",
@@ -98737,9 +98737,9 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1316992, 1321736],
+    "alternate_versions": [1316992, 1321732],
     "artist": "Mékayu",
-    "internal_id": 1321736
+    "internal_id": 1321732
   },
   {
     "expansion": "B4",
@@ -98765,9 +98765,9 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1317184, 1321800],
+    "alternate_versions": [1317184, 1321796],
     "artist": "Rianti Hidayat",
-    "internal_id": 1321800
+    "internal_id": 1321796
   },
   {
     "expansion": "B4",
@@ -98793,9 +98793,9 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1317826, 1321864],
+    "alternate_versions": [1317826, 1321860],
     "artist": "Kazumasa Yasukuni",
-    "internal_id": 1321864
+    "internal_id": 1321860
   },
   {
     "expansion": "B4",
@@ -98825,9 +98825,9 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1318209, 1321928, 1325644],
+    "alternate_versions": [1318209, 1321924, 1325644],
     "artist": "rika",
-    "internal_id": 1321928
+    "internal_id": 1321924
   },
   {
     "expansion": "B4",
@@ -98853,9 +98853,9 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1318530, 1321992, 12653776],
+    "alternate_versions": [1318530, 1321988, 12653776],
     "artist": "AKIRA EGAWA",
-    "internal_id": 1321992
+    "internal_id": 1321988
   },
   {
     "expansion": "B4",
@@ -98881,9 +98881,9 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1318913, 1322056],
+    "alternate_versions": [1318913, 1322052],
     "artist": "Natsumi Yoshida",
-    "internal_id": 1322056
+    "internal_id": 1322052
   },
   {
     "expansion": "B4",
@@ -98913,9 +98913,9 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1319042, 1322120, 1324872],
+    "alternate_versions": [1319042, 1322116, 1324872],
     "artist": "MINAMINAMI Take",
-    "internal_id": 1322120
+    "internal_id": 1322116
   },
   {
     "expansion": "B4",
@@ -98941,9 +98941,9 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1319168, 1322184],
+    "alternate_versions": [1319168, 1322180],
     "artist": "osare",
-    "internal_id": 1322184
+    "internal_id": 1322180
   },
   {
     "expansion": "B4",
@@ -98969,9 +98969,9 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1311427, 1322249, 1323145],
+    "alternate_versions": [1311427, 1322245, 1323141],
     "artist": "PLANETA CG Works",
-    "internal_id": 1322249
+    "internal_id": 1322245
   },
   {
     "expansion": "B4",
@@ -98997,9 +98997,9 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1312387, 1322313, 1323209],
+    "alternate_versions": [1312387, 1322309, 1323205],
     "artist": "PLANETA CG Works",
-    "internal_id": 1322313
+    "internal_id": 1322309
   },
   {
     "expansion": "B4",
@@ -99025,9 +99025,9 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1312963, 1322377, 1323273],
+    "alternate_versions": [1312963, 1322373, 1323269],
     "artist": "PLANETA CG Works",
-    "internal_id": 1322377
+    "internal_id": 1322373
   },
   {
     "expansion": "B4",
@@ -99053,9 +99053,9 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1313091, 1322441, 1323337],
+    "alternate_versions": [1313091, 1322437, 1323333],
     "artist": "PLANETA CG Works",
-    "internal_id": 1322441
+    "internal_id": 1322437
   },
   {
     "expansion": "B4",
@@ -99081,9 +99081,9 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1314243, 1322505, 1323654],
+    "alternate_versions": [1314243, 1322501, 1323654],
     "artist": "PLANETA CG Works",
-    "internal_id": 1322505
+    "internal_id": 1322501
   },
   {
     "expansion": "B4",
@@ -99109,9 +99109,9 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1316099, 1322569, 1323401],
+    "alternate_versions": [1316099, 1322565, 1323397],
     "artist": "PLANETA CG Works",
-    "internal_id": 1322569
+    "internal_id": 1322565
   },
   {
     "expansion": "B4",
@@ -99143,9 +99143,9 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1317315, 1322633, 1323465],
+    "alternate_versions": [1317315, 1322629, 1323461],
     "artist": "PLANETA CG Works",
-    "internal_id": 1322633
+    "internal_id": 1322629
   },
   {
     "expansion": "B4",
@@ -99171,9 +99171,9 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1317699, 1322697, 1323529],
+    "alternate_versions": [1317699, 1322693, 1323525],
     "artist": "PLANETA Yamashita",
-    "internal_id": 1322697
+    "internal_id": 1322693
   },
   {
     "expansion": "B4",
@@ -99199,9 +99199,9 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1318403, 1322761, 1323718],
+    "alternate_versions": [1318403, 1322757, 1323718],
     "artist": "PLANETA Igarashi",
-    "internal_id": 1322761
+    "internal_id": 1322757
   },
   {
     "expansion": "B4",
@@ -99227,9 +99227,9 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1319747, 1322825, 1323593],
+    "alternate_versions": [1319747, 1322821, 1323589],
     "artist": "PLANETA CG Works",
-    "internal_id": 1322825
+    "internal_id": 1322821
   },
   {
     "expansion": "B4",
@@ -99250,9 +99250,9 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1320321, 1322889],
+    "alternate_versions": [1320321, 1322885],
     "artist": "GIDORA",
-    "internal_id": 1322889
+    "internal_id": 1322885
   },
   {
     "expansion": "B4",
@@ -99273,9 +99273,9 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1320385, 1322953],
+    "alternate_versions": [1320385, 1322949],
     "artist": "Souichirou Gunjima",
-    "internal_id": 1322953
+    "internal_id": 1322949
   },
   {
     "expansion": "B4",
@@ -99296,9 +99296,9 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1320449, 1323017],
+    "alternate_versions": [1320449, 1323013],
     "artist": "Nobusawa/Mochipuyo",
-    "internal_id": 1323017
+    "internal_id": 1323013
   },
   {
     "expansion": "B4",
@@ -99319,9 +99319,9 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1320513, 1323081],
+    "alternate_versions": [1320513, 1323077],
     "artist": "Teeziro",
-    "internal_id": 1323081
+    "internal_id": 1323077
   },
   {
     "expansion": "B4",
@@ -99347,9 +99347,9 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1311427, 1322249, 1323145],
+    "alternate_versions": [1311427, 1322245, 1323141],
     "artist": "mashu",
-    "internal_id": 1323145
+    "internal_id": 1323141
   },
   {
     "expansion": "B4",
@@ -99375,9 +99375,9 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1312387, 1322313, 1323209],
+    "alternate_versions": [1312387, 1322309, 1323205],
     "artist": "Ryota Murayama",
-    "internal_id": 1323209
+    "internal_id": 1323205
   },
   {
     "expansion": "B4",
@@ -99403,9 +99403,9 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1312963, 1322377, 1323273],
+    "alternate_versions": [1312963, 1322373, 1323269],
     "artist": "Nurikabe",
-    "internal_id": 1323273
+    "internal_id": 1323269
   },
   {
     "expansion": "B4",
@@ -99431,9 +99431,9 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1313091, 1322441, 1323337],
+    "alternate_versions": [1313091, 1322437, 1323333],
     "artist": "USGMEN",
-    "internal_id": 1323337
+    "internal_id": 1323333
   },
   {
     "expansion": "B4",
@@ -99459,9 +99459,9 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1316099, 1322569, 1323401],
+    "alternate_versions": [1316099, 1322565, 1323397],
     "artist": "Kuroimori",
-    "internal_id": 1323401
+    "internal_id": 1323397
   },
   {
     "expansion": "B4",
@@ -99493,9 +99493,9 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1317315, 1322633, 1323465],
+    "alternate_versions": [1317315, 1322629, 1323461],
     "artist": "Yano Keiji",
-    "internal_id": 1323465
+    "internal_id": 1323461
   },
   {
     "expansion": "B4",
@@ -99521,9 +99521,9 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1317699, 1322697, 1323529],
+    "alternate_versions": [1317699, 1322693, 1323525],
     "artist": "GOSSAN",
-    "internal_id": 1323529
+    "internal_id": 1323525
   },
   {
     "expansion": "B4",
@@ -99549,9 +99549,9 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1319747, 1322825, 1323593],
+    "alternate_versions": [1319747, 1322821, 1323589],
     "artist": "HACCAN",
-    "internal_id": 1323593
+    "internal_id": 1323589
   },
   {
     "expansion": "B4",
@@ -99577,7 +99577,7 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1314243, 1322505, 1323654],
+    "alternate_versions": [1314243, 1322501, 1323654],
     "artist": "Akino Fukuji",
     "internal_id": 1323654
   },
@@ -99605,7 +99605,7 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1318403, 1322761, 1323718],
+    "alternate_versions": [1318403, 1322757, 1323718],
     "artist": "Iwamoto05",
     "internal_id": 1323718
   },
@@ -100121,7 +100121,7 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1319042, 1322120, 1324872],
+    "alternate_versions": [1319042, 1322116, 1324872],
     "artist": "Souichirou Gunjima",
     "internal_id": 1324872
   },
@@ -100443,7 +100443,7 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1313922, 1321224, 1325580],
+    "alternate_versions": [1313922, 1321220, 1325580],
     "artist": "PLANETA Mamiya",
     "internal_id": 1325580
   },
@@ -100475,7 +100475,7 @@
     "baby": false,
     "set_details": "ruleroftheskies(b4)",
     "pack": "everypack",
-    "alternate_versions": [1318209, 1321928, 1325644],
+    "alternate_versions": [1318209, 1321924, 1325644],
     "artist": "PLANETA Mamiya",
     "internal_id": 1325644
   },
@@ -100975,7 +100975,7 @@
     "baby": false,
     "set_details": "promo-a",
     "pack": "everypack",
-    "alternate_versions": [71234, 464712, 728258, 743684, 12584144],
+    "alternate_versions": [71234, 464712, 728256, 743684, 12584144],
     "artist": "Sanosuke Sakuma",
     "internal_id": 12584144
   },
@@ -101809,7 +101809,7 @@
     "baby": false,
     "set_details": "promo-a",
     "pack": "everypack",
-    "alternate_versions": [199809, 206980, 727873, 805576, 12586000],
+    "alternate_versions": [199809, 206980, 727872, 805576, 12586000],
     "artist": "sui",
     "internal_id": 12586000
   },
@@ -101899,7 +101899,7 @@
     "baby": false,
     "set_details": "promo-a",
     "pack": "everypack",
-    "alternate_versions": [332033, 740545, 12586192],
+    "alternate_versions": [332033, 740544, 12586192],
     "artist": "Shigenori Negishi",
     "internal_id": 12586192
   },
@@ -102099,7 +102099,7 @@
     "baby": false,
     "set_details": "promo-a",
     "pack": "everypack",
-    "alternate_versions": [329281, 334280, 730113, 12586640],
+    "alternate_versions": [329281, 334280, 730112, 12586640],
     "artist": "OOYAMA",
     "internal_id": 12586640
   },
@@ -102551,7 +102551,7 @@
     "baby": false,
     "set_details": "promo-a",
     "pack": "everypack",
-    "alternate_versions": [460098, 730498, 805896, 12587664],
+    "alternate_versions": [460098, 730496, 805896, 12587664],
     "artist": "GIDORA",
     "internal_id": 12587664
   },
@@ -102927,7 +102927,7 @@
     "baby": false,
     "set_details": "promo-a",
     "pack": "everypack",
-    "alternate_versions": [526657, 732929, 12588496],
+    "alternate_versions": [526657, 732928, 12588496],
     "artist": "Tika Matsuno",
     "internal_id": 12588496
   },
@@ -103759,7 +103759,7 @@
     "baby": false,
     "set_details": "promo-a",
     "pack": "everypack",
-    "alternate_versions": [198018, 206788, 722882, 12590352],
+    "alternate_versions": [198018, 206788, 722880, 12590352],
     "artist": "Sekio",
     "internal_id": 12590352
   },
@@ -106151,7 +106151,7 @@
     "baby": false,
     "set_details": "promo-b",
     "pack": "everypack",
-    "alternate_versions": [1318530, 1321992, 12653776],
+    "alternate_versions": [1318530, 1321988, 12653776],
     "artist": "Shin Nagasawa",
     "internal_id": 12653776
   },

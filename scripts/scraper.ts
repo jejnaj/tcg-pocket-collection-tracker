@@ -403,6 +403,9 @@ async function extractCardInfo($: CheerioAPI, cardUrl: string, expansion: Expans
           baseExpansion = expansion.id // foils don't have linked cards (at least not yet!)
           baseCardNr = inPackId
           linked = false
+          if (rarity.includes('◊')) {
+            rarity = `${rarity}foil`
+          }
         }
       }
     }

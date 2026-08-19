@@ -4,8 +4,11 @@ import type { Rarity } from '@/types'
 export function formatRarity(rarity: Rarity) {
   switch (rarity) {
     case '◊':
+    case '◊foil':
     case '◊◊':
+    case '◊◊foil':
     case '◊◊◊':
+    case '◊◊◊foil':
     case '◊◊◊◊':
       return rarity
     case '☆':

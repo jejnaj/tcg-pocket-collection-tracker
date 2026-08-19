@@ -7,8 +7,11 @@ const expansionCards = Object.groupBy(allCards, (c) => c.expansion) as Partial<R
 // Helper to create a full rarity probability record with defaults
 const createRarityProbability = (probabilities: Partial<Record<Rarity, number>>): Record<Rarity, number> => ({
   '◊': 0,
+  '◊foil': 0,
   '◊◊': 0,
+  '◊◊foil': 0,
   '◊◊◊': 0,
+  '◊◊◊foil': 0,
   '◊◊◊◊': 0,
   '☆': 0,
   '☆☆': 0,
@@ -70,9 +73,10 @@ const deluxePackProbabilities = {
   position1: createRarityProbability({ '◊': 100 }),
   position2: createRarityProbability({ '◊': 17.73, '◊◊': 82.27 }),
   position3: createRarityProbability({
-    '◊': 23.021,
-    '◊◊': 17.985,
-    '◊◊◊': 40.659,
+    '◊foil': 23.021,
+    '◊◊foil': 17.985,
+    '◊◊◊': 31.65,
+    '◊◊◊foil': 9.009,
     '☆': 12.858,
     '☆☆': 2.5,
     '☆☆☆': 1.111,
