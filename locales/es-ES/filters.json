@@ -1,0 +1,39 @@
+{
+  "rarity": "Rareza",
+  "f-sortBy": {
+    "sortBy": "Ordenar Por",
+    "default": "ID de tarjeta",
+    "recent": "Última actualización",
+    "expansion-newest": "Expansion newest first",
+    "rarity": "Rarity",
+    "type": "Type"
+  },
+  "f-number": {
+    "numberCards": "Número de cartas deseadas",
+    "maxNum": "Número máximo de cartas",
+    "minNum": "Número mínimo de cartas"
+  },
+  "f-trading": {
+    "all": "All",
+    "wanted": "Wanted",
+    "extra": "For trade"
+  },
+  "f-ownership": {
+    "all": "All",
+    "missing": "Missing",
+    "registered": "Registered"
+  },
+  "carddex": "Card Dex",
+  "trading": "Trading",
+  "f-owned": {
+    "all": "All",
+    "owned": "Owned",
+    "missing": "Missing"
+  },
+  "f-missiontype": {
+    "all": "Todas",
+    "normal": "Normal",
+    "secret": "Secretas",
+    "complete": "Completas"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "rarity": "Rareté",
+  "f-sortBy": {
+    "sortBy": "Trier par",
+    "default": "ID de carte",
+    "recent": "Mise à jour récemment",
+    "expansion-newest": "Plus récent en premier",
+    "rarity": "Rareté",
+    "type": "Type"
+  },
+  "f-number": {
+    "numberCards": "Nombre d'exemplaire voulu",
+    "maxNum": "Nombre maximum de cartes",
+    "minNum": "Nombre minimum de cartes"
+  },
+  "f-trading": {
+    "all": "Tout",
+    "wanted": "Recherchées",
+    "extra": "À échanger"
+  },
+  "f-ownership": {
+    "all": "Tout",
+    "missing": "Manquantes",
+    "registered": "Obtenues"
+  },
+  "carddex": "Card Dex",
+  "trading": "Échanges",
+  "f-owned": {
+    "all": "Toutes",
+    "owned": "Possédées",
+    "missing": "Manquantes"
+  },
+  "f-missiontype": {
+    "all": "Toutes",
+    "normal": "Normale",
+    "secret": "Secrète",
+    "complete": "Complète"
+  }
+}

@@ -1,10 +1,9 @@
 {
   "text": {
-    "chanceToPull": "Chance de l'obtenir : {{percent}}%",
+    "chanceToPull": "Chance de l'obtenir",
     "hp": "PV",
     "cardType": "Type de carte",
     "evolutionType": "Type d'évolution",
-    "ex": "EX",
     "craftingCost": "Coût de fabrication",
     "artist": "Illustrateur",
     "setDetails": "Détails de l'extension",
@@ -15,9 +14,12 @@
     "ability": "Talent",
     "abilityEffect": "Effet du talent",
     "details": "Détails",
-    "baby": "Bébé",
-    "updated": "Actualisé",
-    "alternateVersions": "Versions alternatives"
+    "updated": "Actualisé le {{time}}",
+    "neverUpdated": "Jamais enregistré",
+    "alternateVersions": "Versions alternatives",
+    "totalAmount": "Nombre total",
+    "uncollectTooltip": "Retirer une carte ne diminue pas le nombre de cartes, mais affichera la carte comme non collectionnée.",
+    "uncollect": "Retirer"
   },
   "cardType": {
     "pokémon": "Pokémon",
@@ -30,9 +32,5 @@
     "item": "Objet",
     "tool": "Outil",
     "supporter": "Supporter"
-  },
-  "ex": {
-    "yes": "Oui",
-    "no": "Non"
   }
 }

@@ -1,19 +1,30 @@
 {
-  "publicCollectionTitle": "Vous consultez la collection publique de « {{username}} ».",
-  "publicCollectionDescription": "Vous consultez actuellement une collection publique. Cliquez sur n'importe quel élément de navigation pour retourner à votre propre collection.",
+  "goToCollection": "Aller à la collection",
+  "goToMissions": "Aller aux missions",
   "showPossibleTrades": "Afficher les échanges possibles",
   "missionDetail": {
     "eligibleCards-singular": "Liste des cartes éligibles : {{options}} option",
     "eligibleCards-plural": "Liste des cartes éligibles : {{options}} options",
-    "chanceFrom": "Chance dans {{pack}} : {{chance}}%"
+    "chanceFrom": "Chance dans {{pack}} : {{chance}}%",
+    "manuallyMarkedComplete": "Marquée manuellement comme terminée",
+    "manuallyMarkComplete": "Marquer manuellement comme terminée"
   },
   "filters": {
     "allFilters": "Tous les filtres",
-    "filtersCount": "Filtres ({{count}})",
-    "share": "Partager",
-    "clear": "Réinitialiser les filtres"
+    "filtersCount": "Filtres",
+    "clear": "Réinitialiser les filtres",
+    "share": "Partager"
   },
   "stats": {
     "summary": "{{selected}} sélectionnée(s), {{uniquesOwned}} unique(s) possédée(s), {{totalOwned}} total possédée(s)"
+  },
+  "collectionOf": "Collection de",
+  "trade": {
+    "button": "Copier le message d'échange",
+    "publicTradePage": "Page d'échange publique ",
+    "friendID": "ID d'ami(e) ",
+    "lookingForCards": "Cartes recherchées ",
+    "forTradeCards": "Cartes à échanger ",
+    "copiedInClipboard": "Cartes à échanger copiées dans le presse-papiers !"
   }
 }

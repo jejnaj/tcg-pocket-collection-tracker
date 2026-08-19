@@ -3,7 +3,6 @@
     "hp": "PS",
     "cardType": "Tipo di carta",
     "evolutionType": "Tipo di evoluzione",
-    "ex": "EX",
     "craftingCost": "Costo punti busta",
     "artist": "Artista",
     "setDetails": "Dettagli espansione",
@@ -13,7 +12,14 @@
     "retreat": "Costo di ritirata",
     "ability": "Abilità",
     "abilityEffect": "Effetto abilità",
-    "details": "Dettagli"
+    "details": "Dettagli",
+    "updated": "Aggiornato il {{time}}",
+    "neverUpdated": "Mai registrato",
+    "alternateVersions": "Versioni alternative",
+    "totalAmount": "Quantità totale",
+    "uncollectTooltip": "Scollezionare una carta non diminuisce il conteggio delle carte, ma mostrerà la carta come non collezionata.",
+    "chanceToPull": "Chance to pull",
+    "uncollect": "Uncollect"
   },
   "cardType": {
     "pokémon": "Pokémon",
@@ -26,9 +32,5 @@
     "item": "Strumento",
     "tool": "Oggetto Pokémon",
     "supporter": "Aiuto"
-  },
-  "ex": {
-    "yes": "Sì",
-    "no": "No"
   }
 }
