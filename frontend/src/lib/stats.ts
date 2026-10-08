@@ -7,8 +7,11 @@ const expansionCards = Object.groupBy(allCards, (c) => c.expansion) as Partial<R
 // Helper to create a full rarity probability record with defaults
 const createRarityProbability = (probabilities: Partial<Record<Rarity, number>>): Record<Rarity, number> => ({
   '◊': 0,
+  '◊foil': 0,
   '◊◊': 0,
+  '◊◊foil': 0,
   '◊◊◊': 0,
+  '◊◊◊foil': 0,
   '◊◊◊◊': 0,
   '☆': 0,
   '☆☆': 0,
@@ -66,18 +69,36 @@ const standardPackProbabilities = {
 }
 
 // 4-card deluxe pack probabilities
-const deluxePackProbabilities = {
+// const deluxePackProbabilities = {
+//   position1: createRarityProbability({ '◊': 100 }),
+//   position2: createRarityProbability({ '◊': 17.73, '◊◊': 82.27 }),
+//   position3: createRarityProbability({
+//     '◊foil': 23.021,
+//     '◊◊foil': 17.985,
+//     '◊◊◊': 31.65,
+//     '◊◊◊foil': 9.009,
+//     '☆': 12.858,
+//     '☆☆': 2.5,
+//     '☆☆☆': 1.111,
+//     '✵✵': 1.667,
+//     'Crown Rare': 0.198,
+//   }),
+//   position4: createRarityProbability({ '◊◊◊◊': 100 }),
+// }
+
+const deluxeMegaPackProbabilities = {
   position1: createRarityProbability({ '◊': 100 }),
   position2: createRarityProbability({ '◊': 17.73, '◊◊': 82.27 }),
   position3: createRarityProbability({
-    '◊': 23.021,
-    '◊◊': 17.985,
-    '◊◊◊': 40.659,
+    '◊foil': 21.385,
+    '◊◊foil': 19.578,
+    '◊◊◊': 33.96,
+    '◊◊◊foil': 9.03,
     '☆': 12.858,
-    '☆☆': 2.5,
-    '☆☆☆': 1.111,
+    '☆☆': 2.125,
+    '☆☆☆': 0.889,
     '✵✵': 1.667,
-    'Crown Rare': 0.198,
+    'Crown Rare': 0.158,
   }),
   position4: createRarityProbability({ '◊◊◊◊': 100 }),
 }
@@ -96,11 +117,11 @@ const probabilityPerRarityBaby: Record<Rarity, number> = createRarityProbability
   '☆': 12.9,
 })
 
-function getPositionProbability(strucutre: PackStructure, position: number): Record<Rarity, number> {
+function getPositionProbability(structure: PackStructure, position: number): Record<Rarity, number> {
   // 4-card deluxe pack
-  if (strucutre?.cardsPerPack === 4) {
-    const positionKey = `position${position}` as keyof typeof deluxePackProbabilities
-    return deluxePackProbabilities[positionKey] || standardPackProbabilities.positions1to3
+  if (structure?.cardsPerPack === 4) {
+    const positionKey = `position${position}` as keyof typeof deluxeMegaPackProbabilities
+    return deluxeMegaPackProbabilities[positionKey] || standardPackProbabilities.positions1to3
   }
 
   // 5-card standard pack
@@ -108,10 +129,10 @@ function getPositionProbability(strucutre: PackStructure, position: number): Rec
     return standardPackProbabilities.positions1to3
   }
   if (position === 4) {
-    return strucutre.containsShinies ? standardPackProbabilities.position4Shiny : standardPackProbabilities.position4
+    return structure.containsShinies ? standardPackProbabilities.position4Shiny : standardPackProbabilities.position4
   }
   if (position === 5) {
-    return strucutre.containsShinies ? standardPackProbabilities.position5Shiny : standardPackProbabilities.position5
+    return structure.containsShinies ? standardPackProbabilities.position5Shiny : standardPackProbabilities.position5
   }
 
   throw new Error('Invalid within pack pull position')
