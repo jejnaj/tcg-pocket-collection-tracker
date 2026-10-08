@@ -12,12 +12,11 @@
         "amount": 1
       }
     ],
-    "reward": "Wonder Hourglass ×12<br />Shinedust ×100<br />Shop Ticket ×2",
-    "secret": false
+    "reward": "Wonder Hourglass ×12<br />Shop Ticket ×2<br />Emblem Ticket (Mega Shine) ×1"
   },
   {
     "expansionId": "B2b",
-    "name": "Diglett on the Cliff’s Edge",
+    "name": "Diglett on the Cliff's Edge",
     "requiredCards": [
       {
         "options": ["B2b-33"],
@@ -28,8 +27,7 @@
         "amount": 1
       }
     ],
-    "reward": "Wonder Hourglass ×12<br />Shinedust ×100<br />Shop Ticket ×2",
-    "secret": false
+    "reward": "Wonder Hourglass ×12<br />Shop Ticket ×2<br />Emblem Ticket (Mega Shine) ×1"
   },
   {
     "expansionId": "B2b",
@@ -48,8 +46,7 @@
         "amount": 1
       }
     ],
-    "reward": "Wonder Hourglass ×12<br />Shinedust ×100<br />Shop Ticket ×2",
-    "secret": false
+    "reward": "Wonder Hourglass ×12<br />Shop Ticket ×2<br />Emblem Ticket (Mega Shine) ×1"
   },
   {
     "expansionId": "B2b",
@@ -64,8 +61,7 @@
         "amount": 1
       }
     ],
-    "reward": "Wonder Hourglass ×12<br />Shinedust ×100<br />Shop Ticket ×2",
-    "secret": false
+    "reward": "Wonder Hourglass ×12<br />Shop Ticket ×2<br />Emblem Ticket (Mega Shine) ×1"
   },
   {
     "expansionId": "B2b",
@@ -80,8 +76,7 @@
         "amount": 1
       }
     ],
-    "reward": "Shinedust ×500",
-    "secret": false
+    "reward": "Emblem Ticket (Mega Shine) ×5"
   },
   {
     "expansionId": "B2b",
@@ -96,8 +91,7 @@
         "amount": 1
       }
     ],
-    "reward": "Wonder Hourglass ×12<br />Shinedust ×100<br />Shop Ticket ×2",
-    "secret": false
+    "reward": "Wonder Hourglass ×12<br />Shop Ticket ×2<br />Emblem Ticket (Mega Shine) ×1"
   },
   {
     "expansionId": "B2b",
@@ -108,12 +102,11 @@
         "amount": 5
       }
     ],
-    "reward": "Wonder Hourglass ×12<br />Shinedust ×200<br />Shop Ticket ×2",
-    "secret": false
+    "reward": "Wonder Hourglass ×12<br />Shop Ticket ×2<br />Emblem Ticket (Mega Shine) ×2"
   },
   {
     "expansionId": "B2b",
-    "name": "Dratini’s Evolution",
+    "name": "Dratini's Evolution",
     "requiredCards": [
       {
         "options": ["B2b-51"],
@@ -128,8 +121,7 @@
         "amount": 1
       }
     ],
-    "reward": "Shinedust ×500",
-    "secret": false
+    "reward": "Emblem Ticket (Mega Shine) ×5"
   },
   {
     "expansionId": "B2b",
@@ -152,48 +144,156 @@
         "amount": 1
       }
     ],
-    "reward": "Shinedust ×1300",
-    "secret": false
+    "reward": "Emblem Ticket (Mega Shine) ×13"
   },
   {
     "expansionId": "B2b",
     "name": "Seeking Prey from the Shadows",
     "requiredCards": [
       {
-        "options": ["B2b-37", "B2b-100", "P-B-47"],
-        "amount": 4
-      },
-      {
         "options": ["B2b-39", "B2b-79", "B2b-114"],
         "amount": 1
+      },
+      {
+        "amount": "4",
+        "options": ["B2b-37", "B2b-100", "B2b-38", "B2b-101"]
       }
     ],
-    "reward": "Shinedust ×1300",
-    "secret": false
+    "reward": "Emblem Ticket (Mega Shine) ×13"
   },
   {
     "expansionId": "B2b",
     "name": "Shiny Radiance",
     "requiredCards": [
       {
-        "options": ["B2b-1", "B2b-87"],
+        "options": ["B2b-87"],
+        "amount": 1
+      },
+      {
+        "options": ["B2b-88"],
+        "amount": 1
+      },
+      {
+        "options": ["B2b-89"],
+        "amount": 1
+      },
+      {
+        "options": ["B2b-90"],
+        "amount": 1
+      },
+      {
+        "options": ["B2b-91"],
+        "amount": 1
+      },
+      {
+        "options": ["B2b-92"],
+        "amount": 1
+      },
+      {
+        "options": ["B2b-93"],
+        "amount": 1
+      },
+      {
+        "options": ["B2b-94"],
+        "amount": 1
+      },
+      {
+        "options": ["B2b-95"],
+        "amount": 1
+      },
+      {
+        "options": ["B2b-96"],
+        "amount": 1
+      },
+      {
+        "options": ["B2b-97"],
+        "amount": 1
+      },
+      {
+        "options": ["B2b-98"],
+        "amount": 1
+      },
+      {
+        "options": ["B2b-99"],
+        "amount": 1
+      },
+      {
+        "options": ["B2b-100"],
+        "amount": 1
+      },
+      {
+        "options": ["B2b-101"],
+        "amount": 1
+      },
+      {
+        "options": ["B2b-102"],
+        "amount": 1
+      },
+      {
+        "options": ["B2b-103"],
+        "amount": 1
+      },
+      {
+        "options": ["B2b-104"],
+        "amount": 1
+      },
+      {
+        "options": ["B2b-105"],
+        "amount": 1
+      },
+      {
+        "options": ["B2b-106"],
+        "amount": 1
+      },
+      {
+        "options": ["B2b-107"],
+        "amount": 1
+      },
+      {
+        "options": ["B2b-108"],
+        "amount": 1
+      },
+      {
+        "options": ["B2b-109"],
+        "amount": 1
+      },
+      {
+        "options": ["B2b-110"],
+        "amount": 1
+      },
+      {
+        "options": ["B2b-111"],
+        "amount": 1
+      },
+      {
+        "options": ["B2b-112"],
+        "amount": 1
+      },
+      {
+        "options": ["B2b-113"],
+        "amount": 1
+      },
+      {
+        "options": ["B2b-114"],
+        "amount": 1
+      },
+      {
+        "options": ["B2b-115"],
         "amount": 1
       }
     ],
-    "reward": "Shinedust ×700",
-    "secret": false
+    "reward": "Emblem Ticket (Mega Shine) ×7"
   },
   {
     "expansionId": "B2b",
-    "name": "Collect 3 Morpeko cards",
+    "name": "Collect 3 Morpeko",
     "requiredCards": [
       {
-        "options": ["B2b-45", "B2b-73"],
+        "options": ["B2b-45"],
         "amount": 3
       }
     ],
-    "reward": "Morpeko (profile icon)",
-    "secret": false
+    "reward": "Morpeko (profile icon)"
   },
   {
     "expansionId": "B2b",
@@ -296,8 +396,7 @@
         "amount": 1
       }
     ],
-    "reward": "Wonder Hourglass ×36<br />Pack Hourglass ×12<br />Shop Ticket ×10",
-    "secret": true
+    "reward": "Wonder Hourglass ×36<br />Pack Hourglass ×12<br />Shop Ticket ×10"
   },
   {
     "expansionId": "B2b",
@@ -324,8 +423,7 @@
         "amount": 1
       }
     ],
-    "reward": "Wonder Hourglass ×36<br />Pack Hourglass ×12<br />Shop Ticket ×10",
-    "secret": true
+    "reward": "Wonder Hourglass ×36<br />Pack Hourglass ×12<br />Shop Ticket ×10"
   },
   {
     "expansionId": "B2b",
@@ -356,8 +454,7 @@
         "amount": 1
       }
     ],
-    "reward": "Wonder Hourglass ×36<br />Pack Hourglass ×12<br />Shop Ticket ×10",
-    "secret": true
+    "reward": "Wonder Hourglass ×36<br />Pack Hourglass ×12<br />Shop Ticket ×10"
   },
   {
     "expansionId": "B2b",
@@ -372,8 +469,7 @@
         "amount": 1
       }
     ],
-    "reward": "Wonder Hourglass ×36<br />Pack Hourglass ×12<br />Shop Ticket ×10",
-    "secret": true
+    "reward": "Wonder Hourglass ×36<br />Pack Hourglass ×12<br />Shop Ticket ×10"
   },
   {
     "expansionId": "B2b",
@@ -500,7 +596,6 @@
         "amount": 1
       }
     ],
-    "reward": "Shiny Mew (emblem)",
-    "secret": true
+    "reward": "Shiny Mew (emblem)"
   }
 ]

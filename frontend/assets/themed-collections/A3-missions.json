@@ -20,8 +20,7 @@
         "amount": 1
       }
     ],
-    "reward": "Wonder Hourglass ×12<br />Shinedust ×100<br />Shop Ticket ×2",
-    "secret": false
+    "reward": "Wonder Hourglass ×12<br />Shop Ticket ×2<br />Emblem Ticket (Celestial Guardians) ×1"
   },
   {
     "expansionId": "A3",
@@ -44,8 +43,7 @@
         "amount": 1
       }
     ],
-    "reward": "Shinedust ×500",
-    "secret": false
+    "reward": "Emblem Ticket (Celestial Guardians) ×5"
   },
   {
     "expansionId": "A3",
@@ -68,8 +66,7 @@
         "amount": 1
       }
     ],
-    "reward": "Shinedust ×300",
-    "secret": false
+    "reward": "Emblem Ticket (Celestial Guardians) ×3"
   },
   {
     "expansionId": "A3",
@@ -84,8 +81,7 @@
         "amount": 1
       }
     ],
-    "reward": "Wonder Hourglass ×12<br />Shinedust ×100<br />Shop Ticket ×2",
-    "secret": false
+    "reward": "Wonder Hourglass ×12<br />Shop Ticket ×2<br />Emblem Ticket (Celestial Guardians) ×1"
   },
   {
     "expansionId": "A3",
@@ -100,8 +96,7 @@
         "amount": 1
       }
     ],
-    "reward": "Wonder Hourglass ×12<br />Shinedust ×100<br />Shop Ticket ×2",
-    "secret": false
+    "reward": "Wonder Hourglass ×12<br />Shop Ticket ×2<br />Emblem Ticket (Celestial Guardians) ×1"
   },
   {
     "expansionId": "A3",
@@ -116,8 +111,7 @@
         "amount": 1
       }
     ],
-    "reward": "Wonder Hourglass ×12<br />Shinedust ×100<br />Shop Ticket ×2",
-    "secret": false
+    "reward": "Wonder Hourglass ×12<br />Shop Ticket ×2<br />Emblem Ticket (Celestial Guardians) ×1"
   },
   {
     "expansionId": "A3",
@@ -132,8 +126,7 @@
         "amount": 1
       }
     ],
-    "reward": "Wonder Hourglass ×12<br />Shinedust ×100<br />Shop Ticket ×2",
-    "secret": false
+    "reward": "Wonder Hourglass ×12<br />Shop Ticket ×2<br />Emblem Ticket (Celestial Guardians) ×1"
   },
   {
     "expansionId": "A3",
@@ -148,8 +141,7 @@
         "amount": 1
       }
     ],
-    "reward": "Wonder Hourglass ×12<br />Shinedust ×100<br />Shop Ticket ×2",
-    "secret": false
+    "reward": "Wonder Hourglass ×12<br />Shop Ticket ×2<br />Emblem Ticket (Celestial Guardians) ×1"
   },
   {
     "expansionId": "A3",
@@ -164,13 +156,16 @@
         "amount": 1
       }
     ],
-    "reward": "Wonder Hourglass ×12<br />Shinedust ×100<br />Shop Ticket ×2",
-    "secret": false
+    "reward": "Wonder Hourglass ×12<br />Shop Ticket ×2<br />Emblem Ticket (Celestial Guardians) ×1"
   },
   {
     "expansionId": "A3",
     "name": "Kiawe and Volcano Park Pokémon",
     "requiredCards": [
+      {
+        "options": ["A3-150", "A3-192"],
+        "amount": 1
+      },
       {
         "options": ["A3-27", "A3-160"],
         "amount": 3
@@ -178,19 +173,18 @@
       {
         "options": ["A3-36"],
         "amount": 1
-      },
-      {
-        "options": ["A3-150", "A3-192"],
-        "amount": 1
       }
     ],
-    "reward": "Wonder Hourglass ×12<br />Shinedust ×200<br />Shop Ticket ×2",
-    "secret": false
+    "reward": "Wonder Hourglass ×12<br />Shop Ticket ×2<br />Emblem Ticket (Celestial Guardians) ×1"
   },
   {
     "expansionId": "A3",
     "name": "Mallow and Jungle Pokémon",
     "requiredCards": [
+      {
+        "options": ["A3-154", "A3-196"],
+        "amount": 1
+      },
       {
         "options": ["A3-14"],
         "amount": 1
@@ -206,19 +200,18 @@
       {
         "options": ["A3-80", "A3-168"],
         "amount": 1
-      },
-      {
-        "options": ["A3-154", "A3-196"],
-        "amount": 1
       }
     ],
-    "reward": "Shinedust ×300",
-    "secret": false
+    "reward": "Emblem Ticket (Celestial Guardians) ×3"
   },
   {
     "expansionId": "A3",
     "name": "Ilima and Cave Pokémon",
     "requiredCards": [
+      {
+        "options": ["A3-149", "A3-191"],
+        "amount": 1
+      },
       {
         "options": ["A3-136"],
         "amount": 2
@@ -226,21 +219,20 @@
       {
         "options": ["A3-137"],
         "amount": 2
-      },
-      {
-        "options": ["A3-149", "A3-191"],
-        "amount": 1
       }
     ],
-    "reward": "Wonder Hourglass ×12<br />Shinedust ×100<br />Shop Ticket ×2",
-    "secret": false
+    "reward": "Wonder Hourglass ×12<br />Shop Ticket ×2<br />Emblem Ticket (Celestial Guardians) ×1"
   },
   {
     "expansionId": "A3",
     "name": "Acerola and Spooky Pokémon",
     "requiredCards": [
       {
-        "options": ["A4b-43", "A3-181", "A3-199"],
+        "options": ["A3-148", "A3-190"],
+        "amount": 1
+      },
+      {
+        "options": ["A3-23", "A3-181", "A3-199"],
         "amount": 1
       },
       {
@@ -250,21 +242,20 @@
       {
         "options": ["A3-83"],
         "amount": 1
-      },
-      {
-        "options": ["A3-148", "A3-190"],
-        "amount": 1
       }
     ],
-    "reward": "Shinedust ×800",
-    "secret": false
+    "reward": "Emblem Ticket (Celestial Guardians) ×8"
   },
   {
     "expansionId": "A3",
     "name": "Lana and Waterside Pokémon",
     "requiredCards": [
       {
-        "options": ["A4b-124", "A3-184", "A3-202"],
+        "options": ["A3-152", "A3-194"],
+        "amount": 1
+      },
+      {
+        "options": ["A3-51", "A3-184", "A3-202"],
         "amount": 1
       },
       {
@@ -274,19 +265,18 @@
       {
         "options": ["A3-53"],
         "amount": 1
-      },
-      {
-        "options": ["A3-152", "A3-194"],
-        "amount": 1
       }
     ],
-    "reward": "Shinedust ×600",
-    "secret": false
+    "reward": "Emblem Ticket (Celestial Guardians) ×6"
   },
   {
     "expansionId": "A3",
     "name": "Sophocles and Electric Discharge Pokémon",
     "requiredCards": [
+      {
+        "options": ["A3-153", "A3-195"],
+        "amount": 1
+      },
       {
         "options": ["A3-61"],
         "amount": 1
@@ -298,14 +288,9 @@
       {
         "options": ["A3-67"],
         "amount": 1
-      },
-      {
-        "options": ["A3-153", "A3-195"],
-        "amount": 1
       }
     ],
-    "reward": "Shinedust ×500",
-    "secret": false
+    "reward": "Emblem Ticket (Celestial Guardians) ×5"
   },
   {
     "expansionId": "A3",
@@ -336,35 +321,37 @@
         "amount": 1
       }
     ],
-    "reward": "Wonder Hourglass ×12<br />Shinedust ×200<br />Shop Ticket ×2",
-    "secret": false
+    "reward": "Wonder Hourglass ×12<br />Shop Ticket ×2<br />Emblem Ticket (Celestial Guardians) ×2"
   },
   {
     "expansionId": "A3",
-    "name": "Team Skull’s Nasty Plot",
+    "name": "Team Skull's Nasty Plot",
     "requiredCards": [
+      {
+        "options": ["A3-151", "A3-193", "A3-208"],
+        "amount": 1
+      },
       {
         "options": ["A3-22"],
         "amount": 1
       },
       {
-        "options": ["A4b-233", "A4b-234"],
-        "amount": 1
-      },
-      {
-        "options": ["A3-151", "A3-193", "A3-208"],
-        "amount": 1
+        "amount": "1",
+        "options": ["A3-35", "A3-107", "A3-110", "A3-115"]
       }
     ],
-    "reward": "Shinedust ×100",
-    "secret": false
+    "reward": "Emblem Ticket (Celestial Guardians) ×1"
   },
   {
     "expansionId": "A3",
-    "name": "Lillie and Nebby’s Growth",
+    "name": "Lillie and Nebby's Growth",
     "requiredCards": [
       {
-        "options": ["A4b-180", "A3-171", "A4b-181", "P-A-67"],
+        "options": ["A3-155", "A3-197", "A3-209"],
+        "amount": 1
+      },
+      {
+        "options": ["A3-85", "A3-171"],
         "amount": 1
       },
       {
@@ -372,16 +359,11 @@
         "amount": 1
       },
       {
-        "options": ["A4b-259", "A3-189", "A3-207", "A3-239", "A4b-369", "B1a-101"],
-        "amount": 1
-      },
-      {
-        "options": ["A4b-348", "A3-197", "A3-209", "A4b-349", "A4b-374"],
-        "amount": 1
+        "amount": "1",
+        "options": ["A3-87", "A3-186", "A3-204", "A3-238", "A3-122", "A3-189", "A3-207", "A3-239"]
       }
     ],
-    "reward": "Shinedust ×700",
-    "secret": false
+    "reward": "Emblem Ticket (Celestial Guardians) ×7"
   },
   {
     "expansionId": "A3",
@@ -404,8 +386,7 @@
         "amount": 1
       }
     ],
-    "reward": "Shinedust ×1400",
-    "secret": false
+    "reward": "Emblem Ticket (Celestial Guardians) ×14"
   },
   {
     "expansionId": "A3",
@@ -420,7 +401,7 @@
         "amount": 1
       },
       {
-        "options": ["A4b-124", "A3-184", "A3-202"],
+        "options": ["A3-51", "A3-184", "A3-202"],
         "amount": 1
       },
       {
@@ -438,21 +419,16 @@
       {
         "options": ["A3-127"],
         "amount": 1
-      },
-      {
-        "options": ["A3-137"],
-        "amount": 1
       }
     ],
-    "reward": "Shinedust ×1200",
-    "secret": false
+    "reward": "Emblem Ticket (Celestial Guardians) ×12"
   },
   {
     "expansionId": "A3",
     "name": "An Assembly of Alolan Forms 1",
     "requiredCards": [
       {
-        "options": ["A3-2", "A3-156", "P-A-69"],
+        "options": ["A3-2", "A3-156"],
         "amount": 1
       },
       {
@@ -468,7 +444,7 @@
         "amount": 1
       },
       {
-        "options": ["A4b-130", "A3-185", "A3-203"],
+        "options": ["A3-58", "A3-185", "A3-203"],
         "amount": 1
       },
       {
@@ -488,8 +464,7 @@
         "amount": 1
       }
     ],
-    "reward": "Shinedust ×1400",
-    "secret": false
+    "reward": "Emblem Ticket (Celestial Guardians) ×14"
   },
   {
     "expansionId": "A3",
@@ -528,48 +503,44 @@
         "amount": 1
       },
       {
-        "options": ["A4b-235", "A3-188", "A3-206"],
+        "options": ["A3-111", "A3-188", "A3-206"],
         "amount": 1
       }
     ],
-    "reward": "Shinedust ×1000",
-    "secret": false
+    "reward": "Emblem Ticket (Celestial Guardians) ×10"
   },
   {
     "expansionId": "A3",
     "name": "Collect 3 Rowlet cards",
     "requiredCards": [
       {
-        "options": ["A3-9"],
-        "amount": 3
+        "amount": "3",
+        "options": ["A3-9", "A3-10"]
       }
     ],
-    "reward": "Rowlet (profile icon)",
-    "secret": false
+    "reward": "Rowlet (profile icon)"
   },
   {
     "expansionId": "A3",
     "name": "Collect 3 Litten cards",
     "requiredCards": [
       {
-        "options": ["A4b-78", "A4b-79", "B1-293"],
-        "amount": 3
+        "amount": "3",
+        "options": ["A3-30", "A3-31"]
       }
     ],
-    "reward": "Litten (profile icon)",
-    "secret": false
+    "reward": "Litten (profile icon)"
   },
   {
     "expansionId": "A3",
     "name": "Collect 3 Popplio cards",
     "requiredCards": [
       {
-        "options": ["A3-46"],
-        "amount": 3
+        "amount": "3",
+        "options": ["A3-45", "A3-46"]
       }
     ],
-    "reward": "Popplio (profile icon)",
-    "secret": false
+    "reward": "Popplio (profile icon)"
   },
   {
     "expansionId": "A3",
@@ -628,8 +599,7 @@
         "amount": 1
       }
     ],
-    "reward": "Wonder Hourglass ×36<br />Pack Hourglass ×12<br />Shop Ticket ×10",
-    "secret": true
+    "reward": "Wonder Hourglass ×36<br />Pack Hourglass ×12<br />Shop Ticket ×10"
   },
   {
     "expansionId": "A3",
@@ -653,10 +623,6 @@
       },
       {
         "options": ["A3-73"],
-        "amount": 1
-      },
-      {
-        "options": ["A3-77"],
         "amount": 1
       },
       {
@@ -688,8 +654,7 @@
         "amount": 1
       }
     ],
-    "reward": "Wonder Hourglass ×36<br />Pack Hourglass ×12<br />Shop Ticket ×10",
-    "secret": true
+    "reward": "Wonder Hourglass ×36<br />Pack Hourglass ×12<br />Shop Ticket ×10"
   },
   {
     "expansionId": "A3",
@@ -744,8 +709,7 @@
         "amount": 1
       }
     ],
-    "reward": "Wonder Hourglass ×36<br />Pack Hourglass ×12<br />Shop Ticket ×10",
-    "secret": true
+    "reward": "Wonder Hourglass ×36<br />Pack Hourglass ×12<br />Shop Ticket ×10"
   },
   {
     "expansionId": "A3",
@@ -800,8 +764,7 @@
         "amount": 1
       }
     ],
-    "reward": "Wonder Hourglass ×36<br />Pack Hourglass ×12<br />Shop Ticket ×10",
-    "secret": true
+    "reward": "Wonder Hourglass ×36<br />Pack Hourglass ×12<br />Shop Ticket ×10"
   },
   {
     "expansionId": "A3",
@@ -828,8 +791,7 @@
         "amount": 1
       }
     ],
-    "reward": "Wonder Hourglass ×36<br />Pack Hourglass ×12<br />Shop Ticket ×10",
-    "secret": true
+    "reward": "Wonder Hourglass ×36<br />Pack Hourglass ×12<br />Shop Ticket ×10"
   },
   {
     "expansionId": "A3",
@@ -856,12 +818,11 @@
         "amount": 1
       }
     ],
-    "reward": "Wonder Hourglass ×36<br />Pack Hourglass ×12<br />Shop Ticket ×10",
-    "secret": true
+    "reward": "Wonder Hourglass ×36<br />Pack Hourglass ×12<br />Shop Ticket ×10"
   },
   {
     "expansionId": "A3",
-    "name": "Lana and Wishiwashi’s School",
+    "name": "Lana and Wishiwashi's School",
     "requiredCards": [
       {
         "options": ["A3-50"],
@@ -888,12 +849,11 @@
         "amount": 1
       }
     ],
-    "reward": "Wishiwashi (emblem)",
-    "secret": true
+    "reward": "Wishiwashi (emblem)"
   },
   {
     "expansionId": "A3",
-    "name": "Guidance of the Sun and the Moon",
+    "name": "Guidance of the Sun and Moon",
     "requiredCards": [
       {
         "options": ["A3-204"],
@@ -904,7 +864,6 @@
         "amount": 1
       }
     ],
-    "reward": "Wonder Hourglass ×36<br />Pack Hourglass ×12<br />Shop Ticket ×10",
-    "secret": true
+    "reward": "Wonder Hourglass ×36<br />Pack Hourglass ×12<br />Shop Ticket ×10"
   }
 ]

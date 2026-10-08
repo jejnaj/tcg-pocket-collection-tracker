@@ -1,14 +1,14 @@
 [
   {
     "expansionId": "A4",
-    "name": "The Golden Sky, Where Ho-Oh Soars",
+    "name": "The Golden Sky, where Ho-Oh Soars",
     "requiredCards": [
       {
         "options": ["A4-15"],
         "amount": 1
       },
       {
-        "options": ["A4b-68", "A4-187", "A4-210", "A4-240", "A4b-362", "B2-226"],
+        "options": ["A4-34", "A4-187", "A4-210", "A4-240"],
         "amount": 1
       },
       {
@@ -24,7 +24,7 @@
         "amount": 1
       },
       {
-        "options": ["A4b-252", "A4-194", "A4-209"],
+        "options": ["A4-124", "A4-194", "A4-209"],
         "amount": 1
       },
       {
@@ -32,15 +32,14 @@
         "amount": 1
       }
     ],
-    "reward": "Shinedust ×1900",
-    "secret": false
+    "reward": "Emblem Ticket (Wisdom of Sea and Sky) ×19"
   },
   {
     "expansionId": "A4",
-    "name": "The Silvery Ocean, Where Lugia Dwells",
+    "name": "The Silvery Ocean, where Lugia Dwells",
     "requiredCards": [
       {
-        "options": ["A4b-92", "A4-188", "A4-203", "B2-227"],
+        "options": ["A4-43", "A4-188", "A4-203"],
         "amount": 1
       },
       {
@@ -64,23 +63,22 @@
         "amount": 1
       },
       {
-        "options": ["A4b-289", "A4-195", "A4-211", "A4-241", "A4b-371", "B2-232"],
+        "options": ["A4-149", "A4-195", "A4-211", "A4-241"],
         "amount": 1
       }
     ],
-    "reward": "Shinedust ×2000",
-    "secret": false
+    "reward": "Emblem Ticket (Wisdom of Sea and Sky) ×20"
   },
   {
     "expansionId": "A4",
-    "name": "Pokémon That Can Use Attacks Immediately",
+    "name": "Pokémon that can Use Attacks Immediately",
     "requiredCards": [
       {
-        "options": ["A4-32", "A4-166", "B2-206"],
+        "options": ["A4-32", "A4-166"],
         "amount": 1
       },
       {
-        "options": ["A4-66", "A4-171", "B2-213"],
+        "options": ["A4-66", "A4-171"],
         "amount": 1
       },
       {
@@ -100,12 +98,11 @@
         "amount": 1
       }
     ],
-    "reward": "Shinedust ×1200",
-    "secret": false
+    "reward": "Emblem Ticket (Wisdom of Sea and Sky) ×12"
   },
   {
     "expansionId": "A4",
-    "name": "Shapes That Resemble Ancient Writing",
+    "name": "Shapes that Resemble Ancient Writing",
     "requiredCards": [
       {
         "options": ["A4-84"],
@@ -116,8 +113,7 @@
         "amount": 1
       }
     ],
-    "reward": "Shinedust ×600",
-    "secret": false
+    "reward": "Emblem Ticket (Wisdom of Sea and Sky) ×6"
   },
   {
     "expansionId": "A4",
@@ -136,21 +132,24 @@
         "amount": 1
       },
       {
-        "options": ["A4-110", "A4-177"],
+        "options": ["A4-121"],
         "amount": 1
       },
       {
-        "options": ["A4-121"],
+        "options": ["A4-110", "A4-177"],
         "amount": 1
       }
     ],
-    "reward": "Shinedust ×300",
-    "secret": false
+    "reward": "Emblem Ticket (Wisdom of Sea and Sky) ×3"
   },
   {
     "expansionId": "A4",
     "name": "The Man in the Mysterious Mask",
     "requiredCards": [
+      {
+        "options": ["A4-156", "A4-196"],
+        "amount": 1
+      },
       {
         "options": ["A4-76"],
         "amount": 1
@@ -158,34 +157,28 @@
       {
         "options": ["A4-82", "A4-174"],
         "amount": 1
-      },
-      {
-        "options": ["A4-156", "A4-196"],
-        "amount": 1
       }
     ],
-    "reward": "Shinedust ×200",
-    "secret": false
+    "reward": "Emblem Ticket (Wisdom of Sea and Sky) ×2"
   },
   {
     "expansionId": "A4",
     "name": "The Steel-Clad-Defense Girl",
     "requiredCards": [
       {
-        "options": ["A4-122"],
-        "amount": 1
-      },
-      {
-        "options": ["A4b-252", "A4-194", "A4-209"],
-        "amount": 1
-      },
-      {
         "options": ["A4-160", "A4-200"],
+        "amount": 1
+      },
+      {
+        "options": ["A4-124", "A4-194", "A4-209"],
+        "amount": 1
+      },
+      {
+        "options": ["A4-122"],
         "amount": 1
       }
     ],
-    "reward": "Shinedust ×800",
-    "secret": false
+    "reward": "Emblem Ticket (Wisdom of Sea and Sky) ×8"
   },
   {
     "expansionId": "A4",
@@ -200,8 +193,7 @@
         "amount": 1
       }
     ],
-    "reward": "Shinedust ×600",
-    "secret": false
+    "reward": "Emblem Ticket (Wisdom of Sea and Sky) ×5"
   },
   {
     "expansionId": "A4",
@@ -232,12 +224,11 @@
         "amount": 2
       }
     ],
-    "reward": "Wonder Hourglass ×12<br />Shinedust ×200<br />Shop Ticket ×2",
-    "secret": false
+    "reward": "Wonder Hourglass ×12<br />Emblem Ticket (Wisdom of Sea and Sky) ×2<br />Shop Ticket ×2"
   },
   {
     "expansionId": "A4",
-    "name": "Pokémon You Meet at the National Park",
+    "name": "Pokémon you Meet at the National Park",
     "requiredCards": [
       {
         "options": ["A4-11"],
@@ -260,28 +251,26 @@
         "amount": 1
       }
     ],
-    "reward": "Wonder Hourglass ×12<br />Shinedust ×100<br />Shop Ticket ×2",
-    "secret": false
+    "reward": "Wonder Hourglass ×12<br />Emblem Ticket (Wisdom of Sea and Sky) ×1<br />Shop Ticket ×2"
   },
   {
     "expansionId": "A4",
     "name": "Journeying with a Partner and an Egg",
     "requiredCards": [
       {
-        "options": ["A4-8", "A4-162"],
-        "amount": 1
-      },
-      {
         "options": ["A4-78", "A4-173"],
         "amount": 1
       },
       {
-        "options": ["A4b-332", "A4-197", "A4b-333"],
+        "options": ["A4-157", "A4-197"],
         "amount": 1
+      },
+      {
+        "amount": "1",
+        "options": ["A4-8", "A4-162", "A4-27", "A4-165", "A4-46", "A4-167"]
       }
     ],
-    "reward": "Wonder Hourglass ×12<br />Shinedust ×100<br />Shop Ticket ×2",
-    "secret": false
+    "reward": "Wonder Hourglass ×12<br />Emblem Ticket (Wisdom of Sea and Sky) ×1<br />Shop Ticket ×2"
   },
   {
     "expansionId": "A4",
@@ -304,8 +293,7 @@
         "amount": 1
       }
     ],
-    "reward": "Shinedust ×600",
-    "secret": false
+    "reward": "Emblem Ticket (Wisdom of Sea and Sky) ×6"
   },
   {
     "expansionId": "A4",
@@ -328,12 +316,11 @@
         "amount": 1
       }
     ],
-    "reward": "Shinedust ×400",
-    "secret": false
+    "reward": "Emblem Ticket (Wisdom of Sea and Sky) ×4"
   },
   {
     "expansionId": "A4",
-    "name": "They Have Two Faces?",
+    "name": "They have Two Faces?",
     "requiredCards": [
       {
         "options": ["A4-74"],
@@ -352,8 +339,7 @@
         "amount": 1
       }
     ],
-    "reward": "Wonder Hourglass ×12<br />Shinedust ×100<br />Shop Ticket ×2",
-    "secret": false
+    "reward": "Wonder Hourglass ×12<br />Emblem Ticket (Wisdom of Sea and Sky) ×1<br />Shop Ticket ×2"
   },
   {
     "expansionId": "A4",
@@ -372,19 +358,18 @@
         "amount": 1
       }
     ],
-    "reward": "Wonder Hourglass ×12<br />Shinedust ×100<br />Shop Ticket ×2",
-    "secret": false
+    "reward": "Wonder Hourglass ×12<br />Emblem Ticket (Wisdom of Sea and Sky) ×1<br />Shop Ticket ×2"
   },
   {
     "expansionId": "A4",
     "name": "Large Horns Brimming with Charm",
     "requiredCards": [
       {
-        "options": ["A4-22", "A4-164"],
+        "options": ["A4-118"],
         "amount": 1
       },
       {
-        "options": ["A4-118"],
+        "options": ["A4-22", "A4-164"],
         "amount": 1
       },
       {
@@ -392,8 +377,7 @@
         "amount": 1
       }
     ],
-    "reward": "Shinedust ×300",
-    "secret": false
+    "reward": "Emblem Ticket (Wisdom of Sea and Sky) ×3"
   },
   {
     "expansionId": "A4",
@@ -408,8 +392,7 @@
         "amount": 1
       }
     ],
-    "reward": "Wonder Hourglass ×12<br />Shinedust ×100<br />Shop Ticket ×2",
-    "secret": false
+    "reward": "Wonder Hourglass ×12<br />Emblem Ticket (Wisdom of Sea and Sky) ×1<br />Shop Ticket ×2"
   },
   {
     "expansionId": "A4",
@@ -448,8 +431,7 @@
         "amount": 1
       }
     ],
-    "reward": "Wonder Hourglass ×12<br />Shinedust ×200<br />Shop Ticket ×2",
-    "secret": false
+    "reward": "Wonder Hourglass ×12<br />Emblem Ticket (Wisdom of Sea and Sky) ×2<br />Shop Ticket ×2"
   },
   {
     "expansionId": "A4",
@@ -488,8 +470,7 @@
         "amount": 1
       }
     ],
-    "reward": "Wonder Hourglass ×12<br />Shinedust ×200<br />Shop Ticket ×2",
-    "secret": false
+    "reward": "Wonder Hourglass ×12<br />Emblem Ticket (Wisdom of Sea and Sky) ×2<br />Shop Ticket ×2"
   },
   {
     "expansionId": "A4",
@@ -500,8 +481,7 @@
         "amount": 5
       }
     ],
-    "reward": "Meganium (profile icon)",
-    "secret": false
+    "reward": "Meganium (icon)"
   },
   {
     "expansionId": "A4",
@@ -512,8 +492,7 @@
         "amount": 5
       }
     ],
-    "reward": "Typhlosion (profile icon)",
-    "secret": false
+    "reward": "Typhlosion (icon)"
   },
   {
     "expansionId": "A4",
@@ -524,8 +503,7 @@
         "amount": 5
       }
     ],
-    "reward": "Feraligatr (profile icon)",
-    "secret": false
+    "reward": "Feraligatr (icon)"
   },
   {
     "expansionId": "A4",
@@ -540,8 +518,7 @@
         "amount": 1
       }
     ],
-    "reward": "Wonder Hourglass ×36<br />Pack Hourglass ×12<br />Shop Ticket ×10",
-    "secret": true
+    "reward": "Wonder Hourglass ×36<br />Pack Hourglass ×12<br />Shop Ticket ×10"
   },
   {
     "expansionId": "A4",
@@ -596,8 +573,7 @@
         "amount": 1
       }
     ],
-    "reward": "Wonder Hourglass ×36<br />Pack Hourglass ×12<br />Shop Ticket ×10",
-    "secret": true
+    "reward": "Wonder Hourglass ×36<br />Pack Hourglass ×12<br />Shop Ticket ×10"
   },
   {
     "expansionId": "A4",
@@ -652,8 +628,7 @@
         "amount": 1
       }
     ],
-    "reward": "Wonder Hourglass ×36<br />Pack Hourglass ×12<br />Shop Ticket ×10",
-    "secret": true
+    "reward": "Wonder Hourglass ×36<br />Pack Hourglass ×12<br />Shop Ticket ×10"
   },
   {
     "expansionId": "A4",
@@ -676,8 +651,7 @@
         "amount": 1
       }
     ],
-    "reward": "Wonder Hourglass ×36<br />Pack Hourglass ×12<br />Shop Ticket ×10",
-    "secret": true
+    "reward": "Wonder Hourglass ×36<br />Pack Hourglass ×12<br />Shop Ticket ×10"
   },
   {
     "expansionId": "A4",
@@ -700,47 +674,46 @@
         "amount": 1
       }
     ],
-    "reward": "Wonder Hourglass ×36<br />Pack Hourglass ×12<br />Shop Ticket ×10",
-    "secret": true
+    "reward": "Wonder Hourglass ×36<br />Pack Hourglass ×12<br />Shop Ticket ×10"
   },
   {
     "expansionId": "A4",
-    "name": "Smeargle’s Colorful Collection",
+    "name": "Smeargle's Colorful Collection",
     "requiredCards": [
       {
-        "options": ["A4-8", "A4-162"],
+        "options": ["A4-162", "A4-163", "A4-164", "A4-202"],
         "amount": 1
       },
       {
-        "options": ["A4-27", "A4-165"],
+        "options": ["A4-165", "A4-166"],
         "amount": 1
       },
       {
-        "options": ["A4-46", "A4-167"],
+        "options": ["A4-167", "A4-168", "A4-169", "A4-170", "A4-203"],
         "amount": 1
       },
       {
-        "options": ["A4-66", "A4-171", "B2-213"],
+        "options": ["A4-171", "A4-172", "A4-204"],
         "amount": 1
       },
       {
-        "options": ["A4-78", "A4-173"],
+        "options": ["A4-173", "A4-174", "A4-175", "A4-205"],
         "amount": 1
       },
       {
-        "options": ["A4-94", "A4-176"],
+        "options": ["A4-176", "A4-206"],
         "amount": 1
       },
       {
-        "options": ["A4-110", "A4-177"],
+        "options": ["A4-177", "A4-178", "A4-179", "A4-207", "A4-208"],
         "amount": 1
       },
       {
-        "options": ["A4-123", "A4-180"],
+        "options": ["A4-180", "A4-209"],
         "amount": 1
       },
       {
-        "options": ["A4-138", "A4-181"],
+        "options": ["A4-181", "A4-182", "A4-183", "A4-185"],
         "amount": 1
       },
       {
@@ -748,7 +721,6 @@
         "amount": 1
       }
     ],
-    "reward": "Smeargle (emblem)",
-    "secret": true
+    "reward": "Smeargle"
   }
 ]

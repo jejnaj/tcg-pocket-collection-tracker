@@ -4,52 +4,48 @@
     "name": "Untouched Forest",
     "requiredCards": [
       {
-        "options": ["A1a-52"],
-        "amount": 5
+        "amount": "5",
+        "options": ["A1a-2", "A1a-69", "A1a-8", "A1a-26", "A1a-28", "A1a-41", "A1a-52", "A1a-53", "A1a-62"]
       }
     ],
-    "reward": "Shinedust ×500<br />Untouched Forest (cover)",
-    "secret": false
+    "reward": "Emblem Ticket (Mythical Island) ×5<br />Untouched Forest (cover)"
   },
   {
     "expansionId": "A1a",
     "name": "Tranquil Lake",
     "requiredCards": [
       {
-        "options": ["A4b-96", "A4-214", "A4b-97"],
-        "amount": 7
+        "amount": "7",
+        "options": ["A1a-11", "A1a-17", "A1a-18", "A1a-76", "A1a-23", "A1a-24"]
       }
     ],
-    "reward": "Shinedust ×1300<br />Tranquil Lake (cover)",
-    "secret": false
+    "reward": "Emblem Ticket (Mythical Island) ×13<br />Tranquil Lake (cover)"
   },
   {
     "expansionId": "A1a",
     "name": "Scorching Wilderness",
     "requiredCards": [
       {
-        "options": ["A1a-15", "A1a-71"],
-        "amount": 10
+        "amount": "10",
+        "options": ["A1a-12", "A1a-14", "A1a-15", "A1a-71", "A1a-43", "A1a-50"]
       }
     ],
-    "reward": "Shinedust ×700<br />Scorching Wilderness (cover)",
-    "secret": false
+    "reward": "Emblem Ticket (Mythical Island) ×7<br />Scorching Wilderness (cover)"
   },
   {
     "expansionId": "A1a",
     "name": "Forgotten Ruins",
     "requiredCards": [
       {
-        "options": ["A1a-48"],
-        "amount": 9
-      },
-      {
         "options": ["A1a-65"],
         "amount": 1
+      },
+      {
+        "amount": "9",
+        "options": ["A1a-6", "A1a-70", "A1a-35", "A1a-48"]
       }
     ],
-    "reward": "Shinedust ×1500<br />Forgotten Ruins (cover)",
-    "secret": false
+    "reward": "Emblem Ticket (Mythical Island) ×15<br />Forgotten Ruins (cover)"
   },
   {
     "expansionId": "A1a",
@@ -64,11 +60,11 @@
         "amount": 1
       },
       {
-        "options": ["A1a-53"],
+        "options": ["A1a-14"],
         "amount": 1
       },
       {
-        "options": ["A1a-54"],
+        "options": ["A1a-29"],
         "amount": 1
       },
       {
@@ -76,36 +72,34 @@
         "amount": 1
       }
     ],
-    "reward": "Wonder Hourglass ×12<br />Shinedust ×200<br />Shop Ticket ×2",
-    "secret": false
+    "reward": "Wonder Hourglass ×12<br />Emblem Ticket (Mythical Island) ×2<br />Shop Ticket ×2"
   },
   {
     "expansionId": "A1a",
     "name": "Pokémon That Fly",
     "requiredCards": [
       {
-        "options": ["A1a-24"],
+        "options": ["A1a-24", "A1a-46"],
         "amount": 1
       },
       {
-        "options": ["A1a-36"],
+        "options": ["A1a-36", "A1a-33"],
         "amount": 1
       },
       {
-        "options": ["A1a-37"],
+        "options": ["A1a-37", "A1a-14"],
         "amount": 1
       },
       {
-        "options": ["A4b-272", "A4b-273"],
+        "options": ["A1a-57", "A1a-58", "A1a-59"],
         "amount": 1
       },
       {
-        "options": ["A1a-62"],
+        "options": ["A1a-62", "A1a-18"],
         "amount": 1
       }
     ],
-    "reward": "Wonder Hourglass ×12<br />Shinedust ×200<br />Shop Ticket ×2",
-    "secret": false
+    "reward": "Wonder Hourglass ×12<br />Emblem Ticket (Mythical Island) ×2<br />Shop Ticket ×2"
   },
   {
     "expansionId": "A1a",
@@ -116,7 +110,19 @@
         "amount": 1
       },
       {
+        "options": ["A1a-20"],
+        "amount": 1
+      },
+      {
+        "options": ["A1a-31"],
+        "amount": 1
+      },
+      {
         "options": ["A1a-34"],
+        "amount": 1
+      },
+      {
+        "options": ["A1a-32"],
         "amount": 1
       },
       {
@@ -128,12 +134,19 @@
         "amount": 1
       },
       {
+        "options": ["A1a-53"],
+        "amount": 1
+      },
+      {
         "options": ["A1a-54"],
+        "amount": 1
+      },
+      {
+        "options": ["A1a-57"],
         "amount": 1
       }
     ],
-    "reward": "Wonder Hourglass ×12<br />Shinedust ×200<br />Shop Ticket ×2",
-    "secret": false
+    "reward": "Wonder Hourglass ×12<br />Emblem Ticket (Mythical Island) ×2<br />Shop Ticket ×2"
   },
   {
     "expansionId": "A1a",
@@ -144,11 +157,11 @@
         "amount": 1
       },
       {
-        "options": ["A1a-22"],
+        "options": ["A1a-57"],
         "amount": 1
       },
       {
-        "options": ["A1a-28"],
+        "options": ["A1a-22"],
         "amount": 1
       },
       {
@@ -156,12 +169,27 @@
         "amount": 1
       },
       {
+        "options": ["A1a-37"],
+        "amount": 1
+      },
+      {
+        "options": ["A1a-28"],
+        "amount": 1
+      },
+      {
+        "options": ["A1a-30"],
+        "amount": 1
+      },
+      {
         "options": ["A1a-61"],
+        "amount": 1
+      },
+      {
+        "options": ["A1a-62"],
         "amount": 1
       }
     ],
-    "reward": "Wonder Hourglass ×12<br />Shinedust ×200<br />Shop Ticket ×2",
-    "secret": false
+    "reward": "Wonder Hourglass ×12<br />Emblem Ticket (Mythical Island) ×2<br />Shop Ticket ×2"
   },
   {
     "expansionId": "A1a",
@@ -184,8 +212,7 @@
         "amount": 1
       }
     ],
-    "reward": "Tree Of Repose (cover)",
-    "secret": false
+    "reward": "Tree of Repose (cover)"
   },
   {
     "expansionId": "A1a",
@@ -204,15 +231,7 @@
         "amount": 1
       }
     ],
-    "reward": "Wonder Hourglass ×12<br />Shinedust ×200<br />Shop Ticket ×2",
-    "secret": false
-  },
-  {
-    "expansionId": "A1a",
-    "name": "Use pack stamina to open 60 Mythical Island booster packs",
-    "requiredCards": [],
-    "reward": "Mythical Island: Mew (playmat) ×1<br />Mythical Island: Mew (card sleeve) ×1<br />Mew (pokémon coin) ×1<br />Mythical Island: Mew (cover)",
-    "secret": false
+    "reward": "Wonder Hourglass ×12<br />Emblem Ticket (Mythical Island) ×2<br />Shop Ticket ×2"
   },
   {
     "expansionId": "A1a",
@@ -223,8 +242,7 @@
         "amount": 3
       }
     ],
-    "reward": "Mew (profile icon)",
-    "secret": false
+    "reward": "Mew (icon)"
   },
   {
     "expansionId": "A1a",
@@ -235,8 +253,7 @@
         "amount": 3
       }
     ],
-    "reward": "Blue (profile icon)",
-    "secret": false
+    "reward": "Blue (icon)"
   },
   {
     "expansionId": "A1a",
@@ -267,8 +284,7 @@
         "amount": 1
       }
     ],
-    "reward": "Wonder Hourglass ×36<br />Pack Hourglass ×12<br />Shop Ticket ×10",
-    "secret": true
+    "reward": "Pack Hourglass ×12<br />Wonder Hourglass ×36<br />Shop Ticket ×10"
   },
   {
     "expansionId": "A1a",
@@ -283,8 +299,7 @@
         "amount": 1
       }
     ],
-    "reward": "Wonder Hourglass ×36<br />Pack Hourglass ×12<br />Shop Ticket ×10",
-    "secret": true
+    "reward": "Pack Hourglass ×12<br />Wonder Hourglass ×36<br />Shop Ticket ×10"
   },
   {
     "expansionId": "A1a",
@@ -295,11 +310,11 @@
         "amount": 1
       },
       {
-        "options": ["A1a-77"],
+        "options": ["A1a-83"],
         "amount": 1
       },
       {
-        "options": ["A1a-83"],
+        "options": ["A1a-77"],
         "amount": 1
       },
       {
@@ -307,19 +322,18 @@
         "amount": 1
       }
     ],
-    "reward": "Wonder Hourglass ×36<br />Pack Hourglass ×12<br />Shop Ticket ×10",
-    "secret": true
+    "reward": "Pack Hourglass ×12<br />Wonder Hourglass ×36<br />Shop Ticket ×10"
   },
   {
     "expansionId": "A1a",
     "name": "Mythical Island Tale of Adventure",
     "requiredCards": [
       {
-        "options": ["A1a-65"],
+        "options": ["A1a-66"],
         "amount": 1
       },
       {
-        "options": ["A1a-66"],
+        "options": ["A1a-65"],
         "amount": 1
       },
       {
@@ -331,7 +345,6 @@
         "amount": 1
       }
     ],
-    "reward": "Celebi (emblem)",
-    "secret": true
+    "reward": "Celebi (emblem)"
   }
 ]

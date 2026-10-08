@@ -4,6 +4,14 @@
     "name": "A Journey of Evolution That Fires Up Your Fighting Spirit",
     "requiredCards": [
       {
+        "options": ["B1-36", "B1-254", "B1-284"],
+        "amount": 1
+      },
+      {
+        "options": ["B1-223", "B1-268"],
+        "amount": 1
+      },
+      {
         "options": ["B1-33"],
         "amount": 1
       },
@@ -14,25 +22,20 @@
       {
         "options": ["B1-35"],
         "amount": 1
-      },
-      {
-        "options": ["B1-36", "B1-254", "B1-284", "B3-226"],
-        "amount": 1
-      },
-      {
-        "options": ["B1-223", "B1-268"],
-        "amount": 1
       }
     ],
-    "reward": "Shinedust ×2200",
-    "secret": false
+    "reward": "Emblem Ticket (Mega Rising) ×22"
   },
   {
     "expansionId": "B1",
-    "name": "An Immense Power That Rampages Through the Ocean",
+    "name": "An Immense Power That Rampages through the Ocean",
     "requiredCards": [
       {
-        "options": ["B1-52", "B1-255", "B1-285", "B3b-101"],
+        "options": ["B1-52", "B1-255", "B1-285"],
+        "amount": 1
+      },
+      {
+        "options": ["B1-148"],
         "amount": 1
       },
       {
@@ -46,21 +49,16 @@
       {
         "options": ["B1-76"],
         "amount": 1
-      },
-      {
-        "options": ["B1-148"],
-        "amount": 1
       }
     ],
-    "reward": "Shinedust ×1100",
-    "secret": false
+    "reward": "Emblem Ticket (Mega Rising) ×11"
   },
   {
     "expansionId": "B1",
     "name": "Bodies of Tightly Packed Fluff",
     "requiredCards": [
       {
-        "options": ["B1-15"],
+        "options": ["B1-102", "B1-259", "B1-286"],
         "amount": 1
       },
       {
@@ -68,7 +66,7 @@
         "amount": 1
       },
       {
-        "options": ["B1-102", "B1-259", "B1-286", "B3a-107"],
+        "options": ["B1-15"],
         "amount": 1
       },
       {
@@ -80,15 +78,14 @@
         "amount": 1
       }
     ],
-    "reward": "Shinedust ×1100",
-    "secret": false
+    "reward": "Emblem Ticket (Mega Rising) ×11"
   },
   {
     "expansionId": "B1",
     "name": "Rhythmic Connections",
     "requiredCards": [
       {
-        "options": ["B1-19"],
+        "options": ["B1-233"],
         "amount": 1
       },
       {
@@ -96,16 +93,15 @@
         "amount": 1
       },
       {
-        "options": ["B1-198"],
+        "options": ["B1-19"],
         "amount": 1
       },
       {
-        "options": ["B1-233"],
+        "options": ["B1-198"],
         "amount": 1
       }
     ],
-    "reward": "Shinedust ×1200",
-    "secret": false
+    "reward": "Emblem Ticket (Mega Rising) ×12"
   },
   {
     "expansionId": "B1",
@@ -124,19 +120,18 @@
         "amount": 1
       }
     ],
-    "reward": "Wonder Hourglass ×12<br />Shinedust ×100<br />Shop Ticket ×2",
-    "secret": false
+    "reward": "Wonder Hourglass ×12<br />Shop Ticket ×10"
   },
   {
     "expansionId": "B1",
     "name": "The Gallant Swords of Justice",
     "requiredCards": [
       {
-        "options": ["B1-20"],
+        "options": ["B1-70", "B1-235"],
         "amount": 1
       },
       {
-        "options": ["B1-70", "B1-235"],
+        "options": ["B1-169"],
         "amount": 1
       },
       {
@@ -144,17 +139,20 @@
         "amount": 1
       },
       {
-        "options": ["B1-169"],
+        "options": ["B1-20"],
         "amount": 1
       }
     ],
-    "reward": "Shinedust ×2200",
-    "secret": false
+    "reward": "Emblem Ticket (Mega Rising) ×22"
   },
   {
     "expansionId": "B1",
     "name": "Pokémon That Evolve from Fossils",
     "requiredCards": [
+      {
+        "options": ["B1-216"],
+        "amount": 1
+      },
       {
         "options": ["B1-66"],
         "amount": 1
@@ -164,40 +162,34 @@
         "amount": 1
       },
       {
+        "options": ["B1-214"],
+        "amount": 1
+      },
+      {
         "options": ["B1-133"],
         "amount": 1
       },
       {
         "options": ["B1-134", "B1-242"],
         "amount": 1
-      },
-      {
-        "options": ["B1-214"],
-        "amount": 1
-      },
-      {
-        "options": ["B1-216"],
-        "amount": 1
       }
     ],
-    "reward": "Shinedust ×1400",
-    "secret": false
+    "reward": "Emblem Ticket (Mega Rising) ×14"
   },
   {
     "expansionId": "B1",
     "name": "Smallest Meets Largest",
     "requiredCards": [
       {
-        "options": ["B1-57"],
+        "options": ["B1-92"],
         "amount": 1
       },
       {
-        "options": ["B1-92"],
+        "options": ["B1-57"],
         "amount": 1
       }
     ],
-    "reward": "Shinedust ×100",
-    "secret": false
+    "reward": "Emblem Ticket (Mega Rising) ×1"
   },
   {
     "expansionId": "B1",
@@ -208,40 +200,38 @@
         "amount": 1
       },
       {
-        "options": ["B1-95"],
+        "options": ["B1-201"],
         "amount": 1
       },
       {
-        "options": ["B1-201"],
+        "options": ["B1-95"],
         "amount": 1
       }
     ],
-    "reward": "Wonder Hourglass ×12<br />Shinedust ×1300<br />Shop Ticket ×2",
-    "secret": false
+    "reward": "Wonder Hourglass ×12<br />Emblem Ticket (Mega Rising) ×13<br />Shop Ticket ×2"
   },
   {
     "expansionId": "B1",
     "name": "Nice...Hat?",
     "requiredCards": [
       {
-        "options": ["B1-12"],
-        "amount": 1
-      },
-      {
         "options": ["B1-55", "B1-233"],
         "amount": 1
       },
       {
-        "options": ["B1-100"],
+        "options": ["B1-12"],
         "amount": 1
       },
       {
         "options": ["B1-149", "B1-244"],
         "amount": 1
+      },
+      {
+        "options": ["B1-100"],
+        "amount": 1
       }
     ],
-    "reward": "Shinedust ×300",
-    "secret": false
+    "reward": "Emblem Ticket (Mega Rising) ×3"
   },
   {
     "expansionId": "B1",
@@ -268,8 +258,7 @@
         "amount": 1
       }
     ],
-    "reward": "Shinedust ×1200",
-    "secret": false
+    "reward": "Emblem Ticket (Mega Rising) ×2"
   },
   {
     "expansionId": "B1",
@@ -284,16 +273,15 @@
         "amount": 1
       },
       {
-        "options": ["B1-145"],
+        "options": ["B1-173"],
         "amount": 1
       },
       {
-        "options": ["B1-173"],
+        "options": ["B1-145"],
         "amount": 1
       }
     ],
-    "reward": "Shinedust ×700",
-    "secret": false
+    "reward": "Emblem Ticket (Mega Rising) ×7"
   },
   {
     "expansionId": "B1",
@@ -308,8 +296,7 @@
         "amount": 1
       }
     ],
-    "reward": "Wonder Hourglass ×12<br />Shinedust ×200<br />Shop Ticket ×2",
-    "secret": false
+    "reward": "Wonder Hourglass ×12<br />Emblem Ticket (Mega Rising) ×2<br />Shop Ticket ×2"
   },
   {
     "expansionId": "B1",
@@ -328,8 +315,7 @@
         "amount": 1
       }
     ],
-    "reward": "Wonder Hourglass ×12<br />Shinedust ×100<br />Shop Ticket ×2",
-    "secret": false
+    "reward": "Wonder Hourglass ×12<br />Emblem Ticket (Mega Rising) ×1<br />Shop Ticket ×2"
   },
   {
     "expansionId": "B1",
@@ -344,8 +330,7 @@
         "amount": 1
       }
     ],
-    "reward": "Wonder Hourglass ×12<br />Shinedust ×100<br />Shop Ticket ×2",
-    "secret": false
+    "reward": "Wonder Hourglass ×12<br />Emblem Ticket (Mega Rising) ×1<br />Shop Ticket ×2"
   },
   {
     "expansionId": "B1",
@@ -360,29 +345,31 @@
         "amount": 1
       }
     ],
-    "reward": "Wonder Hourglass ×12<br />Shinedust ×100<br />Shop Ticket ×2",
-    "secret": false
+    "reward": "Wonder Hourglass ×12<br />Emblem Ticket (Mega Rising) ×1<br />Shop Ticket ×2"
   },
   {
     "expansionId": "B1",
     "name": "Distinctive Eyes",
     "requiredCards": [
       {
-        "options": ["B1-101"],
+        "options": ["B1-195"],
         "amount": 1
       },
       {
-        "options": ["B1-195"],
+        "options": ["B1-101"],
         "amount": 1
       }
     ],
-    "reward": "Wonder Hourglass ×12<br />Shinedust ×100<br />Shop Ticket ×2",
-    "secret": false
+    "reward": "Wonder Hourglass ×12<br />Emblem Ticket (Mega Rising) ×1<br />Shop Ticket ×2"
   },
   {
     "expansionId": "B1",
     "name": "The Kahuna Stands Strong",
     "requiredCards": [
+      {
+        "options": ["B1-222", "B1-267"],
+        "amount": 1
+      },
       {
         "options": ["B1-127"],
         "amount": 1
@@ -390,41 +377,35 @@
       {
         "options": ["B1-140"],
         "amount": 1
-      },
-      {
-        "options": ["B1-222", "B1-267"],
-        "amount": 1
       }
     ],
-    "reward": "Wonder Hourglass ×12<br />Shinedust ×100<br />Shop Ticket ×2",
-    "secret": false
+    "reward": "Wonder Hourglass ×12<br />Emblem Ticket (Mega Rising) ×1<br />Shop Ticket ×2"
   },
   {
     "expansionId": "B1",
     "name": "A Bigger Splash Than the Sea",
     "requiredCards": [
       {
+        "options": ["B1-221", "B1-266"],
+        "amount": 1
+      },
+      {
         "options": ["B1-67"],
         "amount": 1
       },
       {
-        "options": ["B1-69", "B1-234", "B3-210"],
-        "amount": 1
-      },
-      {
-        "options": ["B1-221", "B1-266"],
+        "options": ["B1-69", "B1-234"],
         "amount": 1
       }
     ],
-    "reward": "Shinedust ×1200",
-    "secret": false
+    "reward": "Emblem Ticket (Mega Rising) ×12"
   },
   {
     "expansionId": "B1",
     "name": "The Alluring, Soulful Dancer",
     "requiredCards": [
       {
-        "options": ["B1-100"],
+        "options": ["B1-224", "B1-269"],
         "amount": 1
       },
       {
@@ -432,36 +413,72 @@
         "amount": 1
       },
       {
-        "options": ["B1-224", "B1-269"],
+        "options": ["B1-100"],
         "amount": 1
       }
     ],
-    "reward": "Wonder Hourglass ×12<br />Shinedust ×200<br />Shop Ticket ×2",
-    "secret": false
+    "reward": "Wonder Hourglass ×12<br />Emblem Ticket (Mega Rising) ×2<br />Shop Ticket ×2"
   },
   {
     "expansionId": "B1",
-    "name": "Collect 1 Mega Evolution Pokémon ex card",
+    "name": "Collect 1 Mega Evolution Pokémon ex Card",
     "requiredCards": [
       {
-        "options": ["B1-36", "B1-254", "B1-284", "B3-226"],
+        "options": ["B1-2", "B1-251", "B1-272"],
+        "amount": 1
+      },
+      {
+        "options": ["B1-36", "B1-254", "B1-284"],
+        "amount": 1
+      },
+      {
+        "options": ["B1-52", "B1-255", "B1-285"],
+        "amount": 1
+      },
+      {
+        "options": ["B1-85", "B1-258", "B1-277"],
+        "amount": 1
+      },
+      {
+        "options": ["B1-102", "B1-259", "B1-286"],
+        "amount": 1
+      },
+      {
+        "options": ["B1-151", "B1-262", "B1-280"],
         "amount": 1
       }
     ],
-    "reward": "Mega Evolution PokéMon Ex (backdrop)",
-    "secret": false
+    "reward": "Mega Evolution Pokémon ex (backdrop)"
   },
   {
     "expansionId": "B1",
-    "name": "Collect 3 Mega Evolution Pokémon ex cards",
+    "name": "Collect 3 Mega Evolution Pokémon ex Card",
     "requiredCards": [
       {
-        "options": ["B1-36", "B1-254", "B1-284", "B3-226"],
-        "amount": 3
+        "amount": "3",
+        "options": [
+          "B1-2",
+          "B1-251",
+          "B1-272",
+          "B1-36",
+          "B1-254",
+          "B1-284",
+          "B1-52",
+          "B1-255",
+          "B1-285",
+          "B1-85",
+          "B1-258",
+          "B1-277",
+          "B1-102",
+          "B1-259",
+          "B1-286",
+          "B1-151",
+          "B1-262",
+          "B1-280"
+        ]
       }
     ],
-    "reward": "Mega Evolution PokéMon Ex (cover)",
-    "secret": false
+    "reward": "Mega Evolution Pokémon ex (cover)"
   },
   {
     "expansionId": "B1",
@@ -472,8 +489,7 @@
         "amount": 3
       }
     ],
-    "reward": "Froakie (profile icon)",
-    "secret": false
+    "reward": "Froakie (profile icon)"
   },
   {
     "expansionId": "B1",
@@ -484,8 +500,7 @@
         "amount": 3
       }
     ],
-    "reward": "Yamper (profile icon)",
-    "secret": false
+    "reward": "Yamper (profile icon)"
   },
   {
     "expansionId": "B1",
@@ -496,40 +511,7 @@
         "amount": 5
       }
     ],
-    "reward": "Darkrai (profile icon)",
-    "secret": false
-  },
-  {
-    "expansionId": "B1",
-    "name": "A Multitude of Mega Evolution Pokémon!",
-    "requiredCards": [
-      {
-        "options": ["B1-2", "B1-251", "B1-272"],
-        "amount": 1
-      },
-      {
-        "options": ["B1-36", "B1-254", "B1-284", "B3-226"],
-        "amount": 1
-      },
-      {
-        "options": ["B1-52", "B1-255", "B1-285", "B3b-101"],
-        "amount": 1
-      },
-      {
-        "options": ["B1-85", "B1-258", "B1-277", "B3b-103"],
-        "amount": 1
-      },
-      {
-        "options": ["B1-102", "B1-259", "B1-286", "B3a-107"],
-        "amount": 1
-      },
-      {
-        "options": ["B1-151", "B1-262", "B1-280", "B3-230", "P-B-9"],
-        "amount": 1
-      }
-    ],
-    "reward": "Wonder Hourglass ×36<br />Pack Hourglass ×12<br />Shop Ticket ×10",
-    "secret": true
+    "reward": "Darkrai (profile icon)"
   },
   {
     "expansionId": "B1",
@@ -568,8 +550,7 @@
         "amount": 1
       }
     ],
-    "reward": "Wonder Hourglass ×36<br />Pack Hourglass ×12<br />Shop Ticket ×10",
-    "secret": true
+    "reward": "Wonder Hourglass ×36<br />Pack Hourglass ×12<br />Shop Ticket ×10"
   },
   {
     "expansionId": "B1",
@@ -608,8 +589,7 @@
         "amount": 1
       }
     ],
-    "reward": "Wonder Hourglass ×36<br />Pack Hourglass ×12<br />Shop Ticket ×10",
-    "secret": true
+    "reward": "Wonder Hourglass ×36<br />Pack Hourglass ×12<br />Shop Ticket ×10"
   },
   {
     "expansionId": "B1",
@@ -648,8 +628,7 @@
         "amount": 1
       }
     ],
-    "reward": "Wonder Hourglass ×36<br />Pack Hourglass ×12<br />Shop Ticket ×10",
-    "secret": true
+    "reward": "Wonder Hourglass ×36<br />Pack Hourglass ×12<br />Shop Ticket ×10"
   },
   {
     "expansionId": "B1",
@@ -672,8 +651,7 @@
         "amount": 1
       }
     ],
-    "reward": "Wonder Hourglass ×36<br />Pack Hourglass ×12<br />Shop Ticket ×10",
-    "secret": true
+    "reward": "Wonder Hourglass ×36<br />Pack Hourglass ×12<br />Shop Ticket ×10"
   },
   {
     "expansionId": "B1",
@@ -696,8 +674,7 @@
         "amount": 1
       }
     ],
-    "reward": "Wonder Hourglass ×36<br />Pack Hourglass ×12<br />Shop Ticket ×10",
-    "secret": true
+    "reward": "Wonder Hourglass ×36<br />Pack Hourglass ×12<br />Shop Ticket ×10"
   },
   {
     "expansionId": "B1",
@@ -720,8 +697,38 @@
         "amount": 1
       }
     ],
-    "reward": "Wonder Hourglass ×36<br />Pack Hourglass ×12<br />Shop Ticket ×10",
-    "secret": true
+    "reward": "Wonder Hourglass ×36<br />Pack Hourglass ×12<br />Shop Ticket ×10"
+  },
+  {
+    "expansionId": "B1",
+    "name": "A Multitude of Mega Evolution Pokémon!",
+    "requiredCards": [
+      {
+        "options": ["B1-2", "B1-251", "B1-272"],
+        "amount": 1
+      },
+      {
+        "options": ["B1-36", "B1-254", "B1-284"],
+        "amount": 1
+      },
+      {
+        "options": ["B1-52", "B1-255", "B1-285"],
+        "amount": 1
+      },
+      {
+        "options": ["B1-85", "B1-258", "B1-277"],
+        "amount": 1
+      },
+      {
+        "options": ["B1-102", "B1-259", "B1-286"],
+        "amount": 1
+      },
+      {
+        "options": ["B1-151", "B1-262", "B1-280"],
+        "amount": 1
+      }
+    ],
+    "reward": "Wonder Hourglass ×36<br />Pack Hourglass ×12<br />Shop Ticket ×10"
   },
   {
     "expansionId": "B1",
@@ -784,7 +791,6 @@
         "amount": 1
       }
     ],
-    "reward": "Mega Pinsir (emblem)",
-    "secret": true
+    "reward": "Mega Pinsir (emblem)"
   }
 ]
