@@ -19,6 +19,8 @@ export function formatRarity(rarity: Rarity) {
       return '👑'
     case 'P':
       return 'P'
+    case 'F':
+      return 'F'
   }
   throw new Error(`Unrecognized rarity: ${rarity}`)
 }
