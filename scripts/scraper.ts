@@ -370,7 +370,7 @@ async function extractCardInfo($: CheerioAPI, cardUrl: string, expansion: Expans
   const ex = name.includes(' ex')
 
   // Check if card is a baby pokemon (Not currently specified exactly on Limitless TCG page)
-  const baby = weakness === 'none' && hp === 30 && energy !== 'dragon'
+  const baby = weakness === 'none' && hp === 30 && energy !== 'dragon' && expansion.id.startsWith('A')
 
   const pack = extractPackInfo($)
 
@@ -379,6 +379,7 @@ async function extractCardInfo($: CheerioAPI, cardUrl: string, expansion: Expans
   let baseExpansion = expansion.id
   let baseCardNr = inPackId
   let foundMyself = false
+  let foil = false
   const containsLinkedCards = expansion.packStructure?.containsLinkedCards
 
   $('table.card-prints-versions tr').each((_i, version) => {
@@ -410,6 +411,9 @@ async function extractCardInfo($: CheerioAPI, cardUrl: string, expansion: Expans
           baseExpansion = expansion.id // foils don't have linked cards (at least not yet!)
           baseCardNr = inPackId
           linked = false
+          if (rarity.includes('◊') && (expansion.id === 'A4b' || expansion.id === 'B4b')) {
+            foil = true
+          }
         }
       }
     }
@@ -439,6 +443,7 @@ async function extractCardInfo($: CheerioAPI, cardUrl: string, expansion: Expans
     rarity,
     ex,
     baby,
+    foil,
     pack,
     alternate_versions,
     artist,
